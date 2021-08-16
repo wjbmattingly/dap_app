@@ -16,6 +16,15 @@ options = st.sidebar.selectbox("Select Mode",
 with open ("data/letter_page_spans.json", "r") as f:
     page_spans = json.load(f)
 
+with open ("data/letter_header.json", "r") as f:
+    headers = json.load(f)
+
+with open ("data/letter_people.json", "r") as f:
+    letter_people = json.load(f)
+
+with open ("data/pase_keys.json", "r") as f:
+    pase_keys = json.load(f)
+
 files = glob.glob("data/cleaned_letters/*txt")
 letter_nums = []
 for file in files:
@@ -34,6 +43,37 @@ if options == "Side-by-Side Mode":
 
     clean_ep = ep_file.lstrip("0")
     col1.header(f"Letter {clean_ep} Text")
+    clean_ep = ep_file.lstrip("0")
+    letter_header = headers[clean_ep]
+
+    st.header(f"Letter {clean_ep} Text")
+    cod = letter_header["cod"]
+    ed = letter_header["ed"]
+    expand_data = col1.beta_expander("Manuscripts")
+    expand_data.write(f"Manuscripts (unvalidated): {cod}")
+
+    people = letter_people[clean_ep]
+    people_keys = []
+    all_keys = list(pase_keys.keys())
+    all_people_html = []
+    for person in people:
+        if person != "":
+            if person in all_keys:
+                k = pase_keys[person]
+                url = f"https://pase.ac.uk/jsp/DisplayPerson.jsp?personKey={k}"
+                all_people_html.append(f'<a href="{url}" target="_blank">{person}</a>')
+            else:
+                all_people_html.append(person)
+    all_html = ", ".join(all_people_html)
+
+    expand_people = col1.beta_expander("People Referenced (PASE Data)")
+    expand_people.markdown(f"People Referenced: {all_html}", unsafe_allow_html=True)
+
+
+    desc = letter_header["description"]
+    col1.write(f"Description: {desc}")
+    col1.write(letter_header["salutation"])
+    col1.write("\n")
 
     col1.write(letter)
 
@@ -62,7 +102,39 @@ elif options == "Letter Mode":
     with open (grab_file, "r", encoding="utf-8") as f:
         letter = f.read()
     clean_ep = ep_file.lstrip("0")
+    letter_header = headers[clean_ep]
+
     st.header(f"Letter {clean_ep} Text")
+    cod = letter_header["cod"]
+    ed = letter_header["ed"]
+
+
+    expand_data = st.beta_expander("Manuscripts")
+    expand_data.write(f"Manuscripts (unvalidated): {cod}")
+
+    people = letter_people[clean_ep]
+    people_keys = []
+    all_keys = list(pase_keys.keys())
+    all_people_html = []
+    for person in people:
+        if person != "":
+            if person in all_keys:
+                k = pase_keys[person]
+                url = f"https://pase.ac.uk/jsp/DisplayPerson.jsp?personKey={k}"
+                all_people_html.append(f'<a href="{url}" target="_blank">{person}</a>')
+            else:
+                all_people_html.append(person)
+    all_html = ", ".join(all_people_html)
+
+    expand_people = st.beta_expander("People Referenced (PASE Data)")
+    expand_people.markdown(f"People Referenced: {all_html}", unsafe_allow_html=True)
+
+
+    desc = letter_header["description"]
+    st.write(f"Description: {desc}")
+    # st.write(letter_header["description"])
+    st.write(letter_header["salutation"])
+    st.write("\n")
     st.write(letter)
 
 
