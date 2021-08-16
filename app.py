@@ -200,7 +200,7 @@ elif options == "NER Mode":
             if ent.text not in found_group:
                 found_group.append(ent.text)
         elif ent.label_ == "PLACE":
-            if ent.text not in found_place:
+            if ent.text not in found_places:
                 found_places.append(ent.text)
     found_people.sort()
     found_groups.sort()
