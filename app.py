@@ -32,7 +32,7 @@ for file in files:
     file = file.split("cleaned_letters_")[1].replace(".txt", "")
     ep = f"Ep. {file}"
     letter_nums.append(ep)
-
+letter_nums.sort()
 
 if options == "Side-by-Side Mode":
     add_selectbox = st.selectbox("Select Letter", letter_nums)
