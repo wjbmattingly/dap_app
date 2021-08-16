@@ -214,7 +214,7 @@ elif options == "NER Mode":
     group_html = "<br>".join(found_groups)
     group_expander.write(group_html, unsafe_allow_html=True )
 
-    place_expander = st.sidebar.beta_expander(f"Found Places  ({len(found_places)})")
+    place_expander = st.sidebar.beta_expander(f"Found Places  ({len(founds_places)})")
     place_html = "<br>".join(found_places)
     place_expander.write(place_html, unsafe_allow_html=True )
 
