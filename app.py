@@ -2,6 +2,7 @@ import streamlit as st
 import glob
 import json
 import spacy_streamlit
+import streamlit.components.v1 as components
 
 spacy_model = "models/latin_ruler_backup"
 
@@ -11,7 +12,7 @@ st.title("The Digital Alcuin Project")
 
 st.sidebar.header("Choose App Task")
 options = st.sidebar.selectbox("Select Mode",
-                    ("Letter Mode", "NER Mode", "Side-by-Side Mode"))
+                    ("Letter Mode", "NER Mode", "Side-by-Side Mode", "Alcuin's Epistolary Network", "Sources for Data"))
 
 with open ("data/letter_page_spans.json", "r") as f:
     page_spans = json.load(f)
@@ -31,9 +32,10 @@ for file in files:
     file = file.split("cleaned_letters_")[1].replace(".txt", "")
     ep = f"Ep. {file}"
     letter_nums.append(ep)
-add_selectbox = st.selectbox("Select Letter", letter_nums)
+
 
 if options == "Side-by-Side Mode":
+    add_selectbox = st.selectbox("Select Letter", letter_nums)
     col1, col2 = st.beta_columns(2)
     ep_file = add_selectbox.split(".")[1].strip()
     grab_file = f"data/cleaned_letters/cleaned_letters_{ep_file}.txt"
@@ -97,6 +99,7 @@ if options == "Side-by-Side Mode":
 
 
 elif options == "Letter Mode":
+    add_selectbox = st.selectbox("Select Letter", letter_nums)
     ep_file = add_selectbox.split(".")[1].strip()
     grab_file = f"data/cleaned_letters/cleaned_letters_{ep_file}.txt"
     with open (grab_file, "r", encoding="utf-8") as f:
@@ -139,6 +142,7 @@ elif options == "Letter Mode":
 
 
 if options == "NER Mode":
+    add_selectbox = st.selectbox("Select Letter", letter_nums)
     ep_file = add_selectbox.split(".")[1].strip()
     grab_file = f"data/cleaned_letters/cleaned_letters_{ep_file}.txt"
     with open (grab_file, "r", encoding="utf-8") as f:
@@ -152,7 +156,14 @@ if options == "NER Mode":
     )
 
 
+if options == "Alcuin's Epistolary Network":
+    with open ("data/alcuin_all_letters.html", 'r', encoding='utf-8') as f:
+        source_code = f.read()
+    components.html(source_code, height = 1200,width=1000)
 
+
+if options == "Sources for Data":
+    st.write("All Persons, Prosopography of Anglo-Saxon England, http://www.pase.ac.uk, accessed 15 August 2021.")
 
 
 
