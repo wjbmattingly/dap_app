@@ -201,7 +201,7 @@ elif options == "NER Mode":
                 found_group.append(ent.text)
         elif ent.label_ == "PLACE":
             if ent.text not in found_place:
-                found_place.append(ent.text)
+                found_places.append(ent.text)
     found_people.sort()
     found_groups.sort()
     found_places.sort()
@@ -214,7 +214,7 @@ elif options == "NER Mode":
     group_html = "<br>".join(found_groups)
     group_expander.write(group_html, unsafe_allow_html=True )
 
-    place_expander = st.sidebar.beta_expander(f"Found Places  ({len(founds_places)})")
+    place_expander = st.sidebar.beta_expander(f"Found Places  ({len(found_places)})")
     place_html = "<br>".join(found_places)
     place_expander.write(place_html, unsafe_allow_html=True )
 
