@@ -48,7 +48,6 @@ if options == "Side-by-Side Mode":
     clean_ep = ep_file.lstrip("0")
     letter_header = headers[clean_ep]
 
-    st.header(f"Letter {clean_ep} Text")
     cod = letter_header["cod"]
     ed = letter_header["ed"]
     expand_data = col1.beta_expander("Manuscripts")
@@ -141,7 +140,7 @@ elif options == "Letter Mode":
     st.write(letter)
 
 
-if options == "NER Mode":
+elif options == "NER Mode":
     add_selectbox = st.selectbox("Select Letter", letter_nums)
     ep_file = add_selectbox.split(".")[1].strip()
     grab_file = f"data/cleaned_letters/cleaned_letters_{ep_file}.txt"
@@ -156,13 +155,13 @@ if options == "NER Mode":
     )
 
 
-if options == "Alcuin's Epistolary Network":
+elif options == "Alcuin's Epistolary Network":
     with open ("data/alcuin_all_letters.html", 'r', encoding='utf-8') as f:
         source_code = f.read()
     components.html(source_code, height = 1200,width=1000)
 
 
-if options == "Sources for Data":
+elif options == "Sources for Data":
     st.write("All Persons, Prosopography of Anglo-Saxon England, http://www.pase.ac.uk, accessed 15 August 2021.")
 
 
