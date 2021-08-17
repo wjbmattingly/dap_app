@@ -47,12 +47,12 @@ if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side
 
     letter_data = df.loc[df['letter_num'] == f"Ep. {ep_file}"]
 
-    cleaned_mss = st.expander("Manuscripts")
+    cleaned_mss = st.sidebar.expander("Manuscripts")
 
     cleaned_mss.write(letter_data.iloc[0]["valid_mss"])
 
 
-    expand_data = st.expander("Manuscripts OCR")
+    expand_data = st.sidebar.expander("Manuscripts OCR")
     expand_data.write(f"Manuscripts (unvalidated): "+ letter_data.iloc[0]["mss_ocr"])
 
     people = literal_eval(letter_data.iloc[0]["pase_refs"])
@@ -68,10 +68,10 @@ if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side
         n=n+1
     all_html = ", ".join(all_people_html)
 
-    expand_people = st.expander("People Referenced (PASE Data)")
+    expand_people = st.sidebar.expander("People Referenced (PASE Data)")
     expand_people.markdown(f"People Referenced: {all_html}", unsafe_allow_html=True)
 
-    expand_data = st.expander("Dates")
+    expand_data = st.sidebar.expander("Dates")
     expand_data.write(f"MGH Date: "+ letter_data.iloc[0]["mgh_date"])
 
     if options == "Letter Mode" or options == "NER Mode":
