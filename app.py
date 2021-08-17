@@ -80,7 +80,7 @@ if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side
         st.write("\n")
 
 if options == "Side-by-Side Mode":
-    col1, col2 = st.beta_columns(2)
+    col1, col2 = st.columns(2)
     col1.header(f"Letter {ep_file} Text")
     desc = letter_data.iloc[0]["description"]
     col1.write(f"Description: {desc}")
