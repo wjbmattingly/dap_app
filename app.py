@@ -47,12 +47,12 @@ if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side
 
     letter_data = df.loc[df['letter_num'] == f"Ep. {ep_file}"]
 
-    cleaned_mss = st.beta_expander("Manuscripts")
+    cleaned_mss = st.expander("Manuscripts")
 
     cleaned_mss.write(letter_data.iloc[0]["valid_mss"])
 
 
-    expand_data = st.beta_expander("Manuscripts OCR")
+    expand_data = st.expander("Manuscripts OCR")
     expand_data.write(f"Manuscripts (unvalidated): "+ letter_data.iloc[0]["mss_ocr"])
 
     people = literal_eval(letter_data.iloc[0]["pase_refs"])
@@ -67,7 +67,7 @@ if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side
         all_people_html.append(f'<a href="{url}" target="_blank">{person}</a>')
     all_html = ", ".join(all_people_html)
 
-    expand_people = st.beta_expander("People Referenced (PASE Data)")
+    expand_people = st.expander("People Referenced (PASE Data)")
     expand_people.markdown(f"People Referenced: {all_html}", unsafe_allow_html=True)
     if options == "Letter Mode" or options == "NER Mode":
         desc = letter_data.iloc[0]["description"]
@@ -129,7 +129,7 @@ if options == "Side-by-Side Mode":
                     scrip_refs.append(d)
 
 
-    scrip_expander = st.sidebar.beta_expander(f"Scripture References ({len(scrip_refs)})")
+    scrip_expander = st.sidebar.expander(f"Scripture References ({len(scrip_refs)})")
     refs_html = "<br>".join(scrip_refs)
     scrip_expander.write(refs_html, unsafe_allow_html=True)
 
@@ -190,15 +190,15 @@ elif options == "NER Mode":
     found_groups.sort()
     found_places.sort()
 
-    person_expander = st.sidebar.beta_expander(f"Found People ({len(found_people)})")
+    person_expander = st.sidebar.expander(f"Found People ({len(found_people)})")
     person_html = "<br>".join(found_people)
     person_expander.write(person_html, unsafe_allow_html=True )
 
-    group_expander = st.sidebar.beta_expander(f"Found Groups ({len(found_groups)})")
+    group_expander = st.sidebar.expander(f"Found Groups ({len(found_groups)})")
     group_html = "<br>".join(found_groups)
     group_expander.write(group_html, unsafe_allow_html=True )
 
-    place_expander = st.sidebar.beta_expander(f"Found Places  ({len(found_places)})")
+    place_expander = st.sidebar.expander(f"Found Places  ({len(found_places)})")
     place_html = "<br>".join(found_places)
     place_expander.write(place_html, unsafe_allow_html=True )
 
