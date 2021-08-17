@@ -18,11 +18,11 @@ visualizers = ["entity_ruler"]
 st.image("header.png")
 
 st.sidebar.image("logo.png")
-st.sidebar.write("<b>Disclaimer</b>: This App is in Alpha Testing.<br>It is currently at version <b>0.0.4</b>.<br>Much of the data remains to be manually validated.", unsafe_allow_html=True)
+st.sidebar.write("<b>Disclaimer</b>: This App is in Alpha Testing.<br>It is currently at version <b>0.0.5</b>.<br>Much of the data remains to be manually validated.", unsafe_allow_html=True)
 st.sidebar.header("Choose App Task")
 
 options = st.sidebar.selectbox("Select Mode",
-                    ("Letter Mode", "NER Mode", "Side-by-Side Mode", "Alcuin's Epistolary Network", "Textual Network", "Database Mode", "About Project", "Sources for Data"))
+                    ("Letter Mode", "NER Mode", "Side-by-Side Mode", "Alcuin's Epistolary Network", "Textual Network", "Database Mode", "About Project", "How to Contribute", "Sources for Data", "Version History"))
 
 if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side Mode":
     with open ("data/scrip_refs_pages_clean.json", "r") as f:
@@ -38,7 +38,7 @@ if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side
     letter_nums.sort()
     add_selectbox = st.selectbox("Select Letter", letter_nums)
 
-    df = pd.read_csv("data/dap_dataset.csv")
+    df = pd.read_json("data/dap_dataset.json")
 
     ep_file = add_selectbox.split(".")[1].strip()
     grab_file = f"data/cleaned_letters/cleaned_letters_{ep_file}.txt"
@@ -65,6 +65,7 @@ if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side
         k = keys[n]
         url = f"https://pase.ac.uk/jsp/DisplayPerson.jsp?personKey={k}"
         all_people_html.append(f'<a href="{url}" target="_blank">{person}</a>')
+        n=n+1
     all_html = ", ".join(all_people_html)
 
     expand_people = st.expander("People Referenced (PASE Data)")
@@ -218,7 +219,7 @@ elif options == "Textual Network":
 elif options == "Database Mode":
     st.write("Welcome to the database. Here you can search and find all letters that reference a specific person or you can find all letters that are preserved in a specific manuscript. You can select multiple options. If Strict Search On is selected, all conditions must be True for a result to populate. If it is not selected, then any of the conditions can be true.")
     st.header("Database Mode")
-    df = pd.read_csv("data/dap_dataset.csv")
+    df = pd.read_json("data/dap_dataset.json")
     df = df.fillna(" ")
     manuscripts = list(df["valid_mss"])
 
@@ -289,8 +290,13 @@ elif options == "Sources for Data":
     st.write("All Persons, Prosopography of Anglo-Saxon England, http://www.pase.ac.uk, accessed 15 August 2021.")
 
 
+elif options == "Version History":
+    with open ("version_history.md", "r") as f:
+        version = f.read()
+    st.markdown(version)
 
-
+elif options == "How to Contribute":
+    st.write("If you are currently using the Digital Alcuin project and notice incorrect OCR or areas where you can submit manual validation, please make a pull request via GitHub or reach out to me via e-mail, wma229@g.uky.edu")
 
 
 #
