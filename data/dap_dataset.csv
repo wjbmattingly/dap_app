@@ -1,0 +1,839 @@
+letter_num,description,mss_ocr,edition,salutation,valid_mss,text,pase_refs,pase_keys,scripture_ref,start_page,end_page
+Ep. 001,"Alcvinus amicum in monasterium se abditurum confirmat. De Benedicto monacho.
+773—786.
+
+","Cod. H fol, 61'—62"".","Ed , F 211, J. 8, — Migne col. 485.",DILECTISSIMO AMICO TOTIUS PROSPERITATIS PRAESENTIS ET AETERNAE BEATITUDINIS PERPETUAM SALUTEM.,H,True,"['Alcuin 1', 'Anonymous 733', 'Benedict 5']","['1142', '9807', '9808']",NEEDS MANUAL VALIDATION,18,18
+Ep. 002,Alcuinus Leutfredum episcopum coennobii Mugensis in Hibernia solatur et confirmat. De Benedicto monacho.,H. fol. 63-63.,"Edd. F 208, J 7 - Migne col. 493",SANCTISSIMO PATRI ET AMANTISSIMO FILIO LEUTFREDO EPISCOPO ALBINUS SALUTEM.,H,True,"['Leothfrith 1', 'Alcuin 1', 'Benedict 6']","['9809', '1142', '9810']",NEEDS MANUAL VALIDATION,19,19
+Ep. 003,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,,False,,,NEEDS MANUAL VALIDATION,19,29
+Ep. 004,"Alevinus Riculfum Moguntiacensem archiepiscopum multa admonet eiusque litteras
+exoptat. (ce. 787.)
+
+",Cod. H fol. 18 — 18'.,"Ed . F 181, J 12.— Migne col. 356.",DAMOETE PISCATORI MAGNO ALBINUS SALUTEM.,H,True,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,29,30
+Ep. 005,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, K1, K2, A1, A1*",False,"['Felix 4', 'Alcuin 1']","['1172', '1142']",NEEDS MANUAL VALIDATION,30,31
+Ep. 006,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*",False,"['Willehad 1', 'Alcuin 1', 'Anonymous 734', 'Anonymi 1982']","['2012', '1142', '9811', '10085']",NEEDS MANUAL VALIDATION,31,31
+Ep. 007,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*, A2",False,"['Colchu 1', 'Alcuin 1', 'Charlemagne 1', 'Offa 7', 'Anonymi 1847', 'Joseph 2', 'Anonymi 1844', 'Anonymi 1845', 'Anonymi 1848', 'Anonymi 1849', 'Anonymi 1850', 'Areida 1']","['9813', '1142', '247', '305', '9820', '9816', '9814', '9818', '9821', '9822', '9824', '9823']",NEEDS MANUAL VALIDATION,31,33
+Ep. 008,"Alevinus Iosepho significat se propter Aethelredum nuper regem Northanhumbrorum
+faclum in Britannia retardari. De Caroli I regis Francorum rebus gestis nunciari sibi
+cupit. Varia mandata dat. De Colcu magistro adit. 790 exeunte anno.
+
+","Codd. A 1 fol. 7—8, A2 fol. 165'— 166, A1 p. 9 — 10 n. 48,",Ed . J 16. Initium epistolae habetur ap. Willem. Malmesbur. gest. reg. Anglor. 1. I § 72 p. 7.,FLACCUS ALBINUS FILIO IOSEPHO SALUTEM.,"A1, A2, A1*",True,"['Alcuin 1', 'Eanfrith 6', 'Berdic 1', 'Uinter 1', 'Joseph 2', 'Æthelred 7', 'Æthelwald 14', 'Charlemagne 1', 'Anonymi 1852', 'Anonymi 1853', 'Anonymi 1854', 'Anonymi 1855', 'Colchu 1', 'Anonymi 1851', 'Oduin 1', 'Frotgoneg 1', 'Rufus 1', 'Brorda 4']","['1142', '9828', '9830', '9837', '9816', '2127', '3752', '247', '9832', '9835', '9836', '9838', '9813', '9831', '9827', '9829', '9833', '9834']",NEEDS MANUAL VALIDATION,33,34
+Ep. 009,"Alevinus Adalhardo abbati Corbeiae antiquae respondet de suo erga eum amore; de
+Aethelredo, novo Northanhumbrorum rege; de pace Caroli et Offae regum componenda;
+
+Angilberto abbati S. Richarii Centulensi salutem mittit. 790 exeunte anno.
+","Codd. A1 fol. 9'—11, A 1 p. 14—15 n. 8%",Ed . J 17.,. J 17. DILECTISSIMO IN CHRISTO FRATRI ADALHARDO HUMILIS TUUS GERMANUS ALCVINUS -SALUTEM.,"A1, A1*",True,"['Adalhard 1', 'Alcuin 1', 'Æthelred 7', 'Charlemagne 1', 'Offa 7', 'Etuuit 1', 'Angilberct 1', 'George 2', 'Anonymi 1856', 'Bernher 1', 'Anonymi 1859']","['9839', '1142', '2127', '247', '305', '9842', '9973', '9841', '9843', '9840', '9846']",NEEDS MANUAL VALIDATION,34,35
+Ep. 010,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*, A1, A2, A1*",False,"['Arno 1', 'Alcuin 1', 'Æthelred 7', 'Laedred 1']","['9847', '1142', '2127', '9848']",NEEDS MANUAL VALIDATION,35,37
+Ep. 011,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, S1a, S1b, S1*, K1, K2, A1, A1*",False,"['Angilberct 1', 'Alcuin 1']","['9973', '1142']",NEEDS MANUAL VALIDATION,37,37
+Ep. 012,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, K1, K2, S1, D",False,"['Anonymi 1860', 'Fordrad 1', 'Alcuin 1']","['9849', '9850', '1142']",NEEDS MANUAL VALIDATION,37,38
+Ep. 013,"Alevinus de Ricbodi archiepiscopi Trevirensis quondam discipuli sui absentia et de
+intermisso litterarum commercio conqueritur. Reprehendit in eo nimium amorem Maronis.
+ce. 791—792,
+","Codd. T fol. 58‘ —59 (T fol. 58'— 54), K 1 fol. 30— 31', K2 p. 88—92, Sita fol. 131'—182', b fol. 187—188' (S1 fol. 30—33, 115—116), A1 fol. 86, A1 p. 98 — 99 mr. 645,","Ed , C17. 18, Q.34, F 129, J 216 — Migne col. 440.","PIO PATRID ET AMICO CARISSIMO MACHARIO, MONACHO ET PONTIFICI4!, FLACCUS ALBINUS IN CARITATE CHRISTI SALUTEM.","T, T*, K1, K2, S1a, S1b, S1*, A1, A1*",True,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,38,40
+Ep. 014,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T*, Q, K1, K2, A1*",False,"['Joseph 2', 'Alcuin 1']","['9816', '1142']",NEEDS MANUAL VALIDATION,40,40
+Ep. 015,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Gisla 1', 'Alcuin 1']","['1208', '1142']",NEEDS MANUAL VALIDATION,40,42
+Ep. 016,"Alevinus Aethelredum regem Northanhumbrorum eiusque optimates propter ecclesiam
+sancti_ Cuthberti Lindisfarnensem a Nortmannis vastatam, ut cum virtute vivant, hortatur.
+793 post Iun. 8.
+
+","Codd. (A1 fol. 34837), A1 p. 89-42 mr, 28, A2 fol. 123'—127'. Fragmenta huius epistolae ‘Ecce — exordium.’ ‘Quid — populum’ leguntur etiam apud Willelm. Malmesbir. Gesta veg. Anglor. 2. I § 70 p. 73; pontif. Anglor. 1. III p. 268. 209 ed. Hamilton. Partem (Iicce trecenti —in luctum. Considerate — pro ornamentis) nonnullis additis habet cod. Cantabrig. collegii corpus Christi 190 s. XI fol. 140—142 (Londin. Harleian. 438 f. 145'), quem mihi descripsit V. Cl. R. Harmer bibliothecarius.","Ed , F' 12, Haddan and Stubbs Councils III, 492—95, J 22. — Migne col. 161.",DOMINO DILECTISSIMO AEDELREDO REGI ET OMNIBUS OPTIMATIBUS EIUS HUMILIS LEVITA ALCHVINE> SALUTEM.,"A1, A1*, A2",True,"['Alcuin 1', 'Æthelred 7', 'Anonymi 1861', 'Anonymi 1862', 'Anonymi 1864', 'Anonymi 1866', 'Paulinus 1', 'Anonymi 1863', 'Ælfwald 7', 'Anonymi 1865', 'Cuthbert 1']","['1142', '2127', '9852', '9853', '9858', '9860', '862', '9854', '7250', '9859', '930']",NEEDS MANUAL VALIDATION,42,45
+Ep. 017,"Alevinus Aethelhardum archiepiscopum Cantuariensem ex Nortmannorum in Bri-
+tanniam irruptione ad concordiam cum ceteris episcopis habendam hominesque intrepide
+corrigendos adhortatur. 793 post Iun. 8.
+
+","Codd. T fol. 48—51 (T fol. 44—47'), K1 fol. 8—7, K2 p. 2-18, Q fol. 118—119', S1 fol. 163—167' (S1 fol. 77'—80), (A1 fol. 68—72), A1 p. 75—80' nr. 51 A2 fol. 140'—146'. Exstat etiam in codd. Collegii corpus Christi Cantabrig. s. XI 190 fol. 173—179 et 265 f. 7—13 (Nasmith Catal. codd. 270. 310). Fragmentum habet Willelm. Malmesbir. Gesta reg. Anglor. I § 70 p. 74%.","Ed . C1, Q 28 (cf. col. 1718), F' 9, Haddan and Stubbs Councils ITI, 478, J 28. — Migne col. 152,",PIO PATRI ET SANCTAE SEDIS PRAESULI AEDILHARDO? ARCHIEPISCOPO ' HUMILIS LEVITA ALBINUS¢ SALUTEM.,"T, T*, K1, K2, Q, S1, S1*, A1, A1*, A2",True,"['Alcuin 1', 'Æthelheard 13', 'Gildas 1']","['1142', '2121', '9862']",NEEDS MANUAL VALIDATION,45,49
+Ep. 018,"Alevinus Aethelredum regem Northanhumbrorum eiusque principes denuo ad vir-
+tutem vocat. 793 post Iun. 8.
+
+","Codd. T' fol. 51—54 (T fol. 47'—49), K1 fol. 7—11', K2 p, 19-32, S1 fol. 167'--172 (S1 fol. 88-93), A2 fol. 113—117', A1 p. 28--32 n. 24%, Fragmentum exstat in codice Q.","Ed . Q29, C2, F' 10, Haddan and Stubbs Councils ITT, 488—492, J 23. — Migne col. 157.",EXCELLENTISSIMO> FILIO¢ AEDELREDO4 REGI ET AMICIS DULCISSIMIS OSBALDO PATRICIO! AETERNAE BEATITUDINIS SALUTEM.,"T, K1, K2, S1, S1*, A2, A1*",True,"['Alcuin 1', 'Æthelred 7', 'Osbald 1', 'Osberht 3', 'Anonymi 1867', 'Anonymi 1862', 'Cuthbert 1']","['1142', '2127', '9863', '9864', '9865', '9853', '930']",NEEDS MANUAL VALIDATION,49,56
+Ep. 019,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, L2, S1, A1, A2, A1*, Q, D",False,"['Alcuin 1', 'Anonymi 1868', 'Biscop 2', 'Ceolfrith 1', 'Anonymi 1862', 'Anonymi 1869', 'Gregory 1', 'Bede 1', 'Anonymi 1870', 'Cuthbert 1']","['1142', '9866', '926', '1045', '9853', '9869', '280', '424', '9871', '930']",NEEDS MANUAL VALIDATION,56,56
+Ep. 020,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A2, A1, S1",False,"['Alcuin 1', 'Hygebald 3', 'Anonymi 1871', 'Anonymi 1862', 'Anonymi 1872', 'Charlemagne 1', 'Cuthbert 1', 'Anonymi 1866', 'Anonymi 1873']","['1142', '3540', '9873', '9853', '9874', '247', '930', '9860', '9876']",NEEDS MANUAL VALIDATION,56,58
+Ep. 021,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*",False,"['Alcuin 1', 'Hygebald 3', 'Anonymi 1871', 'Cuthbert 1']","['1142', '3540', '9873', '930']",NEEDS MANUAL VALIDATION,58,59
+Ep. 022,"Alevinus Cudrado presbytero Lindisfarnensi e manibus Northmannorum erepto
+gratulatur. Monet, ut vitam solitariam agat et pro se precetur. 793 post Iun. 8.
+
+",Cod. H fol. 11—11's.,"Ed . F 163, J 26. — Migne col. 144.",VENERANDO PATRI CUDRADO PRESBITERO ALCHVINUS DIACONUS> SALUTEM.,H,True,"['Cuthrad 1', 'Anonymi 1862', 'Alcuin 1', 'Buitta 1', 'Cuthbert 1', 'Anonymi 1871']","['9877', '9853', '1142', '9878', '930', '9873']",NEEDS MANUAL VALIDATION,59,60
+Ep. 023,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,S,False,"['Felix 4', 'Alcuin 1', 'Gregory 1']","['1172', '1142', '280']",NEEDS MANUAL VALIDATION,60,65
+Ep. 024,"Alevinus Hygbaldo episcopo Lindisfarnensi scribit-de mutua amicitia. Candidum
+praeterito anno retentum remittit; quem, si discendi causa iterum venerit, a sese amplius
+doctum iri promittit. 7942
+
+","Codd. A1 fol. 59'—60, A1 p. 65—66 n, 44%.",Ed J3.,DOMINO IN CHRISTO DILECTO HYGBALDO EPISCOPO ALCHVINUS HUMILIS LEVITA SALUTEM.,"A1, A1*",True,"['Hygebald 3', 'Alcuin 1', 'Candidus 2', 'Anonymi 1871']","['3540', '1142', '12979', '9873']",NEEDS MANUAL VALIDATION,65,66
+Ep. 025,"Alevinus Riculfo, cum Carolo rege in Saxonia moranti, bene precatur. Refert de
+Angilberto, de Candido, de Martino, de Mopso. 794?
+
+","Codd. T fol. 95'—96, K 1 fol. 64'—65', K 2 p. 185—187, A1 p. 129—180 n. 88%,","Ed . C 47, Q.93, F'39, J 4. — Migne col. 210.",FLACCUS» ALBINUS FLAVIO DAMOETAE' FILIO CARISSIMO SALUTEM.,"T*, K1, K2, A1*",True,"['Alcuin 1', 'Candidus 2']","['1142', '12979']",NEEDS MANUAL VALIDATION,66,67
+Ep. 026,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T*, K1, K2, Q, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,67,68
+Ep. 027,"Alevinus ab Adriano papa petit, ut sibi peccata ignoscat. Angilbertum, Caroli regis
+Francorum legatum, laudat, 794 Tul. Aug.
+
+","Codd, T fol. 73-74, K 1 fol. 47—48', K2 p. 140—148, A1 p. 112—113 n. 71%.","Ed . C28, Q63, F 15, J 32. — Migne col, 170.","BEATISSIMO ET OMNI HONORE DIGNISSIMO ET PONTIFICI MAGNO ADRIANO> PAPAE!, HUMILLI- MUS OMNIUM SANCTAE ECCLESIAE FILIORUM ALBINUS AETERNAE BEATITUDINIS¢ SALUTEM.","T*, K1, K2, A1*",True,"['Hadrian 3', 'Charlemagne 1', 'Alcuin 1']","['7258', '247', '1142']",NEEDS MANUAL VALIDATION,68,69
+Ep. 028,"Alevinus Paulino patriarchae Aquileiensi scribit de suo erga eum amore. Rogat
+ut pro se precetur reliquiasque sanctorum sibi mittat. Monet, ut muneris suscepti officia
+exsequatur. ce. 789—795.
+
+","Codd. A1 fol. 11, A 1 p. 16 n.9, Ki fol. 77'—78', K 2 p. 222—2248,","Ed , Q 113, se F 36, J 11. — Migne col. 202.",PAULINO SANCTISSIMO PATRIARCHAE’ HUMILIS LEVITA ALCVINUS> SALUTEM.,"A1, A1*, K1, K2",True,"['Paulinus 2', 'Alcuin 1']","['3528', '1142']",NEEDS MANUAL VALIDATION,69,71
+Ep. 029,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*",False,"['Pippin 3', 'Alcuin 1']","['3496', '1142']",NEEDS MANUAL VALIDATION,71,71
+Ep. 030,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, S1, S1*, A1, A1*, A2",False,"['Æthelred 7', 'Alcuin 1', 'Anonymi 1874', 'Anonymi 1875']","['2127', '1142', '9880', '9881']",NEEDS MANUAL VALIDATION,71,72
+Ep. 031,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, S1, S1*, A1, A1*, D",False,"['Æthelberht 10', 'Anonymi 1876', 'Alcuin 1', 'Anonymi 1877']","['7243', '9883', '1142', '9884']",NEEDS MANUAL VALIDATION,72,73
+Ep. 032,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,"T, T*",True,"['Gisla 1', 'Richtrud 1', 'Alcuin 1']","['1208', '1209', '1142']",NEEDS MANUAL VALIDATION,73,74
+Ep. 033,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, S1, S1*, A1, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,74,75
+Ep. 034,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, S1a, S1b, S1*, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,75,77
+Ep. 035,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, S1, S1*, B, A1, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,77,77
+Ep. 036,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, S1, D, A1*, Q",False,"['Æthelburg 8', 'Offa 7', 'Alcuin 1']","['4320', '305', '1142']",NEEDS MANUAL VALIDATION,77,79
+Ep. 037,"Alevinus Hechstanum presbyterum ad virtutem cohortatur ct precibus amicorum cupit
+se commendari. ce. 793—795.
+
+","Codd. T fol. 64—64' (I fol. 59), K1 fol. 55'—56', K 2 p. 161—164, S1 fol. 173—174' (S1 fol. 983—96), Q fol. 121'—122', A 1 p. 119—120 ur. 76, D fol. 238'—2395,","Ed , C 36, Q 45, F 138, 7283. — Migne col. 452.",FILIO MEO CARISSIMO> ALTAPETRA! ALBINUS4 LEVITA SALUTEM.,"T, T*, K1, K2, S1, S1*, Q, A1*, D",True,"['Heahstan 1', 'Alcuin 1', 'Scæst 1', 'Beagnoth 2', 'Anonymi 1878']","['9886', '1142', '9887', '9888', '9889']",NEEDS MANUAL VALIDATION,79,80
+Ep. 038,"Alevinus Monnam presbyterum ct fratrem eius ad saeculi contemptum et ad humili-
+tatem exhortatur. 5 ¢. 793-795,
+","Coda. T fol. 65—65' (T' fol. 60), K 1 fol. 56'—58, K 2 p. 164-167, S1 fol. 174—176 (S1 fol. 96'—99'), D fol. 239—239', Q fol. 122'—123, A 1 p. 120—121 nr. 779,","Ed . C 37, Q 46, F 139, J 282, Form. Salzburg. 40, Formulae ed. Zeumer p. 448. — Migne col. 454.",DILECTISSIMIS IN CHRISTO AMICIS FRATRI ET FILIO ANTHROPO ET STRATOCLEI¢ HUMILIS LEVITA ALCHVINE SALUTEM.,"T, T*, K1, K2, S1, S1*, D, Q, A1*",True,"['Manna 1', 'Hereberht 4', 'Alcuin 1']","['9890', '9891', '1142']",NEEDS MANUAL VALIDATION,80,82
+Ep. 039,"Alevinus amico fideli ardorem amoris sui significat, hortatur, ut omnibus exemplum
+sit bonae vitae, rogat, ut evangelia et librum pastoralem sancti Gregorii diligenter legat.
+¢. 7938—795.
+","Codd. T fol. 65'—66' (T fol. 60'—61), K 1 fol. 48'—49', K2 p. 143—146, S1 fol. 176—177 (8 1  fol. 99'—102', B fol. 44'—45), Q fol. 123—123', (A 1 fol. 11') A 1 p, 22—23 n. 19%,","Ed . C29, Q 47, F 142, J 293, Form. Salzburg. 33, Formulae ed. Zeumer p. 447. — Migne col. 457.",DULCISSIMAE DILECTIONIS FRATRI ET AMICO IN CHRISTI CARITATE SALUTEM.,"T, T*, K1, K2, S1, S1*, B, Q, A1, A1*",True,"['Alcuin 1', 'Gregory 1']","['1142', '280']",NEEDS MANUAL VALIDATION,82,83
+Ep. 040,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,83,84
+Ep. 041,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T*, H",False,"['Charlemagne 1', 'Alcuin 1', 'Candidus 2', 'Anonymous 735']","['247', '1142', '12979', '9892']",NEEDS MANUAL VALIDATION,84,85
+Ep. 042,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"H, T*, K1, K2, A1*",False,"['Anonymi 1879', 'Alcuin 1', 'Seneca 1']","['9893', '1142', '9894']",NEEDS MANUAL VALIDATION,85,87
+Ep. 043,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, S1, S1*, A1, A2, D",False,"['Alcuin 1', 'Anonymi 1879', 'Eanbald 2', 'Charlemagne 1']","['1142', '9893', '3513', '247']",NEEDS MANUAL VALIDATION,87,89
+Ep. 044,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1, A1*",False,"['Eanbald 1', 'Alcuin 1', 'Eanbald 2']","['3288', '1142', '3513']",NEEDS MANUAL VALIDATION,89,90
+Ep. 045,"Alevinus cuidam vel episcopo vel abbati aegrotanti medicamenta mittit. De Basilio
+in montanis medico mortuo. 1 795.
+","Codd. A2 fol. 116'—167, A1 p. 165—166 n, 117.",Ed J 38.,DILECTO PATRI PERPETUAM SALUTEM.,"A2, A1*",True,"['Alcuin 1', 'Anonymous 736', 'Basilius 1', 'Eanbald 2']","['1142', '9898', '9897', '3513']",NEEDS MANUAL VALIDATION,90,91
+Ep. 046,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A2, A1*",False,,,NEEDS MANUAL VALIDATION,91,91
+Ep. 047,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,T*,False,"['Anonymi 1880', 'Alcuin 1', 'Anonymous 737']","['9900', '1142', '9901']",NEEDS MANUAL VALIDATION,91,92
+Ep. 048,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,T*,False,"['Alcuin 1', 'Anonymi 1879']","['1142', '9893']",NEEDS MANUAL VALIDATION,92,93
+Ep. 049,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*, T, T*, K1, K2, S1, S1*, B",False,"['Alcuin 1', 'Beornrad 1']","['1142', '3527']",NEEDS MANUAL VALIDATION,93,93
+Ep. 050,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*",False,"['Liutgard 1', 'Alcuin 1']","['9933', '1142']",NEEDS MANUAL VALIDATION,93,94
+Ep. 051,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, Q, K1, K2, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,94,96
+Ep. 052,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,96,97
+Ep. 053,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2a, K2b, A1*",False,"['Eada 2', 'Alcuin 1']","['9899', '1142']",NEEDS MANUAL VALIDATION,97,97
+Ep. 054,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,97,98
+Ep. 055,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,98,99
+Ep. 056,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Benedict 4', 'Alcuin 1']","['1146', '1142']",NEEDS MANUAL VALIDATION,99,100
+Ep. 057,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Benedict 4', 'Alcuin 1']","['1146', '1142']",NEEDS MANUAL VALIDATION,100,101
+Ep. 058,"Alevinus, ut discipulus quidam sibi inimicus in pristinam amicitiam redeat, postulat.
+
+782—796?
+","Cod, S fol. 177'—178'.","Ed . F 166, J 48. — Migne col. 479.",CARISSIMO IN CHRISTI CARITATE FILIO SALUTEM.,S,True,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,101,102
+Ep. 059,"Alevinus ob Arnonis episcopi Salisburgensis adventum frustra eaxspectatum dolet, pro
+muneribus acceptis gratias agit. 785—796.
+
+","Codd. S 1 fol. 144—145' (S 1 fol. 63'—57'),","Ed , M 17, F 88, J 151. — Migne col. 318.",DULCISSIMAE DILECTIONIS PATRI AQUILAE ANTISTITI TRANSMARINUS CIGNUS IN SANCTAE CARITATIS PENNIS PERPETUAM SALUTEM.,"S1, S1*",True,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,102,103
+Ep. 060,"Alevinus cum tribus amicis Paulino patriarchae Aquileiensi de litteris missis gratias
+agit. Petunt ut pro illo precetur. ¢, 787—796.
+
+","Codd. T fol. 89—90, K 1 fol. 79—80, K 2 p. 226—228, A1 p. 142—144 n. 1024,","Ed , C66, Q 82, F'16, J 129. — Migne col. 172.","OPTIMO TIMOTHEO? FILIL BIS> BINI, EVANGELICAE VERITATIS DISCIPULI, ET SANCTARUM4 QUADRIGAE VIRTUTUM FIDELIUM QUADRIGA AMICORUM, PLENA CARITATIS NAVE TRANS ALPINAS AQUAS DIRIGIT SALUTEM.","T*, K1, K2, A1*",True,"['Paulinus 2', 'Alcuin 1']","['3528', '1142']",NEEDS MANUAL VALIDATION,103,104
+Ep. 061,"Alevinus Ecgfrido regi, Offae regis Merciorum filio, virtutem suadet. 786—796.
+
+","Codd. T fol, 66'—67 (T fol. 61!), Q fol. 123'—124, 81 fol. 177'—178 (S1 fol. 103'—104'), A1 p. 24 n. 21%.","Ed . Q 48, F'45, J 45. — Migne col. 214.",NOBILISSIMO IUVENL ACGFREDI’ HUMILIS LEVITA ALCHVINE SALUTEM.,"T, Q, S1, S1*, A1*",True,"['Alcuin 1', 'Ecgfrith 7', 'Offa 7', 'Cynethryth 2', 'Hundruda 1']","['1142', '4467', '305', '3911', '9905']",NEEDS MANUAL VALIDATION,104,105
+Ep. 062,"Alevinus Hundrudac monachae de muneribus gratias agit. Monet ut in aula Offae
+regis Merciorum bonum vivendi exemplum prodat. De Cynethrith regina. De monasterio
+Inmercum. Egfrido regis filio salutem ascribit. ¢. 786—796.
+
+","Cod. 1' fol. 93'—94 n. 899,","Ed . Q 89, F 149, J 46. — Migne col. 470.",DEO DEVOTE FEMINE HUNDRUDE ALCHVINUS DIACONUS SALUTEM.,T*,True,"['Alcuin 1', 'Hundruda 1', 'Cynethryth 2', 'Offa 7', 'Ecgfrith 7']","['1142', '9905', '3911', '305', '4467']",NEEDS MANUAL VALIDATION,105,106
+Ep. 063,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1*",False,"['Alcuin 1', 'Anonymous 740', 'Offa 7']","['1142', '9906', '305']",NEEDS MANUAL VALIDATION,106,107
+Ep. 064,"Alevinus Offae regi Merciorum remittit discipulum suum iam ad docendum aptum.
+
+787—796.
+","Codd, T fol, 61'—62 (T fol. 57), A1 p.28 n. 20%.","Ed . Q.38, F 44, 43. — Migne col. 213.",DOMINO EXCELLENTISSIMO OFFA> REGI HUMILIS LEVITA ALCHVINE SALUTEM.,"T, T*, A1*",True,"['Alcuin 1', 'Offa 7', 'Anonymous 741']","['1142', '305', '9907']",NEEDS MANUAL VALIDATION,107,107
+Ep. 065,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,"A1, A2, A1*, K1, K2, D",True,"['Alcuin 1', 'Dodo 1']","['1142', '9908']",NEEDS MANUAL VALIDATION,107,109
+Ep. 066,"Aquila (Arno episcopus) Cuculum amicum ad vitae emendationem hortatur.
+
+c. 789—796.
+","Codd, A1 fol. 2, A1 p. 4—5 n.2, A2 fol. 163—163'.",Ed J 287.,J 287. CARISSIMO> AVI CUCULO AQUILA SALUTEM.,"A1, A1*, A2",True,['Dodo 1'],['9908'],NEEDS MANUAL VALIDATION,109,110
+Ep. 067,"Alevinus Acthelbaldo S. Petri Wiremuthensi et S. Pauli Girwensi abbati constituto
+gratulatur. Petit, ut fraternitatem sibi tributam confirmet. Admonitiones addit.
+ce. 789—796.
+","Codd. (A 1 fol, 3'—4'), A2 fol. 163'—164', A1 p.5—7 n. 3%.",Ed J 272.,J 272. VENERABILI PATRL ET SANCTAE CONGREGATIONIS PASTORI AEDELBALDO» ABBATI HUMILIS CLIENTELLUS VESTER ALCVINE? IN CHRISTI CARITATE SALUTEM.,"A1, A2, A1*",True,"['Alcuin 1', 'Æthelbald 8', 'Anonymi 1881', 'Ceolfrith 1', 'Biscop 2']","['1142', '9909', '9910', '1045', '926']",NEEDS MANUAL VALIDATION,110,112
+Ep. 068,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,112,112
+Ep. 069,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,"A1, A1*",True,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,112,113
+Ep. 070,"Alevinus Vulfhardo abbati Anglico monachum poenitentem commendat.
+
+e. 789—796,
+","Codd. A1 fol. 13-14, A2 fol. 161', A1 p. 19 (n. 11), whi initium deest>.",Ed J 1.,PIO PATRI VULFHARDO ABBATI' ALBINUS HUMILIS LEVITA SALUTEM.,"A1, A1*",True,"['Alcuin 1', 'Wulfheard 5', 'Anonymous 742']","['1142', '3658', '9912']",NEEDS MANUAL VALIDATION,113,114
+Ep. 071,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,"T, T*, K1, K2, Q, A1*",True,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,114,114
+Ep. 072,"Alevinus Rodtrudae et Berchtae, Caroli regis filiabus, de suo erga eas obsequio seribit.
+. 789—796.
+
+","Codd. Ax fol. 14'—15, A1 p. 20—21 n, 15%.",Ed J 256.,J 256. CARISSIMIS IN CHRISTO VIRGINIBUS RODTHRUDAE ET BERCHTAE SEMPITERNAE BEATITUDINIS SALUTEM.,"A1, A1*",True,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,114,115
+Ep. 073,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1a, A1b, A1*a, A1*b, K1, K2",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,115,115
+Ep. 074,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1*, G, M",False,"['Rado 1', 'Alcuin 1']","['3531', '1142']",NEEDS MANUAL VALIDATION,115,117
+Ep. 075,"Alevinus Aginonem episcopum Constantiensem rogat, ut promissas sanctorum reliquias
+per Angilbertum sibi mittat, 792—796 2
+
+","Codd. T fol. 75, K 1 fol. 65'—66, K2 p. 188—189, A1 p. 130—131 n. 90%,","Ed , C 49, Q 65, F 26, J 207. — Migne col. 186.",DILECTISSIMO AGINO EPISCOPO ALBINUS MAGISTER> SALUTEM.,"T*, K1, K2, A1*",True,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,117,118
+Ep. 076,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,118,118
+Ep. 077,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*",False,"['Alcuin 1', 'Joseph 2']","['1142', '9816']",NEEDS MANUAL VALIDATION,118,119
+Ep. 078,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,119,120
+Ep. 079,"Alevinus Aedilthydae abbatissae, quondam reginae, matri Aethelredi regis Northan-
+humbrorum, de muneribus missis gratias agit. Adhortationes addit. 793 —796.
+
+","Codd, T fol. 64—55' (T fol. 30), Q fol. 120—1214.","Ed . Q 30, F 150, J 50. — Migne col. 471.",DILECTISSIMAB IN CHRISTO SORORI AEDILTHYDE>! MA'TRL HUMILIS LEVITA ALCHVINE SALUTEM.,"T, T*, Q",True,"['Alcuin 1', 'Æthelthida 1', 'Æthelred 7']","['1142', '9913', '2127']",NEEDS MANUAL VALIDATION,120,122
+Ep. 080,"Alevinus Sigvulfo presbytero interrogationes de libro Genescos a se compositas mittit.
+793—796.
+
+","Codd, Romanus Palatinus (P) 289 saec. IX. fol. 2'—3', quem contulit Holder-Egger 8. n.; Hin- sidlensis 60 (E) saec. IX. p. 1, quem contulit V. Rev. P. Gabriel Meier; Parisinus 13187, quondam Cor- beiensis, tum S, Germani (C) saec. IX, fol. 65—66, quem cont. V. Cl. Lebegue; S. Petri Carnotensis 113 (Ch) saec. IX. fol. 1; Montensis in Hannonia, ex monasterio S. Mariae de Bona Spe (M) sacc. X, cont. Bethmann b. m., viblioth. Lambethanae Londini 148 (L) fol. 120 saec. XII; Caesareae Vindobon. 1060 (V) saec. XII. Exstat etiam in codicibus coenobii Sanctae Crucis prope Vindobon. 212 (cf. Pertz Archiv X, 507), Parisinis 1862, 1863, 2384 saec. X,","Ed . Margar. de la Bigne, Bibliothecae SS. patr. appendix Paris 1579 col. 1025; Quercetanus",DILECTISSIMO IN CHRISTO FRATRI SIGUULFO PRESBITERO ALBINUS SALUTEM.,"P, E, C, Ch, M, V",True,"['Alcuin 1', 'Sigewulf 2']","['1142', '9914']",NEEDS MANUAL VALIDATION,122,123
+Ep. 081,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"E, G",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,123,124
+Ep. 082,"Alevinus apud Beornvinum presbyterum de sinistra suspicione inprimis de fide Offae
+regi servanda se excusat. 793—796.
+
+","Codd. T fol. 72—72' (T fol. 66), K 1 fol. 50'—51, K2 p. 149-151, A 1 p. 113—114 n. 729.","Ed . C32, Q 54, Fz, J 15. — Migne col. 149.",DILECTO FRATRI BEORNUUINO PRESBYTERO ALCHVINI> DIACONUS SALUTEM.,"T, T*, K1, K2, A1*",True,"['Alcuin 1', 'Offa 7', 'Beornwine 2', 'Anonymi 1882']","['1142', '305', '9915', '9916']",NEEDS MANUAL VALIDATION,124,125
+Ep. 083,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, K1, K2, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,125,127
+Ep. 084,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1*",False,"['Gisla 1', 'Alcuin 1']","['1208', '1142']",NEEDS MANUAL VALIDATION,127,127
+Ep. 085,"Carolus I rex Francorum Athilhardum archiepiscopum Cantuariensem et Ceolvulfum
+episcopum Sidnacestrensem rogat, ut exules quondam Offae regis Merciorum commendent.
+
+798—796.
+",Codd. T fol. 76'—77 (T' fol. 70')s.,"Ed . Q61 col. 1576, Wilkins Concilia magnae Brit. I, 154, Frobenius II, 557, Bouquet Recueil",CAROLUS GRATIA DEI REX FRANCORUM ET LONGOBARDORUM AC PATRICIUS ROMANORUM ATHILHARDO ARCHIEPISCOPO! ET CEOLVULFO COEPISCOPO>? ILLIUS AETERNAE BEATITUDINIS SALUTEM.,"T, T*",True,"['Offa 7', 'Æthelheard 13', 'Alcuin 1']","['305', '2121', '1142']",NEEDS MANUAL VALIDATION,127,128
+Ep. 086,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,"T, T*, K1, K2, A1*",True,"['Paulinus 2', 'Alcuin 1']","['3528', '1142']",NEEDS MANUAL VALIDATION,128,131
+Ep. 087,"Carolus I rex Francorum Offam regem Merciorum rogat, ut presbyterum Scotticum,
+qui ieiunium non observaverit, e dioecesi Coloniensi in patriam redire iubeat, ubi epi-
+scopus eius de eo iudicet. 793—796.
+
+","Cod, T fol. 92%.","Ed . Q 85 col. 1614, Baluzius Capitul. I, 275, Bouquet Recueil V, 626, Frobenius II, 557, Jaffé",KAROLUS GRATIA DEI REX FRANCORUM ET DEFENSOR SANCTAE DEI ECCLESIAE DILECTO FRATRI ET AMICO OFFA REGI SALUTEM.,T*,True,"['Offa 7', 'Alcuin 1']","['305', '1142']",NEEDS MANUAL VALIDATION,131,132
+Ep. 088,"Alcvinus discipulum quendam iuniorem ad virtutem secundum exempla sanctorum
+exercendam hortatur. De libris ab eo postulatis addit'. 793—796.
+
+","Codd. H fol. 58'—60, T fol. 106'—107,","Ed . Q 102, F 143, J 290. — Migne col. 459.",DILECTISSIMO FILIO ATQUE ANIMALI> MEO ALBINUS SALUTEM.,"H, T*",True,"['Alcuin 1', 'Beornrad 1', 'Bede 1']","['1142', '3527', '424']",NEEDS MANUAL VALIDATION,132,133
+Ep. 089,"Alevinus episcopum quendam ob studium praedicandi laudat et in eo confirmat.
+793—796?
+","Codd. A1 fol. 184—184', A 1 p. 158—169 n. 113%,",Ed J 218.,J 218. PIO PONTIFICI ILL. ALBINUS> SALUTEM.,"A1, A1*",True,"['Alcuin 1', 'Anonymous 743', 'Anonymous 744', 'Anonymous 745']","['1142', '9917', '9918', '9919']",NEEDS MANUAL VALIDATION,133,134
+Ep. 090,"Alevinus Usualdo abbati et monachis S. Salvatoris Amiatinis scribit se eorum petitionem
+Carolo regi Francorum commendavisse. Rogat, ut preces pro se faciant. 794—796.
+
+","Codd. T fol. 85—85' (T fol. 87), K 1 fol, 40'—41', K2 p, 122—124, A1 p. 105—106 n. 685.","Ed . 025, Q 79, F'17, J 128, — Migne col. 178.",DOMINI DE[> SALVATORIS MUNDI¢ SANCTISSIMAE CONGREGATIONI ET PIO PATRI USUALDO@! HUMILIS LEVITA ALCHVINUS  SALUTEM.,"T, T*, K1, K2, A1*",True,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,134,135
+Ep. 091,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,135,135
+Ep. 092,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T*, S1, S1*",False,,,NEEDS MANUAL VALIDATION,135,136
+Ep. 093,"Carolus I rex Francorum Leoni III papae constituto gratulatur. Mittit munera
+Hadriano I papae parata. Angilbertwn legatum suum commendat. De patriciatu suo
+uddit monetque, ut canones sequatur. 796.
+
+","Codd. T fol. 90'—92; 8.1 fol. 205'—207's,","Ed . Q 84 col. 1612, Baluzius Capitul. I, 271, Bouquet Rec. V, 625, Frobenius II, 559, Jaffé",KAROLUS> GRATIA DEI REX FRANCORUM ET LANGOBARDORUM AC PATRICIUS ROMANORUM LEONI PAPAE PERPETUAE BEATITUDINIS IN CHRISTO SALUTEM.,"T*, S1",True,,,NEEDS MANUAL VALIDATION,136,138
+Ep. 094,"Alevinus Leoni III papae constituto gratulatur. Rogat, ut peccatis suis indulgeat.
+De Angilberto abbate Centulensi. 796.
+
+","Codd. 1 fol. 80—81 (I fol. 83'—84), K 1 fol. 45'—47, K2 p. 136-140, A 1 p, 110—112 n, 705.","Ed . C27, Q 72, F 20, J51. — Migne col. 178.",DOMINO BEATISSIMO ATQUE OMNI HONORE NOMINANDO> LEONI PAPAE HUMILIS LEVITA ALBINUS AETERNAE IN CHRISTO GLORIAE SALUTEM.,"T, T*, K1, K2, A1*",True,"['Leo 1', 'Alcuin 1']","['2009', '1142']",NEEDS MANUAL VALIDATION,138,139
+Ep. 095,"Alevinus Paulino patriarchae Aquileiensi respondet. Nuntium commendat, Signi-
+ficat de aliis litteris per Angilbertum Romam euntem ad eum missis. 796.
+
+","Codd. T fol. 81'—82 (T fol. 84'), K 1 fol. 73', K2 p, 210-211, A1 p. 137-138 n. 97%,","Ed . C59, Q 73, F 24, J 52. — Migne col. 185.",VENERANDO VIRO PAULINO PATRIARCHAE ALBINUS SALUTEM.,"T, T*, K1, K2, A1*",True,"['Paulinus 2', 'Alcuin 1']","['3528', '1142']",NEEDS MANUAL VALIDATION,139,140
+Ep. 096,"Alcvinus Paulinum patriarcham Aquileiensem de duobus armillis aureis, a Liutgarda
+regina missis, certiorem facit. 796.
+
+","Codd, T fol. 95', K1 fol. 77—77', K2 p. 221—222, AQ fol. 169', A 1 p, 142 n. 100%,","Ed . C 62, Q95, F 25, J 63, — Migne col. 186.",DOMINO PATRI PAULINO ALBINUS SALUTEM.,"T, K1, K2, A2, A1*",True,"['Paulinus 2', 'Liutgard 1', 'Alcuin 1']","['3528', '9933', '1142']",NEEDS MANUAL VALIDATION,140,141
+Ep. 097,"Alevinus Angilberto abbati Centulensi, Romam profecto, scribit stabilitatem sibi
+nondum concessam esse. Petit, ut sanctorum reliquias sibi acquirat saepeque litteras ad
+se mittat. 796.
+
+","Codd. T fol. 95—95', K 1 fol. 63'—64, K 2 p. 183—185, A1 p. 129 mr. 87%.","Ed , C46, Q92, F 21, J 54. — Migne col. 180.",DULCISSIMO FILIO VIR FLUCTIVAGUS SALUTEM.,"T*, K1, K2, A1*",True,"['Angilberct 1', 'Alcuin 1']","['9973', '1142']",NEEDS MANUAL VALIDATION,141,142
+Ep. 098,"Alevinus Erico duci Foroiulano, quod se visitaverit, gratias agit, ewmque optimis
+ominibus prosequitur. Monet, ut Paulini patriarchae Aquileiensis consilia sequatur.
+
+796.
+","Codd, T fol, 96—96', K1 fol. 67—67', K2 p. 192—193, A1 p. 1381-132 mr. 929,","Ed . C53, Q94, F 1, J.55. — Migne col. 139.",VENERANDO VIRO ERICO> DUCI? ALBINUS MAGISTER SALUTEM.,"T*, K1, K2, A1*",True,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,142,143
+Ep. 099,"Alevinus Paulinum patriarcham interrogat, num Christi fidem apud Avaros pro-
+pagandam suscepturus sit. Litteras poscit. 796.
+","Codd, K1 fol. 76—77, K2 p. 217—221, S1 fol. 210'—212' (S1i fol. 139—141), A 1 fol. 119, quem contulit R. Priebsch, A 1 p. 140—141 n. 999.","Ed , C61, Q112, F 34, J 56. — Migne col. 198.","DILECTISSIMO% PATRI ET PIO PONTIFICI PAULINO PATRIARCHAE¢! ALBINUS, VESTRAE FILIUS DILECTIONIS, PERPETUAE IN CHRISTO PROSPERITATIS SALUTEM.","K1, K2, S1, S1*, A1, A1*",True,"['Paulinus 2', 'Alcuin 1']","['3528', '1142']",NEEDS MANUAL VALIDATION,143,144
+Ep. 100,"Carolus rex Francorum Offae regi Merciorum respondet de peregrinorum Romam
+euntium immunitate, de negotiatorum teloneo solvendo, de Odberhto presbytero, de petris
+nigris. Addit de sagis ad se mittendis. Offert munera, prospiciens animae Hadriani
+papae. 796 post Apr. 18.
+
+","Codd. A 1 fol. 143—144' (A1 p. 170—172 n. 125); excerpta leguntur ap. Willelm. Malmesbur. Gesta reg. Anglor. l. I § 98 (Jaffé Bibl. IV, 357).","Ed . Wilkins Cone. magnae Britanniae I, 158 ex M. S. Usserii; Haddan and Stubbs Councits",CAROLUS GRATIA DEI REX FRANCORUM ET LANGOBARDORUM AC PATRICIUS ROMANORUM VIRO VENERANDO AC FRATRI CARISSIMO OFFAE REGI MERCIORUM PRESENTIS PROSPERITATIS AC AETERNAE BEATITUDINIS IN CHRISTO SALUTEM.,"A1, A1*",False,['Æthelheard 13'],['2121'],NEEDS MANUAL VALIDATION,144,146
+Ep. 101,"Alevinus Offae regi Merciorum scribit Carolum regem Francorum ei bene velle et
+occisionem Aethilredi regis Northanhumbrorum vehementissime indignari; seque in Angliam
+revertendi consilium abiecisse. Addit de ecclesia S. Martini Turonensi sibi collata; legatos
+commendat. 796 post Apr. 18.
+
+","Codd, A 1 fol. 134'—136', A1 p, 159-161 n. 114, Duae partes huius epistolae ap. Willelm. Malmes- bur. Gesta reg. Anglor. I § 70 et 72 ‘Sciat veneranda — iam fecisset’ et ‘Ego paratus eram — foedata’s.","Ed . Haddan and Stubbs Councils IIT, 498 priorem partem, J58. — Migne col. 213.",EXCELLENTISSIMO VIRO NOBISQUE DESIDERANTISSIMO OFFAN REGI MERCIORUM HUMILIS AMICUS ALCHVINE SALUTEM.,"A1, A1*",False,"['Offa 7', 'Charlemagne 1', 'Æthelred 7', 'Alcuin 1', 'Anonymi 1892', 'Ecgfrith 7', 'Anonymi 1886', 'Cynethryth 2', 'Æthelheard 13', 'Leo 1', 'Anonymi 1887', 'Anonymi 1889', 'Anonymi 1890', 'Anonymi 1891', 'Anonymi 1883', 'Anonymi 1884', 'Anonymi 1885']","['305', '247', '2127', '1142', '9931', '4467', '9924', '3911', '2121', '2009', '9925', '9928', '9929', '9930', '9921', '9922', '9923']",NEEDS MANUAL VALIDATION,146,148
+Ep. 102,"Alevinus Edilburgae abbatissae Flaedanbyrgensi, Offae regis Merciorum filiae, scribit
+se in Angliam reversurum non esse. Aethelfledam, viduam Aethelredi Northanhumbrorum
+regis occisi, admoneri vult, ut in monasterium secedat. Mittit munera et Liudgardae uxoris
+Caroli regis et sua. 796 post Apr. 18.
+
+","Cod, H fol. 10—11.","Ed . F 166, J 59. — Migne col. 227.",IN DEO DILECTISSIMAE FILIAE EDILBURGAE SALUTEM.,H,False,"['Alcuin 1', 'Liutgard 1', 'Æthelburg 8', 'Anonymous 748', 'Anonymi 1894']","['1142', '9933', '4320', '9935', '9934']",NEEDS MANUAL VALIDATION,148,149
+Ep. 103,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A2, A1*",False,"['Alcuin 1', 'Anonymous 749', 'Anonymous 748', 'Anonymous 750', 'Æthelburg 8', 'Anonymous 751']","['1142', '9936', '9935', '9937', '4320', '9938']",NEEDS MANUAL VALIDATION,149,150
+Ep. 104,"Alevinus pontifices Britanniae hortatur, ut, Caroli regis Francorum mumeribus
+acceptis, pro eo et pro Adriano papa preces faciant. 796 post Apr. 18.
+","Codd. At fol. 133-134, A1 p. 157—158 n. 1125,",Ed J 61.,"SANCTISSIMIS IN CHRISTO ET IN OMNI HONORE NOBIS DILIGENDIS BRITTANNIAE, DULCISSIME PATRIE, PONTIFICIBUS HUMILIS LEVITA ALCHVINUS, SANCTAE EBORACENSIS AECCLESIAE FILIUS, IN CHRISTI CARITATE SALUTEM.","A1, A1*",False,"['Alcuin 1', 'Charlemagne 1', 'Hadrian 3', 'Anonymi 1895', 'Anonymi 1897', 'Anonymi 1896']","['1142', '247', '7258', '9939', '9942', '9940']",NEEDS MANUAL VALIDATION,150,151
+Ep. 105,"Alevinus Edilthrudam abbatissam, quondam reginam, de filii Aethilredi Northan-
+humbrorum regis nece consolatur. 796 post Apr. 18.
+
+",Cod. S fol. 173-174.,"Ed . F 151, J 62. — Migne col. 473.",DILECTISSIMAE IN CHRISTO MATRI EDILTHRUDAE' HUMILIS LEVITA ALCHVINUS SALUTEM.,S,False,"['Alcuin 1', 'Æthelthida 1', 'Æthelred 7']","['1142', '9913', '2127']",NEEDS MANUAL VALIDATION,151,152
+Ep. 106,"Alevinus matrem Anglicam de morte filii consolatur. 796? post Apr. 18.
+
+",Cod. H fol. 9—10.,"Ed . F 164, J 63. — Migne col. 226.",CARISSIMAE IN CHRISTO MATRI? FIDELIS IN CARITATE FILIUS ALCHVINUS DIACONUS SALUTEM.,H,False,"['Alcuin 1', 'Anonymous 752', 'Anonymous 753']","['1142', '9943', '9944']",NEEDS MANUAL VALIDATION,152,153
+Ep. 107,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*, B",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,153,155
+Ep. 108,"Alevinus Earduulfum, regem Northanhumbrorum constitutum, admonet.
+
+","Codd, Ha fol. 1'—18, Hb fol. 80~80'. 796 post m. Maium.","Ed . F 166, J 65. — Migne col. 229.",‘VIRO INLUSTRI EARDUULFO REGI! ALCHVINE> DIACONUS SALUTEM.,"Ha, Hb",False,"['Alcuin 1', 'Eardwulf 4', 'Anonymi 1898', 'Anonymi 1899']","['1142', '7277', '9946', '9947']",NEEDS MANUAL VALIDATION,155,156
+Ep. 109,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Alcuin 1', 'Osbald 1', 'Anonymi 1900', 'Anonymi 1901', 'Æthelred 7', 'Anonymous 754', 'Anonymi 1902']","['1142', '9863', '9948', '9949', '2127', '9950', '9951']",NEEDS MANUAL VALIDATION,156,156
+Ep. 110,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, P, X",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']","[['Hobr', '12', '6'], ['Mich', '2', '9'], ['Bel', '11', ""'10""], ['Eeel', '12', '1']]",156,159
+Ep. 111,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"H, T*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,159,162
+Ep. 112,"Alevinus Arnoni episcopo Salisburgensi, de rebus in Avaria gestis certior factus,
+respondet de discipulis, de Carolo rege, de Eanbaldo I archiepiscopo Eboracensi mortuo.
+Mittit epistolam 110. Se in Alsatiam iturum esse. 796 post Aug. 10.
+
+","Codd, S1 fol. 129'—130' (S1 fol. 29—29').","Ed . F 30, J 70. — Migne col. 191.",PIO PATRI ET FRATRI FIDELI ET FILIO CARISSIMO SALUTEM.,"S1, S1*",False,"['Alcuin 1', 'Arno 1', 'Eanbald 1', 'Æthelberht 8']","['1142', '9847', '3288', '10874']",NEEDS MANUAL VALIDATION,162,163
+Ep. 113,"Alevinus Arnoni episcopo Salisburgensi, qua ratione Huni fidem christianam docendi
+sint, exponit. 796 post Aug. 10.
+
+","Codd. § fol. 1'—4, H fol. 69'—73', T fol. 109—111'%.","Ed . Q 104, F 31, J 71. — Migne col. 192.",DULCISSIMO FRATRI ET SANCTISSIMO PRAESULI AQUILAE ALBINUS SALUTEM.,"S, H, T*",False,"['Arno 1', 'Alcuin 1', 'Gregory 1']","['9847', '1142', '280']",NEEDS MANUAL VALIDATION,163,166
+Ep. 114,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S, A2, A1, A1*, C, Ca",False,"['Alcuin 1', 'Eanbald 2', 'Æthelberht 8', 'Anonymi 1903', 'Anonymi 1904']","['1142', '3513', '10874', '9953', '9954']",NEEDS MANUAL VALIDATION,166,170
+Ep. 115,"Alevinus Eanbaldum IT archiepiscopum Eboracensem rogat, ut superiorem epistolam
+
+suam saepe in manus sumat. Hortatur, ut bonos consiliarios adhibeat.
+
+796 post Aug. 10,
+","Codd, H fol. 29-30, A1 p. 63—64 n, 415,","Ed . F170, J 78. — Migne col. 233.",VENERANDAE? DIGNITATIS ET DULCISSIMAE CARITATIS FILIO SIMEONI¢? SUMMO SACERDOTI4@ ALBINUS PRAESENTIS PROSPERITATIS ET PERPETUAE BEATITUDINIS IN CHRISTO SALUTEM.,"H, A1*",False,"['Alcuin 1', 'Eanbald 2']","['1142', '3513']",NEEDS MANUAL VALIDATION,170,171
+Ep. 116,"Alevinus Eanbaldum IT archiepiscopum Eboracensem commonet, ut iusta faciat et
+8. Gregorii librum pastoralem semper secum ferat. 796 post Aug. 10.
+
+","Codd. § fol. 172—172', A2 fol. 140—140', A1 p. 70—71 nr. 49%.","Ed . F'57, Haddan and Stubbs Councils III, 505, J 74. — Migne col. 245.",KARISSIMO FILIO SYMEONI SACERDOTI ALBINUS PATER SALUTEM.,"S, A2, A1*",False,"['Alcuin 1', 'Eanbald 2', 'Anonymi 1905', 'Æthelberht 8', 'Gregory 1', 'Offa 7', 'Æthelred 7']","['1142', '3513', '9955', '10874', '280', '305', '2127']",NEEDS MANUAL VALIDATION,171,172
+Ep. 117,"Alevinus monachis Murbacensibus scribit, quam ob rem ad eos non accesserit. Suadet
+caritatem humilitatem oboedientiam pacem studia litterarum, 796.
+
+","Codd, T' fol. 74-76, K1 fol. 35'—36', K2 p. 105—108, A 1 p. 103-106 n. 679,","Ed . C22, Q64, F47, J 75. — Migne col. 217.",VENERABILIBUS IN CHRISTO FRATRIBUS IN ECCLESIA! SANCTI LEODEGARIL» EPISCOPI ” SERVIENTIBUS ALCHVINE DEVOTUS VESTRI PROFECTUS IN CHRISTO SALUTEM.,"T*, K1, K2, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,172,173
+Ep. 118,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,T*,False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,173,174
+Ep. 119,"Alevinus Pippino regi Italiae gratias agit, quod Carolus rex captivos redimi siverit.
+Adhortationes addit. 796 ex.
+
+",Cod. T fol. 94'—95 5.,"Ed , Q91, F 33, J 77, — Migne col. 197.",NOBILISSIMO NOBISQUE AMANTISSIMO FILIO PIPPINO! ALBINUS IN CHRISTI DILECTIONE SALUTEM.,T*,False,"['Pippin 3', 'Alcuin 1']","['3496', '1142']",NEEDS MANUAL VALIDATION,174,174
+Ep. 120,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S, P, W, G, O*",False,"['Alcuin 1', 'Beornrad 1', 'Willibrord 1', 'Wilgils 2', 'Anonymi 1906', 'Anonymi 1907', 'Wilsgils 1']","['1142', '3527', '875', '3310', '9959', '9960', 'Unknown Key']","[['OF', 'Isai', '56-11'], ['1 Joh', '4', '20']]",174,175
+Ep. 121,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1*",False,"['Alcuin 1', 'Charlemagne 1', 'Æthelberht 8', 'Anonymous 755', 'Anonymi 1908']","['1142', '247', '10874', '9961', '9962']","[['1 Joh', '4', '20'], ['Eeol', '1', '2']]",175,178
+Ep. 122,"Alevinus Osbertum patricium (quondam Offae regis Merciorum ministrum) hortatur,
+ne animo cadat. Varia addit de commutatione rerum in Merciorum et Northanhumbrorum
+regnis facta; de admonendis regibus ; de Offae mortui regis legibus exercendis, 797,
+
+","Codd. A 1 fol. 136'—138', A1 p. 161—164 n. 115; Willelm. Malmesbir. Gesta reg. Anglor. L. I § 70. 94 duas epistolae partes afferts.",Ed J 79.,,"A1, A1*",False,"['Alcuin 1', 'Osberht 4', 'Ecgfrith 7', 'Offa 7', 'Eardwulf 4', 'Anonymous 756', 'Anonymous 757', 'Anonymi 1909', 'Anonymi 1911', 'Anonymi 1910', 'Anonymous 758']","['1142', '9963', '4467', '305', '7277', '9965', '9966', '9964', '9968', '9967', '9969']",NEEDS MANUAL VALIDATION,178,180
+Ep. 123,"Alevinus Coenulfo regi Merciorum constituto gratulatur. Admonitiones addit.
+
+","Cod. H fol. 106'—106'. 797,","Ed . F 169, J 80. — Migne col. 232.",EXCELLENTISSIMO VIRO COENULVO REGI> MERCIORUM HUMILIS LEVITA ALBINUS SALUTEM.,H,False,"['Alcuin 1', 'Cenwulf 3', 'Offa 7', 'Ecgfrith 7', 'Anonymi 1912']","['1142', '2385', '305', '4467', '9971']","[['Eeol', '1', '2'], ['Dent', '10', '2'], ['Exoch', '28', '13'], ['1 Patr', '3', '20']]",180,181
+Ep. 124,"Alevinus Higbaldum episcopum Lindisfarnensem multa admonet. Memorat de Ecg-
+fridi regis Merciorum obitu inopinato. 797.
+","Codd. H fol. 102—104', T fol. 116—117'»,","Ed . Q.108, F'56, 381. — Migne col, 241.",SANCTISSIMO FRATRI ET FILIO CARISSIMO SPERATO EPISCOPO HUMILIS PATER ALBINUS SALUTEM.,"H, T*",False,"['Alcuin 1', 'Hygebald 3', 'Offa 7', 'Ecgfrith 7', 'Gregory 1', 'Ingeld 1']","['1142', '3540', '305', '4467', '280', '9972']","[['1 Patr', '3', '20'], ['Num', '7', '895']]",181,184
+Ep. 125,"Alevinus a Leone HII papa petit, ut Eanbaldo II archiepiscopo Eboracensi pallium
+tribuat. 797 ante Aug.
+","CodCodd. H fol. 102—104', T fol. 116—117'»,","Ed Ed . Q.108, F'56, 381. — Migne col, 241.",,H,False,"['Alcuin 1', 'Leo 1', 'Anonymi 1913', 'Angilberct 1', 'Eanbald 2', 'Gregory 1', 'Anonymi 1914']","['1142', '2009', '9975', '9973', '3513', '280', '9976']",NEEDS MANUAL VALIDATION,184,185
+Ep. 126,"Alevinus Carolo regi suadet, ut saltus lunae huic mensi Novembri tribuatur.
+
+797 Nov. mense ineunte.
+
+","Codd. T' fol. \—7' (T fol. 5—6), R (Vat. 226) fol. 7—9', B (Bernensis 83) saec. X fol. 75'—77, quem contulit H. Hagen; Valentianensis 253 (237) fol. 131-135 (V), quem contulit Sackur; initium tantum habent K 1 fol. 23'—24, K 2 p. 67—68, A1 p. 94 n. 59%.","Ed . C 10, Q3, F'61, J 83. — Migne col. 254.",DOMINO DESIDERANTISSIMO ET OMNI SAPIENTIAE DECORE CLARISSIMO DAVID REGI FLACCUS ALBINUS PERPETUAE PACIS ET GLORIAE SALUTEM.,"T, T*, R, B, V, K1, K2, A1*",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,185,187
+Ep. 127,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,A2,False,"['Hygeberht 1', 'Offa 7', 'Gregory 1', 'Augustine 1']","['2514', '305', '280', '13620']",NEEDS MANUAL VALIDATION,187,189
+Ep. 128,"Alevinus Aethelhardo archiepiscopo Cantuariensi scribit, ut derelictae ad tempus
+ecclesiae Cantuariensis poenitentiam agat. Addit de archiepiscopatu Lichfeldensi ita
+tollendo, ne tamen Hygeberhtus archiepiscopus Lichfeldensis pallio privetur. 797.
+
+","Codd. (A 1 fol. 127—129) A1 p. 149-151 n. 107, A2 fol. 153'—155, H fol. 5‘—7, T fol. 99', in utroque initium deest et hoc fragmentum cum ep. 41 supra p. 84 sic coniunctum est, ut ambae una. esse epistola videantur. Fragmentum huius epistolae praebet Willelm. Malmesbir. sanctaram — honore, Gesta pontiff. Anglor. I § 11 p. 19%.","Ed . Q 67b, Wilkins Conc. Britanniae I, 159, F' 60, Haddan and Stubbs Councils II, 518—520,",SUMMAE DIGNITATIS VIRO ATQUE AECCLESIASTICAE BONITATIS PATRI A'THELHARDO> ARCHIEPISCOPO FIDELIS FILIUS ALCHVINUS PERPETUE BONITATIS IN CHRISTO SALUTEM.,"A1, A1*, A2, H, T*",False,"['Anonymous 759', 'Æthelheard 13', 'Alcuin 1', 'Laurence 2', 'Gregory 1', 'Anonymi 1915', 'Eanbald 2', 'Anonymi 1916', 'Anonymous 760', 'Anonymi 1918', 'Hygeberht 1']","['9977', '2121', '1142', '9216', '280', '9978', '3513', '9979', '9981', '9984', '2514']",NEEDS MANUAL VALIDATION,189,191
+Ep. 129,"Alevinus Cantuarienses cohortatur, ut Aethelhardum archiepiscopum revocent eiusque
+consilio perturbatum regni statum reficiant. 797.
+
+","Codd. H fol. 66—67', 81 fol. 200—202'.","Ed . F 59, Haddan and Stubbs Councils II, 509-511, J 86. — Migne col. 249.",NOBILISSIME GENTI ET POPULO LAUDABILI ET REGNO IMPERIALI CANTUARIORUM HUMILIS LEVITA ALCHVINUS SALUTEM.,"H, S1",False,"['Alcuin 1', 'Anonymi 1919', 'Æthelheard 13', 'Anonymi 1920', 'Augustine 1', 'Gildas 1', 'Anonymi 1918']","['1142', '9985', '2121', '9987', '13620', '9862', '9984']",NEEDS MANUAL VALIDATION,191,193
+Ep. 130,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*",False,"['Alcuin 1', 'Anonymi 1920', 'Anonymous 761', 'Anonymi 1921']","['1142', '9987', '9988', '9989']","[['Num', '7', '895'], ['Ecel', '12', '5-7']]",193,193
+Ep. 131,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"H, T*, G, I, M",False,['Alcuin 1'],['1142'],"[['Ecel', '12', '5-7'], ['Soph', '3', '3'], ['Ch', 'Ps', '67-14']]",193,198
+Ep. 132,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"P, P*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,198,200
+Ep. 133,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S, G, E, Z, T",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,200,202
+Ep. 134,"Alevinus Oduino presbytero baptismi caeremonias exponit. c. 798.
+
+","CodCodd. H fol. 66—67', 81 fol. 200—202'.","Ed Ed . F 59, Haddan and Stubbs Councils II, 509-511, J 86. — Migne col. 249.",,"N, F, M, E, G, T, B",False,"['Alcuin 1', 'Oduin 1']","['1142', '9827']",NEEDS MANUAL VALIDATION,202,203
+Ep. 135,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S, E, G",False,"['Fredegisus 1', 'Alcuin 1', 'Frithugils 2']","['1178', '1142', '10084']",NEEDS MANUAL VALIDATION,203,205
+Ep. 136,"Alevinus Carolo regi de duobus evangelii gladiis respondet. Hortatur, ne permittat,
+ut presbyleri ab episcopis pracdicare vetentur. Addit de altaribus a contaminatione
+tuendis, c. 798.
+
+","Codd. T fol. 12'\—17 (T fol. 11'—15), S fol. 156—162, L fol. 132'\—144, V (Vossian. Lugdun. fol. 70), Parisinus 2183 s. XI (P); initium habent K 1 fol. 26—26', K2 p. 74—75, A1 fol. 85, A 1 p. 97 n. 61%,","Ed . C12, Q6, F 124, J 239. — Migne col. 422.",DOMINO DESIDERABILITER VENERABILI ET VENERABILITER DESIDERABILI> DAVID REGI IN FIDE ET CARITATE FLACCUS¢ ALBINUS? SALUTEM.,"T, T*, S, L, V, P, K1, K2, A1, A1*",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,205,210
+Ep. 137,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T*, S, Q, G, K1, K2, A1*",False,"['Alcuin 1', 'Gregory 1']","['1142', '280']",NEEDS MANUAL VALIDATION,210,216
+Ep. 138,"Alevinus Gothiae incolas cohortatur, ne peccata sacerdotibus confiteri supersedeant.
+ec. 798,
+","Codd. T fol. 79—81, ubi initium deest (T fol. 81—83'), S 167'—171', K 1 fol. 41'—45', K2 p. 125—136, Q fol. 131'—133', M (cod. Ambros, Mediol. I 89), A1 p. 106—110 nr, 69%.","Ed . C 26, Q 71, F 96, J 277. — Migne col. 337.",DILECTISSIMIS VIRIS FRATRIBUS ET PATRIBUS IN PROVINCIA GOTHORUM HUMILIS ECCLESIAE CHRISTI VERNACULUS ALBINUS4 DIACONUS SALUTEM.,"T, T*, S, K1, K2, Q, M, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,216,220
+Ep. 139,"Alevinus Paulini patriarchae Aquileiensis libellum de symboli explanatione laudat
+illumque excitat ad refellendos quosdam errores in ecclesia denuo exortos. c. 798.
+
+","Codd. T fol. 85'—86' (T fol. 88—89), K 1 fol. 74—76, K 2 p. 211-217, A 1 p. 138—139 n. 984,","Ed . (60, Q 81, F'97, 794. — Migne col. 341.",DOMINO IN DOMINO DOMINORUM DILECTISSIMO ET PIO PATRI PAULINO PATRIARCHAE SALUTEM.,"T, T*, K1, K2, A1*",False,"['Paulinus 2', 'Alcuin 1']","['3528', '1142']",NEEDS MANUAL VALIDATION,220,222
+Ep. 140,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S, K, L, B, A1, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,222,222
+Ep. 141,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,T*,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,222,223
+Ep. 142,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,223,224
+Ep. 143,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A, T, T*, R, C, M",False,"['Alcuin 1', 'Charlemagne 1', 'Æthelberht 8', 'Anonymi 1922']","['1142', '247', '10874', '9990']",NEEDS MANUAL VALIDATION,224,228
+Ep. 144,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S, G, P, A, B",False,,,NEEDS MANUAL VALIDATION,228,231
+Ep. 145,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, L, K1, K2, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,231,235
+Ep. 146,"Alevinus de Arnonis archiepiscopi Salisburgensis Roma reditu certior fieri cupit et
+de Sancto Paulo, de Avaria, de nobilitate Romana, de Graecorum superbia. Significat
+dle suo itinere et de Hispanorum haeresi. Tun. 798.
+
+","Codd. § fol. 195—195', S1 fol. 104'—105' (S 1 fol. 5'—7), B fol. 75—76.","Ed . M2, B. Pez Thesaur. anecdotor. II, 1,5, ¥'29, J 101. — Migne col. 190.",VENERANDO VOLUCRI ET VERE AMANTISSIMO AQUILAE ALBINUS SALUTEM.,"S, S1, S1*, B",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,235,236
+Ep. 147,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,S,False,,,NEEDS MANUAL VALIDATION,236,237
+Ep. 148,"Alevinus Carolo regi de muneribus a Fredegiso allatis gratias agit. Solis per
+zodiacum cursum ad calculos vocat. De Felicis episcopi Urgellitani libello ad se misso
+Significat; regemque ad illius haeresim oppugnandam accendit. 798 ante Iul. med.
+
+","Codd, T fol. 19—22' (T fol. 17—19), R (Vatic. 226) fol. 1—4, L fol. 148'—156', Lae. bibl. cap. 490%.","Ed . Q 8, F 68, 599. Excerpta huius epistolae ex cod. Lucensi edidit Mansi, Baluzii Miscell.",DEO DILECTO ATQUE DEO» ELECTO DAVID REGI¢ FLACCUS4 IN FIDE ET CARITATE PERPETUAM IN CHRISTO SALUTEM.,"T, T*, R, L",False,"['Alcuin 1', 'Æthelberht 8', 'Charlemagne 1', 'Fredegisus 1', 'Frithugils 2']","['1142', '10874', '247', '1178', '10084']",NEEDS MANUAL VALIDATION,237,241
+Ep. 149,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1*",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,241,245
+Ep. 150,"Alevinus Arnonem archiepiscopum Salisburgensem revertentem videre cupit. De suo
+itinere exponit. 798 paullo ante Aug. 4.
+","Codd. S fol. 196'—197, S 1 fol. 107—108 (S' 1 fol. 8—8'), B fol. 77'—78"".","Ed . M 4, Bern. Pez Thes. anecd. II, 1,7, F 52, J 102. — Migne col. 235.",DILECTISSIMO PATRI AQUILAE TRANSALPINO ALBINUS MAGISTER SALUTEM.,"S, S1, B",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,245,246
+Ep. 151,"Angilbertus abbas 8. Richarii Centulensis Arnoni archiepiscopo Salisburgensi respondet.
+Valetudinem eius miseratur. De Caroli regis itinere. Rem eius sibi curae esse. 798,
+
+","Codd, S fol. 198 (B fol. 50'—51).","Ed . Frobenius IT, 563, Jaffé Biblioth. IV, 368; Formulae ed. Zeumer p. 450 n. 52. — Migne CI, 1319.",CARISSIMO PATRI MIHIQUE CUM NIMIO HONORE VEL AMORE NOMINANDO NOM. EPISCOPO EGO ILL. FIDELISSIMUS FILIUS VESTER PER HOS APICES IN DEO PATRE ET DOMINO IESU CHRISTO OPTAMUS VESTRAE PATERNITATI SEMPITERNAM SALUTEM.,"S, B",False,,,NEEDS MANUAL VALIDATION,246,247
+Ep. 152,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,S,False,,,"[['Yoh', '4', '14'], ['Par', '3', '14'], ['1 Paral', '29', '14']]",247,248
+Ep. 153,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S, S1, S1*, B",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,248,249
+Ep. 154,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, A1*",False,"['Gisla 1', 'Alcuin 1', 'Frithugils 2']","['1208', '1142', '10084']",NEEDS MANUAL VALIDATION,249,249
+Ep. 155,"Alevinus Carolo regi respondet de stellis errantibus, de lunae per zodiacum cursu,
+de stella Martis. 798 Sept. in.
+","Codd. T fol. 10—12' (T fol. 9—11), R fol. 4—74, finis exstat in L fol. 1524.","Ed . Q6, F'70, J 103. — Migne col. 278.",OMNI VIRTUTUM GENERE NOBILISSIMO ATQUE OMNI SAPIENTIAE DECORE CLARISSIMO DAVID REGI MILES VETERANUS' FLACCUS SALUTEM.,"T, T*, R, L",False,"['Charlemagne 1', 'Alcuin 1', 'Bede 1']","['247', '1142', '424']",NEEDS MANUAL VALIDATION,249,253
+Ep. 156,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S, S1a, S1b, S1*",False,"['Arno 1', 'Alcuin 1', 'Candidus 2']","['9847', '1142', '12979']",NEEDS MANUAL VALIDATION,253,255
+Ep. 157,"Alevinus Arnoni archiepiscopo Salisburgensi respondet. Epistolae ad se missae tenui-
+
+tatem reprehendit. Se Turonos festinare significat, ewmque ad se venire cupit. De Candido.
+
+798 Sept.
+","CodCodd. T fol. 10—12' (T fol. 9—11), R fol. 4—74, finis exstat in L fol. 1524.","Ed Ed . Q6, F'70, J 103. — Migne col. 278.",,"S1, S1*",False,"['Arno 1', 'Alcuin 1', 'Candidus 2']","['9847', '1142', '12979']","[['Mai', '25', '14'], ['CfRom', '11', '5']]",255,256
+Ep. 158,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S, S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,256,257
+Ep. 159,"Alevinus Arnonem archiepiscopum Salisburgensem aut hieme Turonis aut proximo
+anno in coenobio S. Amandi videre optat. Gaudet, quod Leo III papa immerito iniuria
+
+afficiatur, et quod iter ab Arnone non frustra factum sit. 798 Nov.
+","Codd, A 1 fol. 40—41', A1 p, 44 bis — 46 n. 314,",Ed J 108.,J 108. NOBILISSIMO AVIUM AQUILAE ANSER STRIDENTI VOCE SALUTEM.,"A1, A1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,257,258
+Ep. 160,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,Cod. Parisinus,False,['Alcuin 1'],['1142'],"[['Kia', '38', '18'], ['2 Thoss', '3', '8']]",258,259
+Ep. 161,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,S,False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,259,260
+Ep. 162,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*",False,"['Angilberct 1', 'Alcuin 1']","['9973', '1142']",NEEDS MANUAL VALIDATION,260,263
+Ep. 163,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, P*, L, G",False,"['Charlemagne 1', 'Alcuin 1', 'Candidus 2']","['247', '1142', '12979']",NEEDS MANUAL VALIDATION,263,266
+Ep. 164,"Alevinus Caroli regis Francorum filiae scribit se propter infirmam valetudinem ad
+regem non venisse. Sperat fore, ut rex Turonos accedat et Dares Hispanicus a sesc
+vincatur.  a. 799 ineunte.
+
+","Codd. S'1 fol. 116' (S1 fol. 17'—18), A1 fol. 63—63', A1 p.69—70 n. 48%,","Ed . M8, F 100, J 132, — Migne ool. 363,",KARISSIMAE> IN CHRISTO FILIE FIDELIS IN KARITATE PATER PERPETUAE PROSPERITATIS SALUTEM.,"S1, S1*, A1, A1*",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,266,267
+Ep. 165,"Alevinus Arnoni archiepiscopo Salisburgensi, domum reverso ct in monasterium
+Elnonense venturo, respondet. De Carolo rege Francorum Turonos petituro. De mandato
+coenobii Calensis adeundi; de Angilberto; de Leidrado. 799 c, Ianuar. ex.
+
+","Codd. S fol. 195'—196', S 14 fol. 105'—107, S 1b fol. 128—129' (S1 fol. 7-8, 28'—29), B fol. 76—77'.","Ed , M3. 12, Pez Thesawr. anecdot. I, 1,6, F 87, J 138. — Migne col. 316.",SANCTISSIMO PONTIFICI ET DULCISSIMO FILIO AQUILAE ALBINUS SALUTEM.,"S, S1a, S1b, S1*, B",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,267,268
+Ep. 166,"Alcvinus Elipantum Toletanum episcopum cohortatur, ut et ipse suos de adoptione
+et nuncupatione Christi errores abiciat et Felicem Urgellitanum episcopum ceterosque
+Hispaniae christianos ad bonam frugem revocet'. 799.
+
+","Codd. P fol. 20—27' (P fol. 16), Parisinus 2388 fol. 1sqq. (Pa), quem contulit Moliniers.","Ed . Quercetanus col. 901-910 ex codice iam deperdito ecclesiae S. Mariae Remensis, Frobenius",VENERABILI ET IN CHRISTI KARITATE AMABILI PATRI ELIPANTO> EPISCOPO ECCLESIASTICAE PACIS¢ FILIUS ALBINUS LEVITA SALUTEM.,"P, P*, Pa",False,"['Elipant 1', 'Alcuin 1']","['1174', '1142']",NEEDS MANUAL VALIDATION,268,274
+Ep. 167,"Alevinus Arnonem archiepiscopum Salisburgensem de vita aeterna monet; eumque
+se in monasterio Sancti Amandi frustra quaesivisse dolet. 799 Febr. ex.
+
+","Codd. T fol. 75—75', Sia fol. 114'—116, S 1b fol. 195—196 (S1 fol. 15 —17), B fol. 747, Q fol. 127—127', K 1 fol. 54'—55', K2 p. 159-161, A 1 p. 118—119 nr. 75%.","Ed . C35, Q66, F 86, 7109. — Migne col. 315.",CARISSIMO GERMANO AQUILAE> ANTESTITI ALBINUS SALUTEM.,"T*, S1a, S1b, S1*, B, Q, K1, K2, A1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,274,275
+Ep. 168,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, K1, K2, S1, S1*, D, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,275,278
+Ep. 169,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*, D",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,278,278
+Ep. 170,"Alevinus Carolo regi respondet, quas ob causas luna die 18. Martii parum magna
+apparuerit. Sed pascha loco suo moveri licitum esse negat. 799 Martio exeunte.
+
+","Codd. T fol. 25'—27 (T fol. 22'—28), P fol. 126—128, R fol. 9 —11', L fol. 163'—167, initium habent K 1 fol. 27, K2 p. 77-78, A1 p. 98 n. 63%,","Ed , C14, Q 10, F 71, J 110. — Migne col. 281,",DOMINO DILECTISSIMO DAVID REGI FLACCUS ALBINUS SALUTEM.,"T, T*, P, R, L, K1, K2, A1*",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']","[['2 Thoss', '3', '8'], ['Philipp-3', '13', '8']]",278,281
+Ep. 171,"Alevinus Carolo regi respondet. Petit, ut suum adversus Felicem episcopum Urgel-
+litanum librum confirmet. Cursus lunaris et incrementi bisseatilis rationes a rege missas
+comprobat. Mittit rationem solaris et lunaris per Signiferum cursus. 799 post Mart.
+
+","Codd. T fol. 31—32' (T fol. 28—29), P fol. 119'—121' (P fol. 79'—80), K 1 fol. 16'—18', K2 p. 46—52, L fol. 177'—181', A 1 p, 85—87 n. 544,","Ed . C5, Q14, F'84, J 111. — Migne col. 311.",BENEDICTO> ATQUE OMNI SAPIENTIAE DECORE PRAEFULGIDO DAVID REGI FLACCUS ALBINUS IN CHRISTO SALUTEM.,"T, T*, P, P*, K1, K2, L, A1*",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,281,284
+Ep. 172,"Alevinus Carolo regi gratias agit, quod suum adversus Felicem episcopum Urgel-
+litanum libellum recitari iusserit sibique ad tollenda librarii vitia remiserit. Sed graviorum
+errorum indicium desiderat. De scripta Felicis cum Sarraceno disputatione nuntium ad
+Laidradum episcopum Lugdunensem missum esse. Addit de disputatione a Petro Pisano
+quondam Papiae cum Lullo Iudaco habita. Mittit species dictionum et figuras arithmeticas.
+Intermissam a scriptoribus artem interpungendi per Carolum reduci cupit.
+
+799 Apr. — Mai.
+
+","Codd, T fol. 32'—33' (T fol. 29'—30'), P fol. 121'—123 (P fol. 81—82), L fol. 182—184', prior pars in K1 fol. 18'—19, K2 p. 52—54, A1 p. 87—88 n. 55%,","Ed . C 6, Q 15, F 85, J 112. — Migne col. 313.",DOMINO PIISSIMO> ET PRAESTANTISSIMO DAVID4 REGI FLACCUS CARITATIS CALAMO VULNERATUS ! SALUTEM.,"T, T*, P, P*, L, K1, K2, A1*",False,"['Alcuin 1', 'Charlemagne 1', 'Peter 8', 'Lullus 1']","['1142', '247', '10087', '10086']",NEEDS MANUAL VALIDATION,284,286
+Ep. 173,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*, B",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,286,287
+Ep. 174,"Alevinus Carolo regi gratias agit, quod de Leone III papa a Romanis crudeliter
+tractato se certiorem fecerit. Quo facilius ecclesiae consulat, ut cum Saxonibus pacem
+componat hortatur. 799 Tun.
+
+","Codd. T fol. 27—28' (T fol. 24—25), P fol. 128—129' (P fol. 86—87), K1 fol. 14-16, K2 p. 41—46, L fol. 167—-170, A1 p. 83-85 mr. 535.","Ed . C4, Q 11, F80, J 114, — Migne col. 301.",DOMINO PACIFICO DAVID REGI FLACCUS ALBINUS SALUTEM.,"T, T*, P, P*, K1, K2, L, A1*",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,287,290
+Ep. 175,"Alevinus Adalhardum abbatem Corbeiensem reprehendit, quod ad se neque accedat
+neque litteras mittat. Se febri impeditum fuisse, quominus ad eum veniret. De Angilberto.
+
+799 ante Tul. 10.
+","Codd. H fol. 97—98, T fol. 115'—116%.","Ed . Q 107, F 144, J 116. — Migne col, 461.",ANTONIO! ALBINUS SALUTEM.,"H, T*",False,"['Adalhard 1', 'Alcuin 1']","['9839', '1142']",NEEDS MANUAL VALIDATION,290,291
+Ep. 176,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Adalhard 1', 'Alcuin 1']","['9839', '1142']",NEEDS MANUAL VALIDATION,291,292
+Ep. 177,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,"T, T*, P, P*, L",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']","[['Ch9', 'Tim', '3-1'], ['Ecclo', '11', '6']]",292,294
+Ep. 178,"Alevinus Carolo regi respondet. De prospero rerum eventu gratulatur. Clementiam
+suadet. De Leone III papa praeter spem sano gaudet, De discipulis suis mittendis quaerit.
+Significat, quare Turonis quam Romae esse malit. Regi Romam ituro lacta optat.
+
+799 Aug.
+
+","Codd. T fol. 29'—31 (T fol. 26'—27), P fol. 117'—119', L fol, 174—177', K 1 fol. 10—20', K2 p. 54—56, AI p, 88—89 n. 56%,","Ed . C7, Q 13, F 93, J 119. — Migne col. 309.",DOMINO DILECTISSIMO ATQUE OMNI HONORE DIGNISSIMO DAVID REGI FLACCUS VETERANUS MILES PERPETUAM IN CHRISTO SALUTEM.,"T, T*, P, L, K1, K2, A1",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,294,296
+Ep. 179,"Alevinus Arnoni archiepiscopo Salisburgensi respondet se libenter ad Leonem III
+papam accessurum eique ab epistolis futurum fuisse, si et per valetudinem suam licuisset
+et Carolus rea sese vocavisset. Orimina in papam collata eidem abiuranda esse negat.
+Hortatur, ut papae causam defendat. 799 Aug.
+
+","Codd. 1 fol. 149—151' (S 1 fol. 61'—63!), D fol. 240'—-2498,","Ed , F 92a, J 120. — Migne col. 324.",DOMINO BEATISSIMO ET MERITO PERPETUAE CARITATIS ALIS AMPLECTANDO AQUILAE EPISCOPO HUMILIS LEVITA ALCHVINUS SALUTEM.,"S1, S1*, D",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,296,298
+Ep. 180,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,B,False,"['Leo 1', 'Alcuin 1']","['2009', '1142']",NEEDS MANUAL VALIDATION,298,298
+Ep. 181,"Alevinus Adalhardum abbatem Corbeiensem reprehendit, quod, quae condiciones inter
+Carolum regem et Leonem III papam convenissent, ad se non retulerit, Se in coenobium
+S. Martini Turonense redire nuntiat. Sperat fore, ut ad se accedat. 799 Sept.
+
+",Cod. H fol. 94'—95'.,"Ed . F 172, J 121. — Migne col. 309.","ALCVINI EPISTOLAR. 181. 299 PRIMA LITTERA! PRIMAE?, ET QUINTA DECIMA SEXTAE‘, SACRATUS IN GRADIBUS NUMERUS PERFECTO IN OPERIBUS DEI SALUTEM.",H,False,"['Adalhard 1', 'Alcuin 1']","['9839', '1142']",NEEDS MANUAL VALIDATION,298,300
+Ep. 182,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,Cod. Paris 2388,False,['Alcuin 1'],['1142'],"[['Ecclo', '11', '6'], ['CE', 'Prov', '16-9']]",300,307
+Ep. 183,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,S. Mariae Remensis,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,307,308
+Ep. 184,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*, D",False,"['Arno 1', 'Alcuin 1', 'Candidus 2']","['9847', '1142', '12979']",NEEDS MANUAL VALIDATION,308,310
+Ep. 185,"Alevinus Arnoni archiepiscopo Salisburgensi scribit ex ducum quorundam limiti
+
+praefectorum obitu timorem maioris mali sibi nasci. Arnonem vigilem esse vult.
+
+799 Oct. Nov.
+",CodCod. H fol. 94'—95'.,"Ed Ed . F 172, J 121. — Migne col. 309.",,"H, S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,310,311
+Ep. 186,"Alevinus Arnoni archiepiscopo Salisburgensi pro litteris muneribusque Roma sibi
+missis gratias agit, sinistram suspicionem a se amovet, Leoni papae, Paulino patriarchae,
+Petro archiepiscopo se commendari cupit, ad pacis restituendae studium hortatur.
+
+a. 799 exeunte.
+",Codd. S1 fol. 141-144 (S1 fol. 48'—53').,"Ed . M16, F 102, J 126. — Migne col. 366.",VENERANDO PATRI AQUILAE EVANGELICAE ALBINUS SALUTEM.,"S1, S1*",False,"['Alcuin 1', 'Anonymi 1923', 'Arno 1']","['1142', '9991', '9847']",NEEDS MANUAL VALIDATION,311,313
+Ep. 187,"Alevinus monachos Gothiae ad bonos mores cohortatur. Petit ut pro se precentur,
+Munera mittit. Adversus periculum instans eorum animos confirmat. e 799.
+
+","Codd. H fol. 20—22', T fol. 102—103'.","Ed . Q.99, F' 95, J 247. — Migne col. 334.",SANCTISSIMIS IN CHRISTI CARITATE FRATRIBUS DEOQUE IN DIVERSIS GOTHIAE PARTIBUS FIDELITER SERVIENTIBUS HUMILIS LEVITA> ALCHVINUS SALUTEM.,"H, T*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,313,315
+Ep. 188,"Alevinus Carolum regem, Caroli imperatoris filium, laudat et confirmat. De Ludovico
+Aquitaniae rege. 793—800.
+
+","Codd, H fol. 19-20, L fol. 207—208'.","Ed . F 179, J 245. — Migne col. 354.",DOMINO MERITO INSIGNI REGALIQUE HONORE DIGNISSIMO CAROLO! FILIO ALBINUS TRIUMPHALEM IN CHRISTO SALUTEM.,"H, L",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,315,316
+Ep. 189,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Alcuin 1', 'Cyneberht 8', 'Anonymi 1924', 'Anonymous 762']","['1142', '9992', '9994', '9993']",NEEDS MANUAL VALIDATION,316,317
+Ep. 190,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"H, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,317,318
+Ep. 191,"Alevinus de intermisso cum Ricbodo archiepiscopo Trevirensi litterarum commercio
+queritur; ad horam expetit quaedam Leonis et Bedae scripta. Ad Sanctum Martinum
+invitat, + ¢. 796 — ¢, 800.
+
+","Cod. H fol. 18'—19%,","Ed . F 197, J 197. — Migne col. 442.",MACHARIO PATRIARCHAE! ALBINUS SALUTEM.,H,False,"['Alcuin 1', 'Bede 1']","['1142', '424']",NEEDS MANUAL VALIDATION,318,318
+Ep. 192,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Theodulf 1', 'Alcuin 1']","['10088', '1142']",NEEDS MANUAL VALIDATION,318,319
+Ep. 193,"Alevinus Arnoni archiepiscopo Salisburgensi scribit de suo erga eum amore. Se
+diligenter se praeparare ad disputationem cum Felice episcopo Urgellitano habendam.
+Sperat fore, ut aestate eum videat. De Candido; de libris remittendis; de Hildegario;
+de Adelberto et Alimo episcopo Sabionensi; de festo omnium sanctorum ',
+
+","Codd. 81 fol. 145'—148' (S 1 fol. 57'—61). 800 ante Mart, 19.","Ed . M 18, F 76, J 134. — Migne col. 294.",AQUILAE INTER OMNES ALPINE CELSITUDINIS AVES CARISSIMO ALBINUS SALUTEM.,"S1, S1*",False,"['Arno 1', 'Alcuin 1', 'Candidus 2']","['9847', '1142', '12979']",NEEDS MANUAL VALIDATION,319,321
+Ep. 194,"Alevinus Arnoni archiepiscopo Salisburgensi pro muneribus missis gratias agit.
+Addit de disputatione cum Felice episcopo Urgellitano habenda; cui et Paulinum patri-
+archam Aquileiensem et Arnonem interesse cupit. De libris remittendis; de Adelberto.
+
+800 Mart. 19.
+","CodCodd. 81 fol. 145'—148' (S 1 fol. 57'—61). 800 ante Mart, 19.","Ed Ed . M 18, F 76, J 134. — Migne col. 294.",,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,321,322
+Ep. 195,"Alevinus Gislae abbatissae Calensi, sorori Caroli regis, et Rotrudae filiae eiusdem
+mittit partem commentarii in evangelium Iohannis. Scribit se iussu regis in emendando
+testamento et vetere et novo occupatum esse. 800 ante Apr. 19.
+
+","CodCodCodd. 81 fol. 145'—148' (S 1 fol. 57'—61). 800 ante Mart, 19.","Ed Ed Ed . M 18, F 76, J 134. — Migne col. 294.",,G,False,"['Gisla 1', 'Richtrud 1', 'Alcuin 1']","['1208', '1209', '1142']","[['CE', 'Prov', '16-9'], ['Exech', '33', '11'], ['Ezech', '38', '12']]",322,323
+Ep. 196,"Gisla abbatissa Calensis, soror Caroli regis, et Rodtruda filia regis Alevinum hor-
+tantur, ut coeptam evangelii Iohannis explanationem sibi absolvat. 800 post Apr. 19.
+
+","Codd. 8. Galli 275 (G) p. 8—5, Monae. (S. Emmer.) 14891 (E) fol. 4—5, P fol. 131'—133 (P fol. 88—90), Valentian, 76 (74) fol.1—1', quem contulerunt Bethmann et Sackur; Parisinus 12279 s. X. fol. 59 (0). Exstat etiam in codd. eccl. cathedr. Coloniens. CVII s. IX. fol. 2—3, Dusseldorp. B 4 saec. X. (Pertz Arch, XI, 747).","Ed . Quercetanus col. 373—376, Frobenius I, 460—461, J 137. — Migne col. 738.",VENERANDO PATRI NOBISQUE CUM SUMMO HONORE> AMPLECTANDO ALBINO MAGISTRO@ SALUTEM.,"G, E, P, P*, O",False,['Alcuin 1'],['1142'],"[['Ezech', '38', '12'], ['Tool', '9', '13'], ['Eeeli', '5', '8'], ['Lune', '15', '18-21']]",323,325
+Ep. 197,"Alevinus Carolum regem de mortua Liutgarda regina consolatur precesque pro ea
+addit. 800 Iun, 4. aut paulo post.
+
+","Codd. T fol. 38'—39' (T fol. 35), L fol. 196'—199°,","Ed . Q 21, F 90, J 138. — Migne col, 320.",DOMINO PIISSIMO ET PACIFICO REGI ET PRAESTANTISSIMO TRIUMPHATORI AETERNAE BEATITUDINIS GLORIAM ET SALUTEM.,"T, T*, L",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,325,326
+Ep. 198,"Alevinus Carolum regem de carorum amicorum morte consolatur’. 800?
+
+","Codd. T fol. 39'—41' (T fol. 36~87), L fol. 199-2078,","Ed . Q 22, F 91, J 124. — Migne col. 321.",DOMINO DESIDERABILI ET VERE BEATISSIMO DAVID REGI FLACCUS ALBINUS SALUTEM.,"T, T*, L",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']","[['Lune', '15', '18-21'], ['Tor', '17', '14'], ['Eeele', '12', '7'], ['Tit', '2', '12']]",326,329
+Ep. 199,"Felix episcopus Urgellitanis significat praesente Carolo rege de adoptione et nun-
+eupatione convictum ab erroribus suis se recessisse. Hortatur, ut etiam ipsi in viam
+rectam redeant. 800 medio mense Iunio.
+
+","CodCodd. T fol. 39'—41' (T fol. 36~87), L fol. 199-2078,","Ed Ed . Q 22, F 91, J 124. — Migne col. 321.",,S. Mariae Remensis,False,,,NEEDS MANUAL VALIDATION,329,330
+Ep. 200,"Alevinus Laidrado Lugdunensi et Nefridio Narbonensi episcopis ac Benedicto
+Anianensi abbati, Caroli regis iussu iam iterum ad oppugnandas haereses ituris, suos
+adversus Elipandum Toletanum episcopum scriptos libros dedicat. Se Dei voluntate in
+Francorum regnum ad Carolum pervenisse putat. 800.
+
+","Codd. P fol. 27'—30' (P fol. 6'—8), Paris. 2388 (Colbert.) s. XIV. (Pa) fol. 7"".","Ed . Quercetanus col. 925—930 ex cod, S. Mariae Remensis, Frobenius I, 860, J 140. — Migne CI, 231.",DOMINIS IN CHRISTI CARITATE VENERABILIBUS ATQUE DILECTISSIMIS LAIDRADO EPISCOPO LUGDUNENSI ET NEFRIDIO EPISCOPO NARBONENSI ET BENEDICTO ABBATI> SIMULQUE SANC- TISSIMIS NOBISQUE VALDE HONORABILIBUS GOTHIAE PROVINTIAE PARTIBUS EPISCOPIS4 ABBATIBUS ET FRATRIBUS HUMILLIMUS SANCTAE ECCLESIAE FILIUS ALBINUS SALUTEM.,"P, P*, Pa",False,"['Benedict 4', 'Elipant 1', 'Alcuin 1']","['1146', '1174', '1142']",NEEDS MANUAL VALIDATION,330,333
+Ep. 201,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"P, Pa",False,"['Benedict 4', 'Alcuin 1']","['1146', '1142']",NEEDS MANUAL VALIDATION,333,335
+Ep. 202,"Alevinus Carolum regem rogat, statuat, utrum maius suum adversus Felicem epi-
+scopum Urgellitanum opus publicetur neene. 800.
+
+",Cod. Parisinus 2386 saec. IX. fol. 4 sq.,"Ed . Baluzius Miscellanea IV, 413—415, Frobenius I, 787, J 142. — Migne CI, 126.",MAXIMO ATQUE INVICTISSIMO 'TRIUMPHATORI ATQUE CLEMENTISSIMO REGNORUM RECTORI CAROLO REGI FRANCORUM ET LANGOBARDORUM AC PATRICIO ROMANORUM HUMILIS LEVITA ALCVINUS SALUTEM.,Paris 2386,False,"['Charlemagne 1', 'Alcuin 1', 'Felix 4']","['247', '1142', '1172']",NEEDS MANUAL VALIDATION,335,336
+Ep. 203,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,Paris 2386,False,"['Charlemagne 1', 'Felix 4', 'Alcuin 1', 'Bede 1', 'Gregory 1']","['247', '1172', '1142', '424', '280']",NEEDS MANUAL VALIDATION,336,337
+Ep. 204,"Alevinus virginem quandam nobilem (Gundradam ?) de dogmate contra adoptianos instruit.
+",CodCod. Parisinus 2386 saec. IX. fol. 4 sq.,"Ed Ed . Baluzius Miscellanea IV, 413—415, Frobenius I, 787, J 142. — Migne CI, 126.",,"H, T*",False,"['Gundrada 1', 'Alcuin 1', 'Candidus 2']","['1207', '1142', '12979']",NEEDS MANUAL VALIDATION,337,340
+Ep. 205,"Alevinus abbatibus et monachis Gothiae respondet. De suo adversus Felicem epi-
+scopum Urgellitanum libello per Benedictum abbatem Anianensem ad eos misso; de maiore
+opere mittendo. De adoptione et nuncupatione, Stabilitatem et perseverantiam suadet.
+
+800 medio mense Iunio.
+
+","Cod. Parisinus 2390 (Colbert. 4310) s. XI. fol. 84'—85's,","Ed . Baluzii Miscell. I, 377-381, Aguirre Coll. cone. Hisp. IV, 118, F 94, J 145.— Migne col. 332.","ALBINUS HUMILIS CHRISTI FAMULUS ET SERVIENS SANCTI MARTINI OMNIBUS ABBATIBUS FRATRIBUS ET FILIS, QUI SUNT GOTHIAE> PARTIBUS, IN CHRISTO KARISSIMIS AETERNE BEATITUDINIS SALUTEM.",Paris 2390,False,"['Alcuin 1', 'Felix 4']","['1142', '1172']",NEEDS MANUAL VALIDATION,340,342
+Ep. 206,"Alcvinus Nifridio episcopo Narbonensi Benedictum abbatem Anianensem commendat.
+
+800 medio mense Iunio.
+",Cod. H fol. 63'.,"Ed . F 202, J 146. — Migne col. 488.",DILECTO PATRI NIFRIDIO EPISCOPO ALCHVINUS SALUTEM.,H,False,"['Benedict 4', 'Alcuin 1']","['1146', '1142']","[['Tit', '2', '12'], ['Le', '2', '35'], ['Ine', '12', '96']]",342,343
+Ep. 207,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Arno 1', 'Alcuin 1', 'Felix 4', 'Candidus 2']","['9847', '1142', '1172', '12979']","[['Ine', '12', '96'], ['Mate', '6', '8']]",343,345
+Ep. 208,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,345,346
+Ep. 209,"Alevinus Calvino presbytero et monacho S, Stephani scribit de rerum externarum
+usu; de Eanbaldi II archiepiscopi Eboracensis incommodis; de adulatione vitanda; de
+suo in Iohannis evangelium commentario, cet. a. 800 fere medio.
+
+","Codd. H fol. 25'—29, T' fol. 104—106', A2 fol. 158'—160', (A 1 fol. 38'), A1 p. 48—52 n, 35%,","Ed . Q 101, F 58, J 149. — Migne col. 246.",DILECTISSIMO FILIO CALVINO PRESBITERO ALBINUS DEVOTUS IN CARITATE PATER SALUTEM.,"H, T*, A2, A1, A1*",False,"['Anonymi 1925', 'Eanbald 2', 'Alcuin 1', 'Caluinus 1', 'Anonymi 1926', 'Anonymi 1927', 'Gregory 1', 'Eanbald 1']","['9996', '3513', '1142', '9995', '9997', '9998', '280', '3288']",NEEDS MANUAL VALIDATION,346,350
+Ep. 210,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,Paris 2826,False,"['Alcuin 1', 'George 3', 'Eanbald 2', 'Frithugils 2', 'Onia 1']","['1142', '9999', '3513', '10084', '10089']","[['Mate', '6', '8'], ['CfProv', 't0', '1']]",350,351
+Ep. 211,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*",False,"['Charlemagne 1', 'Alcuin 1', 'Candidus 2']","['247', '1142', '12979']","[['CfProv', 't0', '1'], ['Pie', '1', '1']]",351,352
+Ep. 212,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,352,354
+Ep. 213,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"G, E, V, O",False,"['Gisla 1', 'Richtrud 1', 'Alcuin 1', 'Bede 1', 'Gregory 1']","['1208', '1209', '1142', '424', '280']",NEEDS MANUAL VALIDATION,354,357
+Ep. 214,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Alcuin 1', 'Gisla 1', 'Richtrud 1']","['1142', '1208', '1209']",NEEDS MANUAL VALIDATION,357,359
+Ep. 215,"Alevinus discipulis suis Romae morantibus de suo desiderio scribit. Rogat, ut pro
+se precentur. Litteras poscit. a. 801 ineunte.
+
+","Cod. H fol. 88—38's,","Ed . F 180, J 160. — Migne col. 355.",CARISSIMIS IN CHRISTO FILIIS PATER PERPETUAM SALUTEM.,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,359,359
+Ep. 216,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Alcuin 1', 'Bede 1', 'Gisla 1', 'Richtrud 1', 'Candidus 2']","['1142', '424', '1208', '1209', '12979']",NEEDS MANUAL VALIDATION,359,360
+Ep. 217,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Charles 2', 'Charlemagne 1', 'Alcuin 1']","['1189', '247', '1142']","[['Pie', '1', '1'], ['2 Rey', '12', '13']]",360,361
+Ep. 218,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Arno 1', 'Alcuin 1']","['9847', '1142']","[['2 Rey', '12', '13'], ['Lov', '4', '26']]",361,363
+Ep. 219,"Alcvinus monachis Lirinensibus de bonae conversationis fama gratulatur, precibus
+corum se commendat, ad mutuam caritatem et pacem eos exhortatur. ce, 801.
+
+",Cod. H fol. 42—43'».,"Ed . F 216, J 249. — Migne col. 495.",RELEGIOSAE CONGREGATIONI SANCTISSIMI PATRIS HONORATI! ALCHVINUS DIACONUS SALUTEM.,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,363,364
+Ep. 220,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Adalhard 1', 'Alcuin 1']","['9839', '1142']",NEEDS MANUAL VALIDATION,364,364
+Ep. 221,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Angilberct 1', 'Alcuin 1']","['9973', '1142']",NEEDS MANUAL VALIDATION,364,365
+Ep. 222,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Adalhard 1', 'Alcuin 1']","['9839', '1142']",NEEDS MANUAL VALIDATION,365,366
+Ep. 223,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,366,367
+Ep. 224,"Alevinus Chrodgario comiti scribit de discipulo ad se misso. Monet, ut Carolo im-
+peratori recta consilia det. De bello Beneventano. 801 post Apr. 4.
+
+",Cod. H fol. 65'—66.,"Ed . ¥F 187, J 165. — Migne col. 376.",VIRO LAUDABILL CHRODGARIO COMITI! ALBINUS DIACONUS SALUTEM.,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,367,368
+Ep. 225,"Alevinus Theodulfo archiepiscopo Aurelianensi pallium acceptum gratulatur. De
+aegrotatione sua. Monet, ut praedicationi diligenter insistat. 801 post Apr. 4.
+
+",Cod. H fol. 43'—45.,"Ed . F 193, J 166. — Migne col. 391.","PIO PATRI ET PRUDENTI MAGISTRO, NOBISQUE CUM OMNI AMORE AMPLECTENDO TEODULFO ARCHIEPISCOPO HUMILIS LEVITA ALCHVINUS SALUTEM.",H,False,"['Theodulf 1', 'Alcuin 1', 'Candidus 2']","['10088', '1142', '12979']",NEEDS MANUAL VALIDATION,368,369
+Ep. 226,"Alevinus Eanbaldum II archiepiscopum Eboracensem de incommodis consolatur.
+Munera mittit. De libro missali; de ordine Romano; de adversa sua valetudine.
+
+801 post Apr. 4.
+",Cod. H fol. 50—51.,"Ed . F 171, Haddan and Stubbs Councils IIT, 507—509, J 167. — Migne cot. 234.",ALBINUS SYMEONI! SACERDOTI SALUTEM.,H,False,"['Alcuin 1', 'Eanbald 2', 'Anonymi 1929', 'Anonymi 1928', 'Anonymi 1930', 'Dodo 1']","['1142', '3513', '10002', '10001', '10003', '9908']",NEEDS MANUAL VALIDATION,369,371
+Ep. 227,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,371,371
+Ep. 228,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Gisla 1', 'Richtrud 1', 'Alcuin 1']","['1208', '1209', '1142']",NEEDS MANUAL VALIDATION,371,372
+Ep. 229,"Alevinus Carolo imperatori ex Italia reverso Candidum obviam mittit. Se propter
+senectutem et valetudinem omnino animi saluti prospicere velle scribit; sed in coenobio
+S. Martini Turonensi manere cupit. 801 Sept. vel Oct.
+
+",CodCod. H fol. 50—51.,"Ed Ed . F 171, Haddan and Stubbs Councils IIT, 507—509, J 167. — Migne cot. 234.",,"H, T*",False,"['Charlemagne 1', 'Alcuin 1', 'Candidus 2']","['247', '1142', '12979']",NEEDS MANUAL VALIDATION,372,374
+Ep. 230,"Alevinus Aethelhardum archiepiscopum Cantuariensem, Romam profecturum, hortatur,
+ut peracto itinere domum revertatur. Monet, ut clericos suos comites coram Carolo im-
+peratore modestos comparere iubeat. Mittit sellam et equum. Certior fieri vult, num per
+Turones Roma reversurus sit. 801.
+","Codd. H fol. 57'—58', A1 fol, 125—126, A 1 p. 147-148 n. 105. Initium legitur apud Willelm.  Malmesbir, Gesta pontiff. Anglor. 1. IIT p. 247, fragm. 1. I p. 17, Gesta reg. Anglor. I § 82 p. 82 ed. Stubbs.","Ed . F 62, 173, Haddan and Stubbs Councils TIE, 532, J 171. — Migne col. 257. 343.",SANCTISSIMO PATRI ET IN MEMBRIS CHRISTI VALDE VENERANDO AEDILHARDO ARCHIEPISCOPO ALCHVINUS> DIACONUS IN CHRISTI CARITATE SALUTEM.,"H, A1, A1*",False,"['Alcuin 1', 'Æthelheard 13', 'Eanbald 2', 'Charlemagne 1', 'Anonymi 1932', 'Anonymi 1934', 'Anonymous 763', 'Anonymi 1935', 'Anonymi 1933', 'Anonymi 1931']","['1142', '2121', '3513', '247', '10005', '10008', '10007', '10011', '10006', '10004']",NEEDS MANUAL VALIDATION,374,375
+Ep. 231,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, L",False,"['Alcuin 1', 'Charlemagne 1', 'Torhtmund 1', 'Æthelred 7', 'Æthelheard 13', 'Anonymi 1936', 'Offa 7', 'Ceolmund 2']","['1142', '247', '10010', '2127', '2121', '10012', '305', '5276']",NEEDS MANUAL VALIDATION,375,376
+Ep. 232,"Alevinus Eanbaldo II archicpiscopo Eboracensi: nuntiat Acthelhardum archicpiscopum
+Cantuariensem, Romam proficiscentem, in cella S. Iudoci bene receptum esse. Addit de
+eius cum Eardulfo Northanhumbrorum rege inimicitiis, Constantiam suadet. De sua
+abdicatione. 801 post Apr. 5.
+
+","Cod. H fol. 24—25'8,","Ed . F 174, Haddan and Stubbs Councils IIT, 534—536, J 173. — Migne col. 345.",FILIO VOTORUM MEORUM SYMEONI SACERDOTI ALBINUS SALUTEM.,H,False,"['Alcuin 1', 'Eanbald 2', 'Anonymous 764', 'Æthelheard 13', 'Anonymi 1935', 'Ceolmund 2', 'Torhtmund 1', 'Charlemagne 1', 'Anonymi 1939', 'Anonymi 1926', 'Dodo 1', 'Æthelred 7', 'Ælfwald 7', 'Eardwulf 4', 'Anonymi 1937', 'Anonymous 765', 'Eanbald 1', 'Æthelberht 8', 'Anonymi 1938', 'Anonymi 1984']","['1142', '3513', '10014', '2121', '10011', '5276', '10010', '247', '10017', '9997', '9908', '2127', '7250', '7277', '10013', '10015', '3288', '10874', '10016', '10092']",NEEDS MANUAL VALIDATION,376,378
+Ep. 233,"Alevinus Calvino presbytero et monacho S. Stephani et Cuculo scribit, commoneant
+Eanbaldum IT archiepiscopum Eboracensem, ab Eardulfo rege’ Northanhumbrorum in-
+festatum, ne animo deficiat, ne alienas possessiones appetat, ne nimis multos milites alat.
+Se munus abbatis deposuisse. 801.
+
+",Cod. H fol. 61—61'.,"Ed . F 175, J 174, — Migne col. 247.",ALBINUS CALVINO ET CUCULO CARISSIMIS FILIIS SALUTEM.,H,False,"['Alcuin 1', 'Caluinus 1', 'Dodo 1', 'Eanbald 2', 'Anonymi 1942', 'Eardwulf 4', 'Anonymous 765', 'Anonymi 1938', 'Æthelberht 8', 'Anonymi 1943', 'Anonymi 1947', 'Credulus 1', 'Anonymi 1940', 'Anonymi 1941', 'Anonymi 1944', 'Anonymi 1945', 'Anonymi 1946']","['1142', '9995', '9908', '3513', '10020', '7277', '10015', '10016', '10874', '10021', '10025', '3516', '10018', '10019', '10022', '10023', '10024']","[['Lov', '4', '26'], ['Keele', '4', '12']]",378,379
+Ep. 234,"Alevinus a Leone IIT papa petit, ut sibi, rerum saecularium occupatione iam liberato,
+peccata ignoscat. 801.
+","Codd. Parisinus 2826 (L) fol. 137'—139 (ex quo Paris, 17448 fol. 113—114); musei Britann. Kings 6  B VIII saec, XII (K) fol. 27'—28 (ex quo A 1 p. 173—174 nv. 126).","Ed , Monnier, Alewin et Charlemagne p. 371—373, J 175.",DOMINO IN DOMINO DOMINORUM» DILECTISSIMO LEONI¢ PAPE@ HUMILIS LEVITA ALCHVINUS SALUTEM.,L,False,"['Alcuin 1', 'Leo 1']","['1142', '2009']",NEEDS MANUAL VALIDATION,379,380
+Ep. 235,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A2, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,380,381
+Ep. 236,"Alchvinus archiepiscopo cuidam se negotiis saecularibus renuntiavisse scribit. Petit,
+ut pro se precetur, 801,
+","Cod, H fol. 65—65'.","Ed . F 168, J 176. — Migne col. 231.",SANCTISSIMO PATRI ARCHIEPISCOPO HUMILIS FILIUS ALCHVINUS SALUTEM.,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,381,381
+Ep. 237,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Alcuin 1', 'Adalhard 1']","['1142', '9839']",NEEDS MANUAL VALIDATION,381,383
+Ep. 238,"Alevinus Carolo imperatori pro beneficiis gratias agit et ut ob corporis infirmitatem
+apud S. Martinum sibi requiescere liceat supplicat. ¢, 801.
+
+","Codd. T fol. 37—38 (T fol. 34), L fol. 193—195%.","Ed . Q 19, F 106, J 193. — Migne col. 372.",DOMINO PIISSIMO DAVID REGI! ALBINUS PERPETUAE BEATITUDINIS SALUTEM.,"T, T*, L",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,383,384
+Ep. 239,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"H, S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']","[['Keele', '4', '12'], ['Ino', '2', '23']]",384,385
+Ep. 240,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"T, T*, L",False,"['Alcuin 1', 'Charlemagne 1']","['1142', '247']",NEEDS MANUAL VALIDATION,385,386
+Ep. 241,"Alevinus Gundradam, Adalhardi abbatis Corbeiensis sororem, laudat et confirmat.
+
+Petit, ut se Carolo imperatori purget, quod propter valetudinem ad eum non accesserit.
+
+e. 801.
+","CodCodd. T fol. 37—38 (T fol. 34), L fol. 193—195%.","Ed Ed . Q 19, F 106, J 193. — Migne col. 372.",,H,False,"['Gundrada 1', 'Adalhard 1', 'Alcuin 1', 'Charlemagne 1']","['1207', '9839', '1142', '247']",NEEDS MANUAL VALIDATION,386,387
+Ep. 242,"Alcvinus ad litteras per Arnonem archiepiscopum Salisburgensem missas rescribit;
+rursus praesentia cius frui desiderat. ce. 801,
+
+","Codd. § 1 fol. 155—156' (S1 fol. 66'—69), D fol. 239'—240.","Ed . M20, F 109, J 196. — Migne col. 387.",DOMINO MERITO IN MEMBRIS CHRISTI AMANTISSIMO AQUILAE ARCHIEPISCOPO ALBINUS MATRICULARIUS SANCTL MARTINI SEMPITERNAM SALUTEM.,"S1, S1*, D",False,"['Arno 1', 'Alcuin 1', 'Candidus 2']","['9847', '1142', '12979']",NEEDS MANUAL VALIDATION,387,388
+Ep. 243,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"C, E, G, X, I",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,388,392
+Ep. 244,"Alcvinus Nathanaelem discipulum ad vitam honestam et religiosam exhortatur et
+vitare iubet columbas volitantes per cameras palatii. ce. 801—802.
+
+",Cod. H fol. 98—98'.,"Ed , F 186, J 179. — Migne col. 375.",DULCISSIMO FILIO MEO NATHANAHELI ALBINUS PATER SALUTEM.,H,False,"['Fredegisus 1', 'Alcuin 1', 'Frithugils 2']","['1178', '1142', '10084']",NEEDS MANUAL VALIDATION,392,393
+Ep. 245,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"P, P*",False,"['Candidus 2', 'Fredegisus 1', 'Alcuin 1', 'Frithugils 2']","['12979', '1178', '1142', '10084']",NEEDS MANUAL VALIDATION,393,398
+Ep. 246,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,S1,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,398,399
+Ep. 247,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"Paris 2718, C",False,,,NEEDS MANUAL VALIDATION,399,401
+Ep. 248,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,401,401
+Ep. 249,"Alevinus Carolo imperatori se fratresque S. Martini Turonenses eacusat de tumultu
+facto contra Theodulfum episcopum Aurelianensem; veniamgue petit.
+
+801 ex. vel 802,
+","Cod. H fol. 86—89s, :","Ed . F 196, J 184, — Migne col. 395.",DOMINO EXCELLENTISSIMO ATQUE OMNI HONORE DIGNISSIMO CAROLO REGI IMPERATORI ATQUE AUGUSTO VICTORIOSISSIMO MAXIMO OPTIMO ATQUE SERENISSIMO ALBINUS MATRICULARIUS PRAESENTIS PROSPERITATIS ET FUTURE BEATITUDINIS AETERNAM IN DOMINO DEO CHRISTO SALUTEM.,H,False,"['Charlemagne 1', 'Theodulf 1', 'Alcuin 1']","['247', '10088', '1142']",NEEDS MANUAL VALIDATION,401,404
+Ep. 250,"Alevinus monachis Fuldensibus et pallium ad sancti Bonifatii corpus et cartulam
+missalem mittit; eosque cohortatur, ut virtuti studeant neve Baugulfum abbatem molestent.
+Responsum postulat. — 801—802.
+
+",Cod. H fol. 55—57'.,"Ed . F 192, J 186. — Migne col. 382.","SANCTISSIMIS NOBISQUE CUM OMNI CARITATE COLENDIS FRATRIBUS SANCTI BONEFATII', PATRIS ET PROTECTORIS NOSTRI, HUMILIS LEVITA ALCHVINUS AETERNAE BEATITUDINIS IN CHRISTO SALUTEM.",H,False,"['Boniface 5', 'Alcuin 1']","['10090', '1142']",NEEDS MANUAL VALIDATION,404,406
+Ep. 251,"Alevinus Oniae sacerdoti Candido presbytero Fredegiso diacono discipulis suis com-
+mentarium super Salomonis ecclesiasten dedicat. 801—802.
+
+","Codd. Monacensis 14614 (S. Emmer.) s. TX. fol. 16—17' (A), Paris. 12268 s, XI. fol. 83'—84 (@), Monacensis 14478 saec. XII. fol. 40—41 (E), Paris, 17400 saec. XII(N). Eustat etiam in cod. Harleiano 213 saec. X. fol. 2—3.","Ed . Quercetanus col. 309, Frobenius I, 410, J 187. — Migne cot. 667.","DILECTIS IN CHRISTO FILUS, ONIAE SACERDOTI', CANDIDO PRESBYTERO ET NATHANAHELI> DIACONO, ALBINUS PERPETUAE PROSPERITATIS IN DOMINO DEO4 SALUTEM.","A, G, E, N",False,"['Onia 1', 'Candidus 2', 'Fredegisus 1', 'Alcuin 1', 'Frithugils 2']","['10089', '12979', '1178', '1142', '10084']",NEEDS MANUAL VALIDATION,406,408
+Ep. 252,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,408,408
+Ep. 253,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*",False,"['Alcuin 1', 'Arno 1']","['1142', '9847']",NEEDS MANUAL VALIDATION,408,410
+Ep. 254,"Alevinus Arnoni archiepiscopo Salisburgensi respondet. De infidis litterarum baiulis.
+De vita canonica et regulari se scripturum non esse; iudiciorum scientiam se non habere;
+de fide catholica se expositurum esse. De aegrotatione sua. De Caroli imperatoris volun-
+tate bona et de hominum avaritia. Rogat, ne pro iurisdictione pecuniam accipiat. De
+muneribus gratias agit. Mittit munera et opusculum describendum. 802 Mai. 24.
+
+","Codd, S 1 fol. 159'—162 (S 1 fol. 75—76').","Ed . F 110, J 189. — Migne col. 389.",REVERENTISSIMO PATRI AQUILAE ARCHIEPISCOPO HUMILIS MATRICULARIUS ALBINUS SALUTEM.,"S1, S1*",False,"['Arno 1', 'Alcuin 1', 'Candidus 2']","['9847', '1142', '12979']","[['Ino', '2', '23'], ['Lae', '11', '3'], ['Phil', '2', '13'], ['1 Bim', '2', '4']]",410,412
+Ep. 255,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*",False,"['Alcuin 1', 'Æthelheard 13', 'Leo 1', 'Anonymi 1949', 'Augustine 1', 'Anonymi 1948']","['1142', '2121', '2009', '10028', '13620', '10027']","[['1 Bim', '2', '4'], ['Iul', '26', '4']]",412,413
+Ep. 256,"Alevinus episcopo cuidam (Aethelhardo Cantuariensi?) restitutionem gratulatur ; dia-
+conum ad eum missum ei commendat. 802?
+
+","Codd. A 2 fol. 167—167', A 1 p. 167 n. 1194,","Ed J 298,","J 298, DOMINO IN CHRISTI CARITATE DILECTISSIMO ILL. HUMILIS LEVITA ALCVINUS SALUTEM.","A2, A1*",False,"['Alcuin 1', 'Anonymous 766', 'Anonymous 767', 'Æthelheard 13']","['1142', '10029', '10030', '2121']",NEEDS MANUAL VALIDATION,413,414
+Ep. 257,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"G, S, E, A, T, M, C, L, I",False,"['Alcuin 1', 'Charlemagne 1']","['1142', '247']",NEEDS MANUAL VALIDATION,414,416
+Ep. 258,"Alevinus Arnoni Salisburgensi archiepiscopo curam canonicorum, monachorum tertii-
+que gradus inter illos medit commendat; queritur de simoniaca haeresi, quae etiam in
+sedem apostolicam irrepserit. Epistolam de confessione ab Adalberto cxpetitam se iam
+misisse, cum illo aut Adalberto librum de catholica fide conscriptum legere vult,
+
+802,
+","Codd, S 1 fol. 215'—216' (S 1 fol. 146'—148).","Ed . F 116, J 192. — Migne col. 401.",VENERANDO PONTIFICI AQUILAE ALBINUS SALUTEM.,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,416,417
+Ep. 259,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*",False,"['Arno 1', 'Fredegisus 1', 'Alcuin 1', 'Bede 1', 'Æthelthryth 5', 'Frithugils 2']","['9847', '1178', '1142', '424', '10031', '10084']",NEEDS MANUAL VALIDATION,417,417
+Ep. 260,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,417,418
+Ep. 261,"Alevinus Carolo regi per Nathanaelem ex morbo recreatum mittit novi testamenti
+libros uno codice comprehensos. 798—803.
+","Codd. T fol. 38—38' (T fol. 34'), L fol. 195—196',","Ed . Q 20, F 103, J 205. — Migne col. 368.",DOMINO DESIDERANTISSIMO MERITOQUE AMABILI DAVID REGI ALBINUS PRAESENTIS PROSPERITATIS ET AETERNAE BEATITUDINIS IN CHRISTO SALUTEM.,"T, T*, L",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,418,419
+Ep. 262,"Alevinus Nathanaeli mandat, ut codicem libros novi testamenti comprehendentem
+natali Christi die Aquisgrani Carolo regi offerat. Gislae abbatissae Calensi sorori regis
+et Rotrudae eiusdem filiae salutem ascribit. 798—803.
+
+",Cod. H fol. 63'—64.,"Ed . F 185, J 206. — Migne col. 374.",ALBINUS NATHANAEL] SALUTEM.,H,False,"['Fredegisus 1', 'Charlemagne 1', 'Alcuin 1', 'Frithugils 2']","['1178', '247', '1142', '10084']",NEEDS MANUAL VALIDATION,419,420
+Ep. 263,"Alevinus Remedium episcopum Curiensem ut pro se precetur rogat. 801—803.
+
+",Cod. H fol. 64'—65.,"Ed . F 200, J 262. — Migne col. 446.",DESIDERANTISSIMO PATRI REMEDIO EPISCOPO CURIAE CIVITATIS’ HUMILIS LEVITA ALCVINUS SALUTEM.,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,420,421
+Ep. 264,"Alevinus Arnoni archiepiscopo Salisburgensi se litteras eius familiares per Adal-
+winum episcopum ad 8. Martinum venientem accepisse nuntiat. Odulfum comitem, capella-
+nos, monachos S. Hrotberti de officiis admonere exoptat. 803? ante diem 13. Aprilis.
+
+",Codd. 81 fol. 214—215' (S 1 fol. 143'—146').,"Ed . M 24, F 113, J 202. — Migne col. 402.",SANCTISSIMO PATRI AQUILAE ARCHIPONTIFICATUS HONORE SUBLIMATO HUMILIS LEVITA ALBINUS AETERNAE PACIS ET PROSPERITATIS SALUTEM.,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,421,422
+Ep. 265,"Alevinus Arnonem archiepiscopum Salisburgensem propter occupationes saeculares
+afflictum consolatur. Litteras per Adalwinum episcopum missas commemorat; pro casula
+gratam spondet memoriam. 803? April. 13.
+
+","Codd. 81 fol, 216'—219' (S 1 fol. 148—153').","Ed , M25, F 114, J 203, — Migne col. 404.",DOMINO DESIDERABILITER HONORABILI ET HONORABILITER DESIDERABILI AQUILAE ARCHIEPISCOPO HUMILIS LEVITA ALBINUS SALUTEM.,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,422,424
+Ep. 266,"Alevinus Arnonem archiepiscopum Salisburgensem rogat, ut pro se tanquam sene in-
+firmo precetur; duo vascula mensalia ei mittit. ce. 803?
+
+",Codd. S 1 fol. 219'—220' (S 1 fol. 153'—155).,"Ed , M 26, F 115, J 204. — Migne col. 406.",DILECTISSIMO FILIO AQUILAE ARCHISACERDOTI ALBINUS IN DOMINO SALUTEM.,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,424,425
+Ep. 267,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1, S1*",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,425,426
+Ep. 268,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"C, B",False,"['Arno 1', 'Alcuin 1']","['9847', '1142']",NEEDS MANUAL VALIDATION,426,427
+Ep. 269,"Alevinus Elegio episcopo et fratribus eius de mutua caritate et vita angelica seribit.
+Pipinum filium de emendatione morum admonitum vult. —804.
+
+","Cod. Bruwell. 5354 saec. IX. f.7' quond. conventus Sigeberg., quem descripserunt Bethmann et Jaffé.","Ed . Nolte, L’avenir catholique du 17. juin 1869 p. 233, Biblioth. de Vécole des chartes XXXI, 267",SANCTISSIMO PATRI ELEGIO EPISCOPO CUM OMNIBUS SANCTAE CONVERSATIONIS FRATRIBUS HUMILIS LEVITA ALCHVINUS SALUTEM.,Brussels 5354,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,427,428
+Ep. 270,"Alevinus discipulum quendam ad virtutem hortatur. —804,
+
+","Cod. viblioth. Minervae Romanae BIV 18 mbr. saec, IX. f. 173 — 173! hic illic detritus et laesus; descripserunt Bethnann, Gardthausen, Ewald,",Ed J 301.,J 301. ALBINUS VITULO! SALUTEM.,Bib. Minervae Romanae B IV 18,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,428,429
+Ep. 271,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Æthelberht 8', 'Alcuin 1', 'Anonymi 1950']","['10874', '1142', '10032']",NEEDS MANUAL VALIDATION,429,430
+Ep. 272,"Alevinus monachos Montis- Olivi abbatemque Olomundum in familiaritatem recipit
+
+et ut pro fide catholica militent et in observantia regulari perseverent, hortatur.
+
+—804.
+","Cod, H fol. 36'—38°.","Ed , F 223, J.270. — Migne col. 503.","RELIGIOSIS FRATRIBUS, DEO ET SANCTO IOHANNI PRAECURSORI CHRISTI SERVIENTIBUS , HOUMILIS SERVULUS EIUSDEM CHRISTI ET PRAECURSORIS EIUS ALCHVINUS SALUTEM.",H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,430,431
+Ep. 273,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A2, A1*",False,"['Alcuin 1', 'Anonymi 1951', 'Ninian 1', 'Anonymi 1952']","['1142', '10033', '1728', '10035']",NEEDS MANUAL VALIDATION,431,432
+Ep. 274,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A2, A1*",False,['Alcuin 1'],['1142'],"[['Iul', '26', '4'], ['Bp', '2', '20']]",432,432
+Ep. 275,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,432,433
+Ep. 276,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Onia 1', 'Alcuin 1']","['10089', '1142']",NEEDS MANUAL VALIDATION,433,433
+Ep. 277,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Onia 1', 'Alcuin 1']","['10089', '1142']",NEEDS MANUAL VALIDATION,433,434
+Ep. 278,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,434,435
+Ep. 279,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Gundrada 1', 'Alcuin 1', 'Gregory 1']","['1207', '1142', '280']",NEEDS MANUAL VALIDATION,435,436
+Ep. 280,"Alevinus monachis Hiberniensibus de fama optimae conversationis per Dungal epi-
+scopum delata gratulatur, ad fidem catholicam studiaque litterarum colenda hortatur; quae
+vita principum, monachorum, monialium, omnium christianorum esse debeat, docet.
+
+","Cod. H fol. 81-834, ¢. 792—804.","Ed . ¥F 221, J 217. — Migne col. 500.","NOBILISSIMIS SANCTAE ECCLESIAE FILS, QUI PER LATITUDINEM HIBERNIENSIS INSULAE DEO CHRISTO RELIGIOSA CONVERSATIONE ET SAPIENTIAE STUDUS SERVIRE VIDENTUR, HUMILIS LEVITA ALCHVINUS PERPETUAE PROSPERITATIS IN DOMINO SALUTEM.",H,False,"['Anonymi 1953', 'Alcuin 1']","['10036', '1142']",NEEDS MANUAL VALIDATION,436,439
+Ep. 281,"Alevinus discipulum in Italia peregrinantem ad vitam recte agendam litterasque
+colendas exhortatur. Studia olim communia in memoriam revocat. 793—804,
+
+","Cod, H fol. 107—109.","Ed : F 230, J 289. — Migne col. 175.","PATER FILIO, PACIFICUS PEREGRINO, MAGISTER DISCIPULO, SOCIUS SOCIO PEREGRINATIONIS SEMPITERNAM SALUTEM.",H,False,"['Alcuin 1', 'Anonymous 768']","['1142', '10037']",NEEDS MANUAL VALIDATION,439,440
+Ep. 282,"Alevinus Friduino S. Petri Wiremuthensi et S. Pauli Girwensi abbati constituto
+gratulatur. Monet, ut officia exsequatur precesque pro se faciat. 793—804,
+
+","Cod, H fol. 98'—99'.","Ed . F 220, J 273. — Migne col. 498.",SANCTISSIMO PATRI FRIDUINO OLIM NOTUS ET SEMPER AMICUS ALCHVINUS SALUTEM.,H,False,"['Alcuin 1', 'Frithwine 1', 'Anonymi 1954', 'Anonymi 1955', 'Biscop 2', 'Ceolfrith 1']","['1142', '10038', '10039', '10040', '926', '1045']",NEEDS MANUAL VALIDATION,440,441
+Ep. 283,"Alevinus Eanulfum presbyterum Anglicum rogat, ut pro se precetur; ad caritatem
+fraternam et curam animarum hortatur. 793—804,
+
+",Cod. H fol. 99'—100.,"Ed , F 226, J 281. — Migne col. 507.",DULCISSIMO FRATRI EANULFO PRESBITERO ALBINUS SALUTEM.,H,False,"['Alcuin 1', 'Eanwulf 3', 'Anonymi 1956']","['1142', '10041', '10042']",NEEDS MANUAL VALIDATION,441,442
+Ep. 284,"Alevinus monachos S. Petri Wiremuthenses rogat, ut sui meminerint. Monasterium
+eorum laudibus prosequitur. Virtutem suadet. 798—804.,
+
+",Cod. H fol. 30—31'.,"Ed . F 219, Haddan and Stubbs Councils III, 470, J 274. — Migne col. 167.",SANCTISSIMIS IN SANCTI PETRI ECCLESIA FRATRIBUS DEO SERVIENTIBUS HUMILIS CLIEN- TELLUS ALCHVINUS PERPETUAE GLORIAE SALUTEM.,H,False,"['Alcuin 1', 'Anonymi 1983', 'Anonymi 1958', 'Bede 1', 'Anonymi 1957']","['1142', '10091', '10044', '424', '10043']",NEEDS MANUAL VALIDATION,442,443
+Ep. 285,"Alevinus Higbaldo episcopo Lindisfarnensi scribit de suo in eum amore. Admoni-
+tiones addit. 793—803.
+
+",Cod. H fol. 31'—32'.,"Ed . F 205, J 201. — Migne col. 244.",DILECTISSIMO PATRI SPERATO EPISCOPO FIDELIS AMICUS ALCHVINUS SALUTEM.,H,False,"['Alcuin 1', 'Hygebald 3']","['1142', '3540']",NEEDS MANUAL VALIDATION,443,444
+Ep. 286,"Alevinus monachos Girwenses hortatur, ut promissi memores pro se precentur.
+Admonitiones addit. 793—804.
+
+",CodCod. H fol. 31'—32'.,"Ed Ed . F 205, J 201. — Migne col. 244.",,H,False,"['Alcuin 1', 'Anonymi 1959', 'Anonymi 1961']","['1142', '10045', '10047']",NEEDS MANUAL VALIDATION,444,445
+Ep. 287,"Alevinus monachos Anglosaxontcos coenobii Mugensis in Hibernia siti ad perseveran-
+tiam et officia persequenda cohortatur. 793 —804,
+",CodCodCod. H fol. 31'—32'.,"Ed Ed Ed . F 205, J 201. — Migne col. 244.",,"A1, A1*",False,"['Anonymi 1962', 'Anonymi 1965', 'Alcuin 1', 'Anonymi 1963', 'Anonymous 769', 'Anonymi 1966', 'Anonymi 1964']","['10048', '10051', '1142', '10049', '10052', '10053', '10050']",NEEDS MANUAL VALIDATION,445,446
+Ep. 288,"Alevinus archiepiscopum quendam Anglicum ad praedicandi studium cohortatur; pro
+muneribus gratias agit. 793—804,
+","Codd, A 1 fol. 131'—132', A I p. 155—156 mr. 110%,",Ed J 297.,J 297. DOMINO PATRI ILL.» ARCHIEPISCOPO HUMILIS LEVITA ALCHVINUS¢ SALUTEM.,"A1, A1*",False,"['Alcuin 1', 'Anonymous 770', 'Æthelheard 13']","['1142', '10054', '2121']",NEEDS MANUAL VALIDATION,446,447
+Ep. 289,"Alcvinus Fredegiso discipulo quaestiones de sancta Trinitate dedicat.
+793—804.
+
+","Codd. Christ. reg. Vatic. 191 fol. 62 (R), S. Galli 272 p. 202—203 (G), Trecens. 1528 fol. 73'—74 (T), Monac. (S. Emmerammi) 14614 f. 218'—219' (A), Monae. (Salisburg.) 15813 fol. 86—86' (S), Monac. 14510 (E), fol. 160'—161, Valentian. 187 (242) fol. 70, Veron. LXVII s, IX.","Ed . Quercetanus col. 759—762, Frobenius I, 739, J 258. — Migne CI, col. 57.",DESIDERANTISSIMO FILIO> FREDEGISO ALBINUS SALUTEM.,"R, G, T, A, S, E, Valentian 187",False,"['Fredegisus 1', 'Alcuin 1', 'Frithugils 2']","['1178', '1142', '10084']",NEEDS MANUAL VALIDATION,447,448
+Ep. 290,"Alevinus Aethelhardum archiepiscopum Cantuariensem hortatur, ut ligaturas ferri
+populique conventicula in regionibus montanis agi vetet. 793—804,
+","Codd, A 1 fol. 126—127, A 1 p. 148—149 n. 1069,","Ed J 219,","J 219, DOMINO PATRI AEDELHARDO ARCHIEPISCOPO! ALQUINUS SALUTEM.","A1, A1*",False,"['Alcuin 1', 'Æthelheard 13', 'Anonymi 1968']","['1142', '2121', '10056']",NEEDS MANUAL VALIDATION,448,449
+Ep. 291,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*",False,"['Anonymi 1971', 'Alcuin 1', 'Anonymous 771', 'Anonymous 772', 'Augustine 1', 'Anonymi 1970', 'Æthelheard 13', 'Anonymi 1969']","['10061', '1142', '10057', '10058', '13620', '10060', '2121', '10059']","[['Tal', '10', '20'], ['Beoli', '25', '12']]",449,450
+Ep. 292,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A2, A1*",False,"['Alcuin 1', 'Anonymous 773', 'Anonymous 774', 'Æthelheard 13']","['1142', '10062', '10064', '2121']","[['Beoli', '25', '12'], ['Iudith', '13', '17']]",450,450
+Ep. 293,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A2, A1*",False,"['Alcuin 1', 'Anonymous 775', 'Anonymous 776', 'Anonymous 777', 'Augustine 1', 'Anonymi 1974']","['1142', '10066', '10067', '10069', '13620', '10068']",NEEDS MANUAL VALIDATION,450,451
+Ep. 294,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"S1s, S1b, S1*, B, D",False,"['Alcuin 1', 'Anonymous 778', 'Anonymi 1975']","['1142', '10070', '10071']",NEEDS MANUAL VALIDATION,451,452
+Ep. 295,"Alevinus discipuli prodigi perversos mores reprehendit et ad vitae emendationem cum
+hortatur exemplo cuiusdam nunc episcopi olim condiscipuli eius. c. 796—804,
+
+ 
+
+5,
+
+","Codd. H fol. 67'—69', T fol. 107'— 109, S1 fol. 202'—205 (S 1 fol. 128'—135), D fol, 233!-","Ed . Q 103, F 158, J 223. — Migne col. 482.",FILIO PRODIGO' PATER LUGENS SALUTEM.,"H, S1*, D",False,"['Alcuin 1', 'Anonymous 779', 'Anonymous 780', 'Anonymi 1976', 'Anonymi 1977', 'Anonymi 1978']","['1142', '10072', '10073', '10074', '10075', '10076']","[['Iudith', '13', '17'], ['Judith', '13', '17']]",452,454
+Ep. 296,"Alevinus monachis S. Vedasti Atrebatensibus mittit versus in ecclesia a Radone
+abbate denuo aedificata inscribendos; et missas, partim e missali libro petitas partim a
+se scriptas. Addit de admonitione homiliari postea scribenda. ¢. 796—804.
+
+","CodCodd. H fol. 67'—69', T fol. 107'— 109, S1 fol. 202'—205 (S 1 fol. 128'—135), D fol, 233!-","Ed Ed . Q 103, F 158, J 223. — Migne col. 482.",,Atrebat. 734,False,"['Rado 1', 'Alcuin 1']","['3531', '1142']",NEEDS MANUAL VALIDATION,454,456
+Ep. 297,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"A1, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,456,456
+Ep. 298,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,456,457
+Ep. 299,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,MANUAL CHECK NEEDED,"A1, A1*",False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,457,458
+Ep. 300,"Alevinus Aedilburgae abbatissae Flaedanbyrgensi, Offaec Merciorum quondam regis
+filiae, pro muneribus missis gratias agit. De regum iniuriis eam consolatur. Addit de
+omisso ab ea itinere. 797—804,
+
+","Codd. H fol. 22'—24, T fol. 103'—104, A I p. 164—165 n. 116%,","Ed . Q 100, F 147, J 229. — Migne col. 468.",ALBINUS EUGENIAE FILIAE VIRGINI CARISSIMAE IN CHRISTO SALUTEM.,"H, T*, A1*",False,"['Alcuin 1', 'Æthelburg 8', 'Eardwulf 4', 'Cenwulf 3', 'Anonymi 1981', 'Anonymi 1980']","['1142', '4320', '7277', '2385', '10079', '10078']","[['Judith', '13', '17'], ['Aggaci', '1', '6'], ['Habac', '2', '6'], ['Tudae', '13', '6']]",458,459
+Ep. 301,"Alevinus Alchardi Elmhamensis et Tifredi Dummocensis episcoporum amori se com-
+mendat. De Lullo abbate. 798—804,
+
+","CodCodd. H fol. 22'—24, T fol. 103'—104, A I p. 164—165 n. 116%,","Ed Ed . Q 100, F 147, J 229. — Migne col. 468.",,H,False,"['Alcuin 1', 'Ealhheard 1', 'Tidfrith 1', 'Lull 2']","['1142', '13550', '5531', '10082']",NEEDS MANUAL VALIDATION,459,460
+Ep. 302,"Alevinus Ardbertum virum illustrem laudat et admonet; Lullum abbatem commendat,
+
+798—804.
+",Cod. H fol. 48'—49'.,"Ed . F 207, J 231. —~ Migne col. 492.",ALCHVINUS SANCTI MARTINI FAMULUS ARDBERTO? VIRO INLUSTRI PERPETUAE BEATITUDINIS SALUTEM.,H,False,"['Alcuin 1', 'Heardberht 3', 'Offa 7', 'Ecgfrith 7', 'Cenwulf 3', 'Lull 2']","['1142', '5131', '305', '4467', '2385', '10082']","[['Tudae', '13', '6'], ['2 Rog', '7', '12'], ['Ime', '10', '16']]",460,461
+Ep. 303,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,"['Benedict 4', 'Alcuin 1']","['1146', '1142']",NEEDS MANUAL VALIDATION,461,462
+Ep. 304,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,Paris 2731,False,['Alcuin 1'],['1142'],NEEDS MANUAL VALIDATION,462,464
+Ep. 305,"Alevinus Widoni Britannici limitis comiti ab eo rogatus librum de virtutibus et
+vitiis saepius legendum mittit. ce, 801—804.
+","Codd, S. Galli 146 s. IX. p. 120—121 (A), S. Galli 677 s, X. p. 132—137 (G), Monac. 4601. (Bene- dictobur.) s. X. fol. 102—102', Trec. 1742 8, IX. fol. 5—6 (I), Matritens. A 151 s. IX—X. (M), Epored. 30 (1), Carnot. 113 s. IX. (C).",Ed . Margar. de la Bigne Bibliothecae SS. patrum append. col. 1091—1092 (sine epilogo) ; Quer-,,"A, G, T, I, C",False,"['Wido 1', 'Alcuin 1']","['1210', '1142']","[['Ime', '10', '16'], ['Iob', '20', '27']]",464,465
+Ep. 306,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"Paris 8433, Trecensis 1876",False,"['Charlemagne 1', 'Angilberct 1', 'Alcuin 1']","['247', '9973', '1142']",NEEDS MANUAL VALIDATION,465,466
+Ep. 307,"Alevinus Carolo imperatori respondet ad magistri Gracci quaestionem de salutis
+
+humanae pretio, quod a Paulo apostolo in prima ad Corinthios epistola commemoratur.
+
+801—804.
+","Codd, P fol. 95—101 (P f. 56'—61).","Ed , Baluzius Miscell. I, 365—374, F 126, J 240. — Migne col, 431.","IN NOMINE DEI CHRISTI SALVATORIS MUNDI. DAVID, CHRISTO DOMINI, ALBINUS PERPETUAE PACIS ET PROSPERITATIS IN DOMINO SALUTEM.","P, P*",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,466,471
+Ep. 308,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,"H, T*, A1*",False,"['Charlemagne 1', 'Alcuin 1']","['247', '1142']",NEEDS MANUAL VALIDATION,471,473
+Ep. 309,"Alevinus Gundradae virgini nobili ab ea rogatus de animae ratione exponit, admoni-
+tiones addit. 801—804,
+
+","Codd. Monac. (S. Emmer.) 14614 3, IX. fol. 226—242 (A), Monac. (S. Emmer.) 14510 s. IX. fol. 168— 186 (E), Monae. (Salisburg.) 15813 fol. 90'—102 (8), S. Galli 272 s. IX. p. 214—242 (G), Trecensis 1528 s. IX. fol. 81—-97' (T), Romanus Minervae B IV 18 s. IX. (R), Valentianensis 187 (242) saec. IX. fol. 76 (V). Exstat etiam in codd. Musei Britann, Harleiano 4980 saec. IX. fol. 131' sqq., Trecensi 1165 saec. 1X., Pari- sino 5577 fol. 101—112, Parisino 2341 saec. IX. fol. 169, Parisino 2390 s. XI. fol. 79 sq., Paris. 2849 s. IX. fol. 42, Musei Britann. Addit. 18327 s, XII. fol. 86'—94, Kings libr. 6 B VIII s. XII. fol. 52-57%.","Ed . Quercetanus col. 769—782, Frobenius II, 146-153, J 243. — Migne CI, col. 639 sqq.",CARISSIMAE IN CHRISTI CARITATE SORORI EULALIAE VIRGINI' ALBINUS IN DOMINO SALUTEM.,"A, E, S, G, T, R, V",False,"['Gundrada 1', 'Alcuin 1']","['1207', '1142']",NEEDS MANUAL VALIDATION,473,478
+Ep. 310,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,MANUAL VALIDATION NEEDED,H,False,['Alcuin 1'],['1142'],"[['Iob', '20', '27'], ['Osee', '8', '1']]",478,481
