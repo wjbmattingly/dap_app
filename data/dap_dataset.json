@@ -2,7 +2,6 @@
     "1":{
         "letter_num":"Ep. 001",
         "description":"Alcvinus amicum in monasterium se abditurum confirmat. De Benedicto monacho. 773-786",
-        "mgh_date": "773-786",
         "mss_ocr":"Cod. H fol, 61-62.",
         "edition":"Edd, F 211, J. 8, - Migne col. 485.",
         "salutation":"DILECTISSIMO AMICO TOTIUS PROSPERITATIS PRAESENTIS ET AETERNAE BEATITUDINIS PERPETUAM SALUTEM.",
@@ -17,7 +16,6 @@
     "2":{
         "letter_num":"Ep. 002",
         "description":"Alcuinus Leutfredum episcopum coennobii Mugensis in Hibernia solatur et confirmat. De Benedicto monacho.",
-        "mgh_date": "",
         "mss_ocr":"H. fol. 63-63.",
         "edition":"Edd. F 208, J 7 - Migne col. 493",
         "salutation":"SANCTISSIMO PATRI ET AMANTISSIMO FILIO LEUTFREDO EPISCOPO ALBINUS SALUTEM.",
@@ -32,7 +30,6 @@
     "3":{
         "letter_num":"Ep. 003",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -47,7 +44,6 @@
     "4":{
         "letter_num":"Ep. 004",
         "description":"Alevinus Riculfum Moguntiacensem archiepiscopum multa admonet eiusque litteras\nexoptat. (ce. 787.)",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 18 - 18'.",
         "edition":"Ed . F 181, J 12.- Migne col. 356.",
         "salutation":"DAMOETE PISCATORI MAGNO ALBINUS SALUTEM.",
@@ -62,7 +58,6 @@
     "5":{
         "letter_num":"Ep. 005",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -77,7 +72,6 @@
     "6":{
         "letter_num":"Ep. 006",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -92,7 +86,6 @@
     "7":{
         "letter_num":"Ep. 007",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -107,7 +100,6 @@
     "8":{
         "letter_num":"Ep. 008",
         "description":"Alevinus Iosepho significat se propter Aethelredum nuper regem Northanhumbrorum\nfaclum in Britannia retardari. De Caroli I regis Francorum rebus gestis nunciari sibi\ncupit. Varia mandata dat. De Colcu magistro adit. 790 exeunte anno.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A 1 fol. 7-8, A2 fol. 165'- 166, A1 p. 9 - 10 n. 48,",
         "edition":"Ed . J 16. Initium epistolae habetur ap. Willem. Malmesbur. gest. reg. Anglor. 1. I \u00a7 72 p. 7.",
         "salutation":"FLACCUS ALBINUS FILIO IOSEPHO SALUTEM.",
@@ -122,7 +114,6 @@
     "9":{
         "letter_num":"Ep. 009",
         "description":"Alevinus Adalhardo abbati Corbeiae antiquae respondet de suo erga eum amore; de\nAethelredo, novo Northanhumbrorum rege; de pace Caroli et Offae regum componenda;\n\nAngilberto abbati S. Richarii Centulensi salutem mittit. 790 exeunte anno.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A1 fol. 9'-11, A 1 p. 14-15 n. 8%",
         "edition":"Ed . J 17.",
         "salutation":". J 17. DILECTISSIMO IN CHRISTO FRATRI ADALHARDO HUMILIS TUUS GERMANUS ALCVINUS -SALUTEM.",
@@ -137,7 +128,6 @@
     "10":{
         "letter_num":"Ep. 010",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -152,7 +142,6 @@
     "11":{
         "letter_num":"Ep. 011",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -167,7 +156,6 @@
     "12":{
         "letter_num":"Ep. 012",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -182,7 +170,6 @@
     "13":{
         "letter_num":"Ep. 013",
         "description":"Alevinus de Ricbodi archiepiscopi Trevirensis quondam discipuli sui absentia et de\nintermisso litterarum commercio conqueritur. Reprehendit in eo nimium amorem Maronis.\nce. 791-792,\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 58\u2018 -59 (T fol. 58'- 54), K 1 fol. 30- 31', K2 p. 88-92, Sita fol. 131'-182', b fol. 187-188' (S1 fol. 30-33, 115-116), A1 fol. 86, A1 p. 98 - 99 mr. 645,",
         "edition":"Ed , C17. 18, Q.34, F 129, J 216 - Migne col. 440.",
         "salutation":"PIO PATRID ET AMICO CARISSIMO MACHARIO, MONACHO ET PONTIFICI4!, FLACCUS ALBINUS IN CARITATE CHRISTI SALUTEM.",
@@ -197,7 +184,6 @@
     "14":{
         "letter_num":"Ep. 014",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -212,7 +198,6 @@
     "15":{
         "letter_num":"Ep. 015",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -227,7 +212,6 @@
     "16":{
         "letter_num":"Ep. 016",
         "description":"Alevinus Aethelredum regem Northanhumbrorum eiusque optimates propter ecclesiam\nsancti_ Cuthberti Lindisfarnensem a Nortmannis vastatam, ut cum virtute vivant, hortatur.\n793 post Iun. 8.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. (A1 fol. 34837), A1 p. 89-42 mr, 28, A2 fol. 123'-127'. Fragmenta huius epistolae \u2018Ecce - exordium.\u2019 \u2018Quid - populum\u2019 leguntur etiam apud Willelm. Malmesbir. Gesta veg. Anglor. 2. I \u00a7 70 p. 73; pontif. Anglor. 1. III p. 268. 209 ed. Hamilton. Partem (Iicce trecenti -in luctum. Considerate - pro ornamentis) nonnullis additis habet cod. Cantabrig. collegii corpus Christi 190 s. XI fol. 140-142 (Londin. Harleian. 438 f. 145'), quem mihi descripsit V. Cl. R. Harmer bibliothecarius.",
         "edition":"Ed , F' 12, Haddan and Stubbs Councils III, 492-95, J 22. - Migne col. 161.",
         "salutation":"DOMINO DILECTISSIMO AEDELREDO REGI ET OMNIBUS OPTIMATIBUS EIUS HUMILIS LEVITA ALCHVINE> SALUTEM.",
@@ -242,7 +226,6 @@
     "17":{
         "letter_num":"Ep. 017",
         "description":"Alevinus Aethelhardum archiepiscopum Cantuariensem ex Nortmannorum in Bri-\ntanniam irruptione ad concordiam cum ceteris episcopis habendam hominesque intrepide\ncorrigendos adhortatur. 793 post Iun. 8.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 48-51 (T fol. 44-47'), K1 fol. 8-7, K2 p. 2-18, Q fol. 118-119', S1 fol. 163-167' (S1 fol. 77'-80), (A1 fol. 68-72), A1 p. 75-80' nr. 51 A2 fol. 140'-146'. Exstat etiam in codd. Collegii corpus Christi Cantabrig. s. XI 190 fol. 173-179 et 265 f. 7-13 (Nasmith Catal. codd. 270. 310). Fragmentum habet Willelm. Malmesbir. Gesta reg. Anglor. I \u00a7 70 p. 74%.",
         "edition":"Ed . C1, Q 28 (cf. col. 1718), F' 9, Haddan and Stubbs Councils ITI, 478, J 28. - Migne col. 152,",
         "salutation":"PIO PATRI ET SANCTAE SEDIS PRAESULI AEDILHARDO? ARCHIEPISCOPO ' HUMILIS LEVITA ALBINUS\u00a2 SALUTEM.",
@@ -257,7 +240,6 @@
     "18":{
         "letter_num":"Ep. 018",
         "description":"Alevinus Aethelredum regem Northanhumbrorum eiusque principes denuo ad vir-\ntutem vocat. 793 post Iun. 8.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T' fol. 51-54 (T fol. 47'-49), K1 fol. 7-11', K2 p, 19-32, S1 fol. 167'--172 (S1 fol. 88-93), A2 fol. 113-117', A1 p. 28--32 n. 24%, Fragmentum exstat in codice Q.",
         "edition":"Ed . Q29, C2, F' 10, Haddan and Stubbs Councils ITT, 488-492, J 23. - Migne col. 157.",
         "salutation":"EXCELLENTISSIMO> FILIO\u00a2 AEDELREDO4 REGI ET AMICIS DULCISSIMIS OSBALDO PATRICIO! AETERNAE BEATITUDINIS SALUTEM.",
@@ -272,7 +254,6 @@
     "19":{
         "letter_num":"Ep. 019",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -287,7 +268,6 @@
     "20":{
         "letter_num":"Ep. 020",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -302,7 +282,6 @@
     "21":{
         "letter_num":"Ep. 021",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -317,7 +296,6 @@
     "22":{
         "letter_num":"Ep. 022",
         "description":"Alevinus Cudrado presbytero Lindisfarnensi e manibus Northmannorum erepto\ngratulatur. Monet, ut vitam solitariam agat et pro se precetur. 793 post Iun. 8.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 11-11's.",
         "edition":"Ed . F 163, J 26. - Migne col. 144.",
         "salutation":"VENERANDO PATRI CUDRADO PRESBITERO ALCHVINUS DIACONUS> SALUTEM.",
@@ -332,7 +310,6 @@
     "23":{
         "letter_num":"Ep. 023",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -347,7 +324,6 @@
     "24":{
         "letter_num":"Ep. 024",
         "description":"Alevinus Hygbaldo episcopo Lindisfarnensi scribit-de mutua amicitia. Candidum\npraeterito anno retentum remittit; quem, si discendi causa iterum venerit, a sese amplius\ndoctum iri promittit. 7942\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A1 fol. 59'-60, A1 p. 65-66 n, 44%.",
         "edition":"Ed J3.",
         "salutation":"DOMINO IN CHRISTO DILECTO HYGBALDO EPISCOPO ALCHVINUS HUMILIS LEVITA SALUTEM.",
@@ -362,7 +338,6 @@
     "25":{
         "letter_num":"Ep. 025",
         "description":"Alevinus Riculfo, cum Carolo rege in Saxonia moranti, bene precatur. Refert de\nAngilberto, de Candido, de Martino, de Mopso. 794?\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 95'-96, K 1 fol. 64'-65', K 2 p. 185-187, A1 p. 129-180 n. 88%,",
         "edition":"Ed . C 47, Q.93, F'39, J 4. - Migne col. 210.",
         "salutation":"FLACCUS\u00bb ALBINUS FLAVIO DAMOETAE' FILIO CARISSIMO SALUTEM.",
@@ -377,7 +352,6 @@
     "26":{
         "letter_num":"Ep. 026",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -392,7 +366,6 @@
     "27":{
         "letter_num":"Ep. 027",
         "description":"Alevinus ab Adriano papa petit, ut sibi peccata ignoscat. Angilbertum, Caroli regis\nFrancorum legatum, laudat, 794 Tul. Aug.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, T fol. 73-74, K 1 fol. 47-48', K2 p. 140-148, A1 p. 112-113 n. 71%.",
         "edition":"Ed . C28, Q63, F 15, J 32. - Migne col, 170.",
         "salutation":"BEATISSIMO ET OMNI HONORE DIGNISSIMO ET PONTIFICI MAGNO ADRIANO> PAPAE!, HUMILLI- MUS OMNIUM SANCTAE ECCLESIAE FILIORUM ALBINUS AETERNAE BEATITUDINIS\u00a2 SALUTEM.",
@@ -407,7 +380,6 @@
     "28":{
         "letter_num":"Ep. 028",
         "description":"Alevinus Paulino patriarchae Aquileiensi scribit de suo erga eum amore. Rogat\nut pro se precetur reliquiasque sanctorum sibi mittat. Monet, ut muneris suscepti officia\nexsequatur. ce. 789-795.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A1 fol. 11, A 1 p. 16 n.9, Ki fol. 77'-78', K 2 p. 222-2248,",
         "edition":"Ed , Q 113, se F 36, J 11. - Migne col. 202.",
         "salutation":"PAULINO SANCTISSIMO PATRIARCHAE\u2019 HUMILIS LEVITA ALCVINUS> SALUTEM.",
@@ -422,7 +394,6 @@
     "29":{
         "letter_num":"Ep. 029",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -437,7 +408,6 @@
     "30":{
         "letter_num":"Ep. 030",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -452,7 +422,6 @@
     "31":{
         "letter_num":"Ep. 031",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -467,7 +436,6 @@
     "32":{
         "letter_num":"Ep. 032",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -482,7 +450,6 @@
     "33":{
         "letter_num":"Ep. 033",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -497,7 +464,6 @@
     "34":{
         "letter_num":"Ep. 034",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -512,7 +478,6 @@
     "35":{
         "letter_num":"Ep. 035",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -527,7 +492,6 @@
     "36":{
         "letter_num":"Ep. 036",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -542,7 +506,6 @@
     "37":{
         "letter_num":"Ep. 037",
         "description":"Alevinus Hechstanum presbyterum ad virtutem cohortatur ct precibus amicorum cupit\nse commendari. ce. 793-795.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 64-64' (I fol. 59), K1 fol. 55'-56', K 2 p. 161-164, S1 fol. 173-174' (S1 fol. 983-96), Q fol. 121'-122', A 1 p. 119-120 ur. 76, D fol. 238'-2395,",
         "edition":"Ed , C 36, Q 45, F 138, 7283. - Migne col. 452.",
         "salutation":"FILIO MEO CARISSIMO> ALTAPETRA! ALBINUS4 LEVITA SALUTEM.",
@@ -557,7 +520,6 @@
     "38":{
         "letter_num":"Ep. 038",
         "description":"Alevinus Monnam presbyterum ct fratrem eius ad saeculi contemptum et ad humili-\ntatem exhortatur. 5 \u00a2. 793-795,\n",
-        "mgh_date": "",
         "mss_ocr":"Coda. T fol. 65-65' (T' fol. 60), K 1 fol. 56'-58, K 2 p. 164-167, S1 fol. 174-176 (S1 fol. 96'-99'), D fol. 239-239', Q fol. 122'-123, A 1 p. 120-121 nr. 779,",
         "edition":"Ed . C 37, Q 46, F 139, J 282, Form. Salzburg. 40, Formulae ed. Zeumer p. 448. - Migne col. 454.",
         "salutation":"DILECTISSIMIS IN CHRISTO AMICIS FRATRI ET FILIO ANTHROPO ET STRATOCLEI\u00a2 HUMILIS LEVITA ALCHVINE SALUTEM.",
@@ -572,7 +534,6 @@
     "39":{
         "letter_num":"Ep. 039",
         "description":"Alevinus amico fideli ardorem amoris sui significat, hortatur, ut omnibus exemplum\nsit bonae vitae, rogat, ut evangelia et librum pastoralem sancti Gregorii diligenter legat.\n\u00a2. 7938-795.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 65'-66' (T fol. 60'-61), K 1 fol. 48'-49', K2 p. 143-146, S1 fol. 176-177 (8 1  fol. 99'-102', B fol. 44'-45), Q fol. 123-123', (A 1 fol. 11') A 1 p, 22-23 n. 19%,",
         "edition":"Ed . C29, Q 47, F 142, J 293, Form. Salzburg. 33, Formulae ed. Zeumer p. 447. - Migne col. 457.",
         "salutation":"DULCISSIMAE DILECTIONIS FRATRI ET AMICO IN CHRISTI CARITATE SALUTEM.",
@@ -587,7 +548,6 @@
     "40":{
         "letter_num":"Ep. 040",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -602,7 +562,6 @@
     "41":{
         "letter_num":"Ep. 041",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -617,7 +576,6 @@
     "42":{
         "letter_num":"Ep. 042",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -632,7 +590,6 @@
     "43":{
         "letter_num":"Ep. 043",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -647,7 +604,6 @@
     "44":{
         "letter_num":"Ep. 044",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -662,7 +618,6 @@
     "45":{
         "letter_num":"Ep. 045",
         "description":"Alevinus cuidam vel episcopo vel abbati aegrotanti medicamenta mittit. De Basilio\nin montanis medico mortuo. 1 795.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A2 fol. 116'-167, A1 p. 165-166 n, 117.",
         "edition":"Ed J 38.",
         "salutation":"DILECTO PATRI PERPETUAM SALUTEM.",
@@ -677,7 +632,6 @@
     "46":{
         "letter_num":"Ep. 046",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -692,7 +646,6 @@
     "47":{
         "letter_num":"Ep. 047",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -707,7 +660,6 @@
     "48":{
         "letter_num":"Ep. 048",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -722,7 +674,6 @@
     "49":{
         "letter_num":"Ep. 049",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -737,7 +688,6 @@
     "50":{
         "letter_num":"Ep. 050",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -752,7 +702,6 @@
     "51":{
         "letter_num":"Ep. 051",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -767,7 +716,6 @@
     "52":{
         "letter_num":"Ep. 052",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -782,7 +730,6 @@
     "53":{
         "letter_num":"Ep. 053",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -797,7 +744,6 @@
     "54":{
         "letter_num":"Ep. 054",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -812,7 +758,6 @@
     "55":{
         "letter_num":"Ep. 055",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -827,7 +772,6 @@
     "56":{
         "letter_num":"Ep. 056",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -842,7 +786,6 @@
     "57":{
         "letter_num":"Ep. 057",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -857,7 +800,6 @@
     "58":{
         "letter_num":"Ep. 058",
         "description":"Alevinus, ut discipulus quidam sibi inimicus in pristinam amicitiam redeat, postulat.\n\n782-796?\n",
-        "mgh_date": "",
         "mss_ocr":"Cod, S fol. 177'-178'.",
         "edition":"Ed . F 166, J 48. - Migne col. 479.",
         "salutation":"CARISSIMO IN CHRISTI CARITATE FILIO SALUTEM.",
@@ -872,7 +814,6 @@
     "59":{
         "letter_num":"Ep. 059",
         "description":"Alevinus ob Arnonis episcopi Salisburgensis adventum frustra eaxspectatum dolet, pro\nmuneribus acceptis gratias agit. 785-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. S 1 fol. 144-145' (S 1 fol. 63'-57'),",
         "edition":"Ed , M 17, F 88, J 151. - Migne col. 318.",
         "salutation":"DULCISSIMAE DILECTIONIS PATRI AQUILAE ANTISTITI TRANSMARINUS CIGNUS IN SANCTAE CARITATIS PENNIS PERPETUAM SALUTEM.",
@@ -887,7 +828,6 @@
     "60":{
         "letter_num":"Ep. 060",
         "description":"Alevinus cum tribus amicis Paulino patriarchae Aquileiensi de litteris missis gratias\nagit. Petunt ut pro illo precetur. \u00a2, 787-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 89-90, K 1 fol. 79-80, K 2 p. 226-228, A1 p. 142-144 n. 1024,",
         "edition":"Ed , C66, Q 82, F'16, J 129. - Migne col. 172.",
         "salutation":"OPTIMO TIMOTHEO? FILIL BIS> BINI, EVANGELICAE VERITATIS DISCIPULI, ET SANCTARUM4 QUADRIGAE VIRTUTUM FIDELIUM QUADRIGA AMICORUM, PLENA CARITATIS NAVE TRANS ALPINAS AQUAS DIRIGIT SALUTEM.",
@@ -902,7 +842,6 @@
     "61":{
         "letter_num":"Ep. 061",
         "description":"Alevinus Ecgfrido regi, Offae regis Merciorum filio, virtutem suadet. 786-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol, 66'-67 (T fol. 61!), Q fol. 123'-124, 81 fol. 177'-178 (S1 fol. 103'-104'), A1 p. 24 n. 21%.",
         "edition":"Ed . Q 48, F'45, J 45. - Migne col. 214.",
         "salutation":"NOBILISSIMO IUVENL ACGFREDI\u2019 HUMILIS LEVITA ALCHVINE SALUTEM.",
@@ -917,7 +856,6 @@
     "62":{
         "letter_num":"Ep. 062",
         "description":"Alevinus Hundrudac monachae de muneribus gratias agit. Monet ut in aula Offae\nregis Merciorum bonum vivendi exemplum prodat. De Cynethrith regina. De monasterio\nInmercum. Egfrido regis filio salutem ascribit. \u00a2. 786-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. 1' fol. 93'-94 n. 899,",
         "edition":"Ed . Q 89, F 149, J 46. - Migne col. 470.",
         "salutation":"DEO DEVOTE FEMINE HUNDRUDE ALCHVINUS DIACONUS SALUTEM.",
@@ -932,7 +870,6 @@
     "63":{
         "letter_num":"Ep. 063",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -947,7 +884,6 @@
     "64":{
         "letter_num":"Ep. 064",
         "description":"Alevinus Offae regi Merciorum remittit discipulum suum iam ad docendum aptum.\n\n787-796.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, T fol, 61'-62 (T fol. 57), A1 p.28 n. 20%.",
         "edition":"Ed . Q.38, F 44, 43. - Migne col. 213.",
         "salutation":"DOMINO EXCELLENTISSIMO OFFA> REGI HUMILIS LEVITA ALCHVINE SALUTEM.",
@@ -962,7 +898,6 @@
     "65":{
         "letter_num":"Ep. 065",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -977,7 +912,6 @@
     "66":{
         "letter_num":"Ep. 066",
         "description":"Aquila (Arno episcopus) Cuculum amicum ad vitae emendationem hortatur.\n\nc. 789-796.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, A1 fol. 2, A1 p. 4-5 n.2, A2 fol. 163-163'.",
         "edition":"Ed J 287.",
         "salutation":"J 287. CARISSIMO> AVI CUCULO AQUILA SALUTEM.",
@@ -992,7 +926,6 @@
     "67":{
         "letter_num":"Ep. 067",
         "description":"Alevinus Acthelbaldo S. Petri Wiremuthensi et S. Pauli Girwensi abbati constituto\ngratulatur. Petit, ut fraternitatem sibi tributam confirmet. Admonitiones addit.\nce. 789-796.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. (A 1 fol, 3'-4'), A2 fol. 163'-164', A1 p.5-7 n. 3%.",
         "edition":"Ed J 272.",
         "salutation":"J 272. VENERABILI PATRL ET SANCTAE CONGREGATIONIS PASTORI AEDELBALDO\u00bb ABBATI HUMILIS CLIENTELLUS VESTER ALCVINE? IN CHRISTI CARITATE SALUTEM.",
@@ -1007,7 +940,6 @@
     "68":{
         "letter_num":"Ep. 068",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1022,7 +954,6 @@
     "69":{
         "letter_num":"Ep. 069",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -1037,7 +968,6 @@
     "70":{
         "letter_num":"Ep. 070",
         "description":"Alevinus Vulfhardo abbati Anglico monachum poenitentem commendat.\n\ne. 789-796,\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A1 fol. 13-14, A2 fol. 161', A1 p. 19 (n. 11), whi initium deest>.",
         "edition":"Ed J 1.",
         "salutation":"PIO PATRI VULFHARDO ABBATI' ALBINUS HUMILIS LEVITA SALUTEM.",
@@ -1052,7 +982,6 @@
     "71":{
         "letter_num":"Ep. 071",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -1067,7 +996,6 @@
     "72":{
         "letter_num":"Ep. 072",
         "description":"Alevinus Rodtrudae et Berchtae, Caroli regis filiabus, de suo erga eas obsequio seribit.\n. 789-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. Ax fol. 14'-15, A1 p. 20-21 n, 15%.",
         "edition":"Ed J 256.",
         "salutation":"J 256. CARISSIMIS IN CHRISTO VIRGINIBUS RODTHRUDAE ET BERCHTAE SEMPITERNAE BEATITUDINIS SALUTEM.",
@@ -1082,7 +1010,6 @@
     "73":{
         "letter_num":"Ep. 073",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1097,7 +1024,6 @@
     "74":{
         "letter_num":"Ep. 074",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1112,7 +1038,6 @@
     "75":{
         "letter_num":"Ep. 075",
         "description":"Alevinus Aginonem episcopum Constantiensem rogat, ut promissas sanctorum reliquias\nper Angilbertum sibi mittat, 792-796 2\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 75, K 1 fol. 65'-66, K2 p. 188-189, A1 p. 130-131 n. 90%,",
         "edition":"Ed , C 49, Q 65, F 26, J 207. - Migne col. 186.",
         "salutation":"DILECTISSIMO AGINO EPISCOPO ALBINUS MAGISTER> SALUTEM.",
@@ -1127,7 +1052,6 @@
     "76":{
         "letter_num":"Ep. 076",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1142,7 +1066,6 @@
     "77":{
         "letter_num":"Ep. 077",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1157,7 +1080,6 @@
     "78":{
         "letter_num":"Ep. 078",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1172,7 +1094,6 @@
     "79":{
         "letter_num":"Ep. 079",
         "description":"Alevinus Aedilthydae abbatissae, quondam reginae, matri Aethelredi regis Northan-\nhumbrorum, de muneribus missis gratias agit. Adhortationes addit. 793 -796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, T fol. 64-55' (T fol. 30), Q fol. 120-1214.",
         "edition":"Ed . Q 30, F 150, J 50. - Migne col. 471.",
         "salutation":"DILECTISSIMAB IN CHRISTO SORORI AEDILTHYDE>! MA'TRL HUMILIS LEVITA ALCHVINE SALUTEM.",
@@ -1187,7 +1108,6 @@
     "80":{
         "letter_num":"Ep. 080",
         "description":"Alevinus Sigvulfo presbytero interrogationes de libro Genescos a se compositas mittit.\n793-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, Romanus Palatinus (P) 289 saec. IX. fol. 2'-3', quem contulit Holder-Egger 8. n.; Hin- sidlensis 60 (E) saec. IX. p. 1, quem contulit V. Rev. P. Gabriel Meier; Parisinus 13187, quondam Cor- beiensis, tum S, Germani (C) saec. IX, fol. 65-66, quem cont. V. Cl. Lebegue; S. Petri Carnotensis 113 (Ch) saec. IX. fol. 1; Montensis in Hannonia, ex monasterio S. Mariae de Bona Spe (M) sacc. X, cont. Bethmann b. m., viblioth. Lambethanae Londini 148 (L) fol. 120 saec. XII; Caesareae Vindobon. 1060 (V) saec. XII. Exstat etiam in codicibus coenobii Sanctae Crucis prope Vindobon. 212 (cf. Pertz Archiv X, 507), Parisinis 1862, 1863, 2384 saec. X,",
         "edition":"Ed . Margar. de la Bigne, Bibliothecae SS. patr. appendix Paris 1579 col. 1025; Quercetanus",
         "salutation":"DILECTISSIMO IN CHRISTO FRATRI SIGUULFO PRESBITERO ALBINUS SALUTEM.",
@@ -1202,7 +1122,6 @@
     "81":{
         "letter_num":"Ep. 081",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1217,7 +1136,6 @@
     "82":{
         "letter_num":"Ep. 082",
         "description":"Alevinus apud Beornvinum presbyterum de sinistra suspicione inprimis de fide Offae\nregi servanda se excusat. 793-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 72-72' (T fol. 66), K 1 fol. 50'-51, K2 p. 149-151, A 1 p. 113-114 n. 729.",
         "edition":"Ed . C32, Q 54, Fz, J 15. - Migne col. 149.",
         "salutation":"DILECTO FRATRI BEORNUUINO PRESBYTERO ALCHVINI> DIACONUS SALUTEM.",
@@ -1232,7 +1150,6 @@
     "83":{
         "letter_num":"Ep. 083",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1247,7 +1164,6 @@
     "84":{
         "letter_num":"Ep. 084",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1262,7 +1178,6 @@
     "85":{
         "letter_num":"Ep. 085",
         "description":"Carolus I rex Francorum Athilhardum archiepiscopum Cantuariensem et Ceolvulfum\nepiscopum Sidnacestrensem rogat, ut exules quondam Offae regis Merciorum commendent.\n\n798-796.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 76'-77 (T' fol. 70')s.",
         "edition":"Ed . Q61 col. 1576, Wilkins Concilia magnae Brit. I, 154, Frobenius II, 557, Bouquet Recueil",
         "salutation":"CAROLUS GRATIA DEI REX FRANCORUM ET LONGOBARDORUM AC PATRICIUS ROMANORUM ATHILHARDO ARCHIEPISCOPO! ET CEOLVULFO COEPISCOPO>? ILLIUS AETERNAE BEATITUDINIS SALUTEM.",
@@ -1277,7 +1192,6 @@
     "86":{
         "letter_num":"Ep. 086",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -1292,7 +1206,6 @@
     "87":{
         "letter_num":"Ep. 087",
         "description":"Carolus I rex Francorum Offam regem Merciorum rogat, ut presbyterum Scotticum,\nqui ieiunium non observaverit, e dioecesi Coloniensi in patriam redire iubeat, ubi epi-\nscopus eius de eo iudicet. 793-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod, T fol. 92%.",
         "edition":"Ed . Q 85 col. 1614, Baluzius Capitul. I, 275, Bouquet Recueil V, 626, Frobenius II, 557, Jaff\u00e9",
         "salutation":"KAROLUS GRATIA DEI REX FRANCORUM ET DEFENSOR SANCTAE DEI ECCLESIAE DILECTO FRATRI ET AMICO OFFA REGI SALUTEM.",
@@ -1307,7 +1220,6 @@
     "88":{
         "letter_num":"Ep. 088",
         "description":"Alcvinus discipulum quendam iuniorem ad virtutem secundum exempla sanctorum\nexercendam hortatur. De libris ab eo postulatis addit'. 793-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. H fol. 58'-60, T fol. 106'-107,",
         "edition":"Ed . Q 102, F 143, J 290. - Migne col. 459.",
         "salutation":"DILECTISSIMO FILIO ATQUE ANIMALI> MEO ALBINUS SALUTEM.",
@@ -1322,7 +1234,6 @@
     "89":{
         "letter_num":"Ep. 089",
         "description":"Alevinus episcopum quendam ob studium praedicandi laudat et in eo confirmat.\n793-796?\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A1 fol. 184-184', A 1 p. 158-169 n. 113%,",
         "edition":"Ed J 218.",
         "salutation":"J 218. PIO PONTIFICI ILL. ALBINUS> SALUTEM.",
@@ -1337,7 +1248,6 @@
     "90":{
         "letter_num":"Ep. 090",
         "description":"Alevinus Usualdo abbati et monachis S. Salvatoris Amiatinis scribit se eorum petitionem\nCarolo regi Francorum commendavisse. Rogat, ut preces pro se faciant. 794-796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 85-85' (T fol. 87), K 1 fol, 40'-41', K2 p, 122-124, A1 p. 105-106 n. 685.",
         "edition":"Ed . 025, Q 79, F'17, J 128, - Migne col. 178.",
         "salutation":"DOMINI DE[> SALVATORIS MUNDI\u00a2 SANCTISSIMAE CONGREGATIONI ET PIO PATRI USUALDO@! HUMILIS LEVITA ALCHVINUS  SALUTEM.",
@@ -1352,7 +1262,6 @@
     "91":{
         "letter_num":"Ep. 091",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1367,7 +1276,6 @@
     "92":{
         "letter_num":"Ep. 092",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1382,7 +1290,6 @@
     "93":{
         "letter_num":"Ep. 093",
         "description":"Carolus I rex Francorum Leoni III papae constituto gratulatur. Mittit munera\nHadriano I papae parata. Angilbertwn legatum suum commendat. De patriciatu suo\nuddit monetque, ut canones sequatur. 796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 90'-92; 8.1 fol. 205'-207's,",
         "edition":"Ed . Q 84 col. 1612, Baluzius Capitul. I, 271, Bouquet Rec. V, 625, Frobenius II, 559, Jaff\u00e9",
         "salutation":"KAROLUS> GRATIA DEI REX FRANCORUM ET LANGOBARDORUM AC PATRICIUS ROMANORUM LEONI PAPAE PERPETUAE BEATITUDINIS IN CHRISTO SALUTEM.",
@@ -1397,7 +1304,6 @@
     "94":{
         "letter_num":"Ep. 094",
         "description":"Alevinus Leoni III papae constituto gratulatur. Rogat, ut peccatis suis indulgeat.\nDe Angilberto abbate Centulensi. 796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. 1 fol. 80-81 (I fol. 83'-84), K 1 fol. 45'-47, K2 p. 136-140, A 1 p, 110-112 n, 705.",
         "edition":"Ed . C27, Q 72, F 20, J51. - Migne col. 178.",
         "salutation":"DOMINO BEATISSIMO ATQUE OMNI HONORE NOMINANDO> LEONI PAPAE HUMILIS LEVITA ALBINUS AETERNAE IN CHRISTO GLORIAE SALUTEM.",
@@ -1412,7 +1318,6 @@
     "95":{
         "letter_num":"Ep. 095",
         "description":"Alevinus Paulino patriarchae Aquileiensi respondet. Nuntium commendat, Signi-\nficat de aliis litteris per Angilbertum Romam euntem ad eum missis. 796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 81'-82 (T fol. 84'), K 1 fol. 73', K2 p, 210-211, A1 p. 137-138 n. 97%,",
         "edition":"Ed . C59, Q 73, F 24, J 52. - Migne col. 185.",
         "salutation":"VENERANDO VIRO PAULINO PATRIARCHAE ALBINUS SALUTEM.",
@@ -1427,7 +1332,6 @@
     "96":{
         "letter_num":"Ep. 096",
         "description":"Alcvinus Paulinum patriarcham Aquileiensem de duobus armillis aureis, a Liutgarda\nregina missis, certiorem facit. 796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, T fol. 95', K1 fol. 77-77', K2 p. 221-222, AQ fol. 169', A 1 p, 142 n. 100%,",
         "edition":"Ed . C 62, Q95, F 25, J 63, - Migne col. 186.",
         "salutation":"DOMINO PATRI PAULINO ALBINUS SALUTEM.",
@@ -1442,7 +1346,6 @@
     "97":{
         "letter_num":"Ep. 097",
         "description":"Alevinus Angilberto abbati Centulensi, Romam profecto, scribit stabilitatem sibi\nnondum concessam esse. Petit, ut sanctorum reliquias sibi acquirat saepeque litteras ad\nse mittat. 796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 95-95', K 1 fol. 63'-64, K 2 p. 183-185, A1 p. 129 mr. 87%.",
         "edition":"Ed , C46, Q92, F 21, J 54. - Migne col. 180.",
         "salutation":"DULCISSIMO FILIO VIR FLUCTIVAGUS SALUTEM.",
@@ -1457,7 +1360,6 @@
     "98":{
         "letter_num":"Ep. 098",
         "description":"Alevinus Erico duci Foroiulano, quod se visitaverit, gratias agit, ewmque optimis\nominibus prosequitur. Monet, ut Paulini patriarchae Aquileiensis consilia sequatur.\n\n796.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, T fol, 96-96', K1 fol. 67-67', K2 p. 192-193, A1 p. 1381-132 mr. 929,",
         "edition":"Ed . C53, Q94, F 1, J.55. - Migne col. 139.",
         "salutation":"VENERANDO VIRO ERICO> DUCI? ALBINUS MAGISTER SALUTEM.",
@@ -1472,7 +1374,6 @@
     "99":{
         "letter_num":"Ep. 099",
         "description":"Alevinus Paulinum patriarcham interrogat, num Christi fidem apud Avaros pro-\npagandam suscepturus sit. Litteras poscit. 796.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, K1 fol. 76-77, K2 p. 217-221, S1 fol. 210'-212' (S1i fol. 139-141), A 1 fol. 119, quem contulit R. Priebsch, A 1 p. 140-141 n. 999.",
         "edition":"Ed , C61, Q112, F 34, J 56. - Migne col. 198.",
         "salutation":"DILECTISSIMO% PATRI ET PIO PONTIFICI PAULINO PATRIARCHAE\u00a2! ALBINUS, VESTRAE FILIUS DILECTIONIS, PERPETUAE IN CHRISTO PROSPERITATIS SALUTEM.",
@@ -1487,7 +1388,6 @@
     "100":{
         "letter_num":"Ep. 100",
         "description":"Carolus rex Francorum Offae regi Merciorum respondet de peregrinorum Romam\neuntium immunitate, de negotiatorum teloneo solvendo, de Odberhto presbytero, de petris\nnigris. Addit de sagis ad se mittendis. Offert munera, prospiciens animae Hadriani\npapae. 796 post Apr. 18.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A 1 fol. 143-144' (A1 p. 170-172 n. 125); excerpta leguntur ap. Willelm. Malmesbur. Gesta reg. Anglor. l. I \u00a7 98 (Jaff\u00e9 Bibl. IV, 357).",
         "edition":"Ed . Wilkins Cone. magnae Britanniae I, 158 ex M. S. Usserii; Haddan and Stubbs Councits",
         "salutation":"CAROLUS GRATIA DEI REX FRANCORUM ET LANGOBARDORUM AC PATRICIUS ROMANORUM VIRO VENERANDO AC FRATRI CARISSIMO OFFAE REGI MERCIORUM PRESENTIS PROSPERITATIS AC AETERNAE BEATITUDINIS IN CHRISTO SALUTEM.",
@@ -1502,7 +1402,6 @@
     "101":{
         "letter_num":"Ep. 101",
         "description":"Alevinus Offae regi Merciorum scribit Carolum regem Francorum ei bene velle et\noccisionem Aethilredi regis Northanhumbrorum vehementissime indignari; seque in Angliam\nrevertendi consilium abiecisse. Addit de ecclesia S. Martini Turonensi sibi collata; legatos\ncommendat. 796 post Apr. 18.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, A 1 fol. 134'-136', A1 p, 159-161 n. 114, Duae partes huius epistolae ap. Willelm. Malmes- bur. Gesta reg. Anglor. I \u00a7 70 et 72 \u2018Sciat veneranda - iam fecisset\u2019 et \u2018Ego paratus eram - foedata\u2019s.",
         "edition":"Ed . Haddan and Stubbs Councils IIT, 498 priorem partem, J58. - Migne col. 213.",
         "salutation":"EXCELLENTISSIMO VIRO NOBISQUE DESIDERANTISSIMO OFFAN REGI MERCIORUM HUMILIS AMICUS ALCHVINE SALUTEM.",
@@ -1517,7 +1416,6 @@
     "102":{
         "letter_num":"Ep. 102",
         "description":"Alevinus Edilburgae abbatissae Flaedanbyrgensi, Offae regis Merciorum filiae, scribit\nse in Angliam reversurum non esse. Aethelfledam, viduam Aethelredi Northanhumbrorum\nregis occisi, admoneri vult, ut in monasterium secedat. Mittit munera et Liudgardae uxoris\nCaroli regis et sua. 796 post Apr. 18.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod, H fol. 10-11.",
         "edition":"Ed . F 166, J 59. - Migne col. 227.",
         "salutation":"IN DEO DILECTISSIMAE FILIAE EDILBURGAE SALUTEM.",
@@ -1532,7 +1430,6 @@
     "103":{
         "letter_num":"Ep. 103",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1547,7 +1444,6 @@
     "104":{
         "letter_num":"Ep. 104",
         "description":"Alevinus pontifices Britanniae hortatur, ut, Caroli regis Francorum mumeribus\nacceptis, pro eo et pro Adriano papa preces faciant. 796 post Apr. 18.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. At fol. 133-134, A1 p. 157-158 n. 1125,",
         "edition":"Ed J 61.",
         "salutation":"SANCTISSIMIS IN CHRISTO ET IN OMNI HONORE NOBIS DILIGENDIS BRITTANNIAE, DULCISSIME PATRIE, PONTIFICIBUS HUMILIS LEVITA ALCHVINUS, SANCTAE EBORACENSIS AECCLESIAE FILIUS, IN CHRISTI CARITATE SALUTEM.",
@@ -1562,7 +1458,6 @@
     "105":{
         "letter_num":"Ep. 105",
         "description":"Alevinus Edilthrudam abbatissam, quondam reginam, de filii Aethilredi Northan-\nhumbrorum regis nece consolatur. 796 post Apr. 18.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. S fol. 173-174.",
         "edition":"Ed . F 151, J 62. - Migne col. 473.",
         "salutation":"DILECTISSIMAE IN CHRISTO MATRI EDILTHRUDAE' HUMILIS LEVITA ALCHVINUS SALUTEM.",
@@ -1577,7 +1472,6 @@
     "106":{
         "letter_num":"Ep. 106",
         "description":"Alevinus matrem Anglicam de morte filii consolatur. 796? post Apr. 18.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 9-10.",
         "edition":"Ed . F 164, J 63. - Migne col. 226.",
         "salutation":"CARISSIMAE IN CHRISTO MATRI? FIDELIS IN CARITATE FILIUS ALCHVINUS DIACONUS SALUTEM.",
@@ -1592,7 +1486,6 @@
     "107":{
         "letter_num":"Ep. 107",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1607,7 +1500,6 @@
     "108":{
         "letter_num":"Ep. 108",
         "description":"Alevinus Earduulfum, regem Northanhumbrorum constitutum, admonet.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, Ha fol. 1'-18, Hb fol. 80~80'. 796 post m. Maium.",
         "edition":"Ed . F 166, J 65. - Migne col. 229.",
         "salutation":"\u2018VIRO INLUSTRI EARDUULFO REGI! ALCHVINE> DIACONUS SALUTEM.",
@@ -1622,7 +1514,6 @@
     "109":{
         "letter_num":"Ep. 109",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1637,7 +1528,6 @@
     "110":{
         "letter_num":"Ep. 110",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1652,7 +1542,6 @@
     "111":{
         "letter_num":"Ep. 111",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1667,7 +1556,6 @@
     "112":{
         "letter_num":"Ep. 112",
         "description":"Alevinus Arnoni episcopo Salisburgensi, de rebus in Avaria gestis certior factus,\nrespondet de discipulis, de Carolo rege, de Eanbaldo I archiepiscopo Eboracensi mortuo.\nMittit epistolam 110. Se in Alsatiam iturum esse. 796 post Aug. 10.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, S1 fol. 129'-130' (S1 fol. 29-29').",
         "edition":"Ed . F 30, J 70. - Migne col. 191.",
         "salutation":"PIO PATRI ET FRATRI FIDELI ET FILIO CARISSIMO SALUTEM.",
@@ -1682,7 +1570,6 @@
     "113":{
         "letter_num":"Ep. 113",
         "description":"Alevinus Arnoni episcopo Salisburgensi, qua ratione Huni fidem christianam docendi\nsint, exponit. 796 post Aug. 10.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. \u00a7 fol. 1'-4, H fol. 69'-73', T fol. 109-111'%.",
         "edition":"Ed . Q 104, F 31, J 71. - Migne col. 192.",
         "salutation":"DULCISSIMO FRATRI ET SANCTISSIMO PRAESULI AQUILAE ALBINUS SALUTEM.",
@@ -1697,7 +1584,6 @@
     "114":{
         "letter_num":"Ep. 114",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1712,7 +1598,6 @@
     "115":{
         "letter_num":"Ep. 115",
         "description":"Alevinus Eanbaldum IT archiepiscopum Eboracensem rogat, ut superiorem epistolam\n\nsuam saepe in manus sumat. Hortatur, ut bonos consiliarios adhibeat.\n\n796 post Aug. 10,\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, H fol. 29-30, A1 p. 63-64 n, 415,",
         "edition":"Ed . F170, J 78. - Migne col. 233.",
         "salutation":"VENERANDAE? DIGNITATIS ET DULCISSIMAE CARITATIS FILIO SIMEONI\u00a2? SUMMO SACERDOTI4@ ALBINUS PRAESENTIS PROSPERITATIS ET PERPETUAE BEATITUDINIS IN CHRISTO SALUTEM.",
@@ -1727,7 +1612,6 @@
     "116":{
         "letter_num":"Ep. 116",
         "description":"Alevinus Eanbaldum IT archiepiscopum Eboracensem commonet, ut iusta faciat et\n8. Gregorii librum pastoralem semper secum ferat. 796 post Aug. 10.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. \u00a7 fol. 172-172', A2 fol. 140-140', A1 p. 70-71 nr. 49%.",
         "edition":"Ed . F'57, Haddan and Stubbs Councils III, 505, J 74. - Migne col. 245.",
         "salutation":"KARISSIMO FILIO SYMEONI SACERDOTI ALBINUS PATER SALUTEM.",
@@ -1742,7 +1626,6 @@
     "117":{
         "letter_num":"Ep. 117",
         "description":"Alevinus monachis Murbacensibus scribit, quam ob rem ad eos non accesserit. Suadet\ncaritatem humilitatem oboedientiam pacem studia litterarum, 796.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, T' fol. 74-76, K1 fol. 35'-36', K2 p. 105-108, A 1 p. 103-106 n. 679,",
         "edition":"Ed . C22, Q64, F47, J 75. - Migne col. 217.",
         "salutation":"VENERABILIBUS IN CHRISTO FRATRIBUS IN ECCLESIA! SANCTI LEODEGARIL\u00bb EPISCOPI \u201d SERVIENTIBUS ALCHVINE DEVOTUS VESTRI PROFECTUS IN CHRISTO SALUTEM.",
@@ -1757,7 +1640,6 @@
     "118":{
         "letter_num":"Ep. 118",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1772,7 +1654,6 @@
     "119":{
         "letter_num":"Ep. 119",
         "description":"Alevinus Pippino regi Italiae gratias agit, quod Carolus rex captivos redimi siverit.\nAdhortationes addit. 796 ex.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. T fol. 94'-95 5.",
         "edition":"Ed , Q91, F 33, J 77, - Migne col. 197.",
         "salutation":"NOBILISSIMO NOBISQUE AMANTISSIMO FILIO PIPPINO! ALBINUS IN CHRISTI DILECTIONE SALUTEM.",
@@ -1787,7 +1668,6 @@
     "120":{
         "letter_num":"Ep. 120",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1802,7 +1682,6 @@
     "121":{
         "letter_num":"Ep. 121",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1817,7 +1696,6 @@
     "122":{
         "letter_num":"Ep. 122",
         "description":"Alevinus Osbertum patricium (quondam Offae regis Merciorum ministrum) hortatur,\nne animo cadat. Varia addit de commutatione rerum in Merciorum et Northanhumbrorum\nregnis facta; de admonendis regibus ; de Offae mortui regis legibus exercendis, 797,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A 1 fol. 136'-138', A1 p. 161-164 n. 115; Willelm. Malmesbir. Gesta reg. Anglor. L. I \u00a7 70. 94 duas epistolae partes afferts.",
         "edition":"Ed J 79.",
         "salutation":null,
@@ -1832,7 +1710,6 @@
     "123":{
         "letter_num":"Ep. 123",
         "description":"Alevinus Coenulfo regi Merciorum constituto gratulatur. Admonitiones addit.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 106'-106'. 797,",
         "edition":"Ed . F 169, J 80. - Migne col. 232.",
         "salutation":"EXCELLENTISSIMO VIRO COENULVO REGI> MERCIORUM HUMILIS LEVITA ALBINUS SALUTEM.",
@@ -1847,7 +1724,6 @@
     "124":{
         "letter_num":"Ep. 124",
         "description":"Alevinus Higbaldum episcopum Lindisfarnensem multa admonet. Memorat de Ecg-\nfridi regis Merciorum obitu inopinato. 797.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. H fol. 102-104', T fol. 116-117'\u00bb,",
         "edition":"Ed . Q.108, F'56, 381. - Migne col, 241.",
         "salutation":"SANCTISSIMO FRATRI ET FILIO CARISSIMO SPERATO EPISCOPO HUMILIS PATER ALBINUS SALUTEM.",
@@ -1862,7 +1738,6 @@
     "125":{
         "letter_num":"Ep. 125",
         "description":"Alevinus a Leone HII papa petit, ut Eanbaldo II archiepiscopo Eboracensi pallium\ntribuat. 797 ante Aug.\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodd. H fol. 102-104', T fol. 116-117'\u00bb,",
         "edition":"Ed Ed . Q.108, F'56, 381. - Migne col, 241.",
         "salutation":null,
@@ -1877,7 +1752,6 @@
     "126":{
         "letter_num":"Ep. 126",
         "description":"Alevinus Carolo regi suadet, ut saltus lunae huic mensi Novembri tribuatur.\n\n797 Nov. mense ineunte.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T' fol. \\-7' (T fol. 5-6), R (Vat. 226) fol. 7-9', B (Bernensis 83) saec. X fol. 75'-77, quem contulit H. Hagen; Valentianensis 253 (237) fol. 131-135 (V), quem contulit Sackur; initium tantum habent K 1 fol. 23'-24, K 2 p. 67-68, A1 p. 94 n. 59%.",
         "edition":"Ed . C 10, Q3, F'61, J 83. - Migne col. 254.",
         "salutation":"DOMINO DESIDERANTISSIMO ET OMNI SAPIENTIAE DECORE CLARISSIMO DAVID REGI FLACCUS ALBINUS PERPETUAE PACIS ET GLORIAE SALUTEM.",
@@ -1892,7 +1766,6 @@
     "127":{
         "letter_num":"Ep. 127",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1907,7 +1780,6 @@
     "128":{
         "letter_num":"Ep. 128",
         "description":"Alevinus Aethelhardo archiepiscopo Cantuariensi scribit, ut derelictae ad tempus\necclesiae Cantuariensis poenitentiam agat. Addit de archiepiscopatu Lichfeldensi ita\ntollendo, ne tamen Hygeberhtus archiepiscopus Lichfeldensis pallio privetur. 797.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. (A 1 fol. 127-129) A1 p. 149-151 n. 107, A2 fol. 153'-155, H fol. 5\u2018-7, T fol. 99', in utroque initium deest et hoc fragmentum cum ep. 41 supra p. 84 sic coniunctum est, ut ambae una. esse epistola videantur. Fragmentum huius epistolae praebet Willelm. Malmesbir. sanctaram - honore, Gesta pontiff. Anglor. I \u00a7 11 p. 19%.",
         "edition":"Ed . Q 67b, Wilkins Conc. Britanniae I, 159, F' 60, Haddan and Stubbs Councils II, 518-520,",
         "salutation":"SUMMAE DIGNITATIS VIRO ATQUE AECCLESIASTICAE BONITATIS PATRI A'THELHARDO> ARCHIEPISCOPO FIDELIS FILIUS ALCHVINUS PERPETUE BONITATIS IN CHRISTO SALUTEM.",
@@ -1922,7 +1794,6 @@
     "129":{
         "letter_num":"Ep. 129",
         "description":"Alevinus Cantuarienses cohortatur, ut Aethelhardum archiepiscopum revocent eiusque\nconsilio perturbatum regni statum reficiant. 797.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. H fol. 66-67', 81 fol. 200-202'.",
         "edition":"Ed . F 59, Haddan and Stubbs Councils II, 509-511, J 86. - Migne col. 249.",
         "salutation":"NOBILISSIME GENTI ET POPULO LAUDABILI ET REGNO IMPERIALI CANTUARIORUM HUMILIS LEVITA ALCHVINUS SALUTEM.",
@@ -1937,7 +1808,6 @@
     "130":{
         "letter_num":"Ep. 130",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1952,7 +1822,6 @@
     "131":{
         "letter_num":"Ep. 131",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1967,7 +1836,6 @@
     "132":{
         "letter_num":"Ep. 132",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1982,7 +1850,6 @@
     "133":{
         "letter_num":"Ep. 133",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -1997,7 +1864,6 @@
     "134":{
         "letter_num":"Ep. 134",
         "description":"Alevinus Oduino presbytero baptismi caeremonias exponit. c. 798.\n\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodd. H fol. 66-67', 81 fol. 200-202'.",
         "edition":"Ed Ed . F 59, Haddan and Stubbs Councils II, 509-511, J 86. - Migne col. 249.",
         "salutation":null,
@@ -2012,7 +1878,6 @@
     "135":{
         "letter_num":"Ep. 135",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2027,7 +1892,6 @@
     "136":{
         "letter_num":"Ep. 136",
         "description":"Alevinus Carolo regi de duobus evangelii gladiis respondet. Hortatur, ne permittat,\nut presbyleri ab episcopis pracdicare vetentur. Addit de altaribus a contaminatione\ntuendis, c. 798.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 12'\\-17 (T fol. 11'-15), S fol. 156-162, L fol. 132'\\-144, V (Vossian. Lugdun. fol. 70), Parisinus 2183 s. XI (P); initium habent K 1 fol. 26-26', K2 p. 74-75, A1 fol. 85, A 1 p. 97 n. 61%,",
         "edition":"Ed . C12, Q6, F 124, J 239. - Migne col. 422.",
         "salutation":"DOMINO DESIDERABILITER VENERABILI ET VENERABILITER DESIDERABILI> DAVID REGI IN FIDE ET CARITATE FLACCUS\u00a2 ALBINUS? SALUTEM.",
@@ -2042,7 +1906,6 @@
     "137":{
         "letter_num":"Ep. 137",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2057,7 +1920,6 @@
     "138":{
         "letter_num":"Ep. 138",
         "description":"Alevinus Gothiae incolas cohortatur, ne peccata sacerdotibus confiteri supersedeant.\nec. 798,\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 79-81, ubi initium deest (T fol. 81-83'), S 167'-171', K 1 fol. 41'-45', K2 p. 125-136, Q fol. 131'-133', M (cod. Ambros, Mediol. I 89), A1 p. 106-110 nr, 69%.",
         "edition":"Ed . C 26, Q 71, F 96, J 277. - Migne col. 337.",
         "salutation":"DILECTISSIMIS VIRIS FRATRIBUS ET PATRIBUS IN PROVINCIA GOTHORUM HUMILIS ECCLESIAE CHRISTI VERNACULUS ALBINUS4 DIACONUS SALUTEM.",
@@ -2072,7 +1934,6 @@
     "139":{
         "letter_num":"Ep. 139",
         "description":"Alevinus Paulini patriarchae Aquileiensis libellum de symboli explanatione laudat\nillumque excitat ad refellendos quosdam errores in ecclesia denuo exortos. c. 798.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 85'-86' (T fol. 88-89), K 1 fol. 74-76, K 2 p. 211-217, A 1 p. 138-139 n. 984,",
         "edition":"Ed . (60, Q 81, F'97, 794. - Migne col. 341.",
         "salutation":"DOMINO IN DOMINO DOMINORUM DILECTISSIMO ET PIO PATRI PAULINO PATRIARCHAE SALUTEM.",
@@ -2087,7 +1948,6 @@
     "140":{
         "letter_num":"Ep. 140",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2102,7 +1962,6 @@
     "141":{
         "letter_num":"Ep. 141",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2117,7 +1976,6 @@
     "142":{
         "letter_num":"Ep. 142",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2132,7 +1990,6 @@
     "143":{
         "letter_num":"Ep. 143",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2147,7 +2004,6 @@
     "144":{
         "letter_num":"Ep. 144",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2162,7 +2018,6 @@
     "145":{
         "letter_num":"Ep. 145",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2177,7 +2032,6 @@
     "146":{
         "letter_num":"Ep. 146",
         "description":"Alevinus de Arnonis archiepiscopi Salisburgensis Roma reditu certior fieri cupit et\nde Sancto Paulo, de Avaria, de nobilitate Romana, de Graecorum superbia. Significat\ndle suo itinere et de Hispanorum haeresi. Tun. 798.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. \u00a7 fol. 195-195', S1 fol. 104'-105' (S 1 fol. 5'-7), B fol. 75-76.",
         "edition":"Ed . M2, B. Pez Thesaur. anecdotor. II, 1,5, \u00a5'29, J 101. - Migne col. 190.",
         "salutation":"VENERANDO VOLUCRI ET VERE AMANTISSIMO AQUILAE ALBINUS SALUTEM.",
@@ -2192,7 +2046,6 @@
     "147":{
         "letter_num":"Ep. 147",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2207,7 +2060,6 @@
     "148":{
         "letter_num":"Ep. 148",
         "description":"Alevinus Carolo regi de muneribus a Fredegiso allatis gratias agit. Solis per\nzodiacum cursum ad calculos vocat. De Felicis episcopi Urgellitani libello ad se misso\nSignificat; regemque ad illius haeresim oppugnandam accendit. 798 ante Iul. med.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, T fol. 19-22' (T fol. 17-19), R (Vatic. 226) fol. 1-4, L fol. 148'-156', Lae. bibl. cap. 490%.",
         "edition":"Ed . Q 8, F 68, 599. Excerpta huius epistolae ex cod. Lucensi edidit Mansi, Baluzii Miscell.",
         "salutation":"DEO DILECTO ATQUE DEO\u00bb ELECTO DAVID REGI\u00a2 FLACCUS4 IN FIDE ET CARITATE PERPETUAM IN CHRISTO SALUTEM.",
@@ -2222,7 +2074,6 @@
     "149":{
         "letter_num":"Ep. 149",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2237,7 +2088,6 @@
     "150":{
         "letter_num":"Ep. 150",
         "description":"Alevinus Arnonem archiepiscopum Salisburgensem revertentem videre cupit. De suo\nitinere exponit. 798 paullo ante Aug. 4.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. S fol. 196'-197, S 1 fol. 107-108 (S' 1 fol. 8-8'), B fol. 77'-78\".",
         "edition":"Ed . M 4, Bern. Pez Thes. anecd. II, 1,7, F 52, J 102. - Migne col. 235.",
         "salutation":"DILECTISSIMO PATRI AQUILAE TRANSALPINO ALBINUS MAGISTER SALUTEM.",
@@ -2252,7 +2102,6 @@
     "151":{
         "letter_num":"Ep. 151",
         "description":"Angilbertus abbas 8. Richarii Centulensis Arnoni archiepiscopo Salisburgensi respondet.\nValetudinem eius miseratur. De Caroli regis itinere. Rem eius sibi curae esse. 798,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, S fol. 198 (B fol. 50'-51).",
         "edition":"Ed . Frobenius IT, 563, Jaff\u00e9 Biblioth. IV, 368; Formulae ed. Zeumer p. 450 n. 52. - Migne CI, 1319.",
         "salutation":"CARISSIMO PATRI MIHIQUE CUM NIMIO HONORE VEL AMORE NOMINANDO NOM. EPISCOPO EGO ILL. FIDELISSIMUS FILIUS VESTER PER HOS APICES IN DEO PATRE ET DOMINO IESU CHRISTO OPTAMUS VESTRAE PATERNITATI SEMPITERNAM SALUTEM.",
@@ -2267,7 +2116,6 @@
     "152":{
         "letter_num":"Ep. 152",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2282,7 +2130,6 @@
     "153":{
         "letter_num":"Ep. 153",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2297,7 +2144,6 @@
     "154":{
         "letter_num":"Ep. 154",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2312,7 +2158,6 @@
     "155":{
         "letter_num":"Ep. 155",
         "description":"Alevinus Carolo regi respondet de stellis errantibus, de lunae per zodiacum cursu,\nde stella Martis. 798 Sept. in.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 10-12' (T fol. 9-11), R fol. 4-74, finis exstat in L fol. 1524.",
         "edition":"Ed . Q6, F'70, J 103. - Migne col. 278.",
         "salutation":"OMNI VIRTUTUM GENERE NOBILISSIMO ATQUE OMNI SAPIENTIAE DECORE CLARISSIMO DAVID REGI MILES VETERANUS' FLACCUS SALUTEM.",
@@ -2327,7 +2172,6 @@
     "156":{
         "letter_num":"Ep. 156",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2342,7 +2186,6 @@
     "157":{
         "letter_num":"Ep. 157",
         "description":"Alevinus Arnoni archiepiscopo Salisburgensi respondet. Epistolae ad se missae tenui-\n\ntatem reprehendit. Se Turonos festinare significat, ewmque ad se venire cupit. De Candido.\n\n798 Sept.\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodd. T fol. 10-12' (T fol. 9-11), R fol. 4-74, finis exstat in L fol. 1524.",
         "edition":"Ed Ed . Q6, F'70, J 103. - Migne col. 278.",
         "salutation":null,
@@ -2357,7 +2200,6 @@
     "158":{
         "letter_num":"Ep. 158",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2372,7 +2214,6 @@
     "159":{
         "letter_num":"Ep. 159",
         "description":"Alevinus Arnonem archiepiscopum Salisburgensem aut hieme Turonis aut proximo\nanno in coenobio S. Amandi videre optat. Gaudet, quod Leo III papa immerito iniuria\n\nafficiatur, et quod iter ab Arnone non frustra factum sit. 798 Nov.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, A 1 fol. 40-41', A1 p, 44 bis - 46 n. 314,",
         "edition":"Ed J 108.",
         "salutation":"J 108. NOBILISSIMO AVIUM AQUILAE ANSER STRIDENTI VOCE SALUTEM.",
@@ -2387,7 +2228,6 @@
     "160":{
         "letter_num":"Ep. 160",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2402,7 +2242,6 @@
     "161":{
         "letter_num":"Ep. 161",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2417,7 +2256,6 @@
     "162":{
         "letter_num":"Ep. 162",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2432,7 +2270,6 @@
     "163":{
         "letter_num":"Ep. 163",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2447,7 +2284,6 @@
     "164":{
         "letter_num":"Ep. 164",
         "description":"Alevinus Caroli regis Francorum filiae scribit se propter infirmam valetudinem ad\nregem non venisse. Sperat fore, ut rex Turonos accedat et Dares Hispanicus a sesc\nvincatur.  a. 799 ineunte.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. S'1 fol. 116' (S1 fol. 17'-18), A1 fol. 63-63', A1 p.69-70 n. 48%,",
         "edition":"Ed . M8, F 100, J 132, - Migne ool. 363,",
         "salutation":"KARISSIMAE> IN CHRISTO FILIE FIDELIS IN KARITATE PATER PERPETUAE PROSPERITATIS SALUTEM.",
@@ -2462,7 +2298,6 @@
     "165":{
         "letter_num":"Ep. 165",
         "description":"Alevinus Arnoni archiepiscopo Salisburgensi, domum reverso ct in monasterium\nElnonense venturo, respondet. De Carolo rege Francorum Turonos petituro. De mandato\ncoenobii Calensis adeundi; de Angilberto; de Leidrado. 799 c, Ianuar. ex.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. S fol. 195'-196', S 14 fol. 105'-107, S 1b fol. 128-129' (S1 fol. 7-8, 28'-29), B fol. 76-77'.",
         "edition":"Ed , M3. 12, Pez Thesawr. anecdot. I, 1,6, F 87, J 138. - Migne col. 316.",
         "salutation":"SANCTISSIMO PONTIFICI ET DULCISSIMO FILIO AQUILAE ALBINUS SALUTEM.",
@@ -2477,7 +2312,6 @@
     "166":{
         "letter_num":"Ep. 166",
         "description":"Alcvinus Elipantum Toletanum episcopum cohortatur, ut et ipse suos de adoptione\net nuncupatione Christi errores abiciat et Felicem Urgellitanum episcopum ceterosque\nHispaniae christianos ad bonam frugem revocet'. 799.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. P fol. 20-27' (P fol. 16), Parisinus 2388 fol. 1sqq. (Pa), quem contulit Moliniers.",
         "edition":"Ed . Quercetanus col. 901-910 ex codice iam deperdito ecclesiae S. Mariae Remensis, Frobenius",
         "salutation":"VENERABILI ET IN CHRISTI KARITATE AMABILI PATRI ELIPANTO> EPISCOPO ECCLESIASTICAE PACIS\u00a2 FILIUS ALBINUS LEVITA SALUTEM.",
@@ -2492,7 +2326,6 @@
     "167":{
         "letter_num":"Ep. 167",
         "description":"Alevinus Arnonem archiepiscopum Salisburgensem de vita aeterna monet; eumque\nse in monasterio Sancti Amandi frustra quaesivisse dolet. 799 Febr. ex.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 75-75', Sia fol. 114'-116, S 1b fol. 195-196 (S1 fol. 15 -17), B fol. 747, Q fol. 127-127', K 1 fol. 54'-55', K2 p. 159-161, A 1 p. 118-119 nr. 75%.",
         "edition":"Ed . C35, Q66, F 86, 7109. - Migne col. 315.",
         "salutation":"CARISSIMO GERMANO AQUILAE> ANTESTITI ALBINUS SALUTEM.",
@@ -2507,7 +2340,6 @@
     "168":{
         "letter_num":"Ep. 168",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2522,7 +2354,6 @@
     "169":{
         "letter_num":"Ep. 169",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2537,7 +2368,6 @@
     "170":{
         "letter_num":"Ep. 170",
         "description":"Alevinus Carolo regi respondet, quas ob causas luna die 18. Martii parum magna\napparuerit. Sed pascha loco suo moveri licitum esse negat. 799 Martio exeunte.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 25'-27 (T fol. 22'-28), P fol. 126-128, R fol. 9 -11', L fol. 163'-167, initium habent K 1 fol. 27, K2 p. 77-78, A1 p. 98 n. 63%,",
         "edition":"Ed , C14, Q 10, F 71, J 110. - Migne col. 281,",
         "salutation":"DOMINO DILECTISSIMO DAVID REGI FLACCUS ALBINUS SALUTEM.",
@@ -2552,7 +2382,6 @@
     "171":{
         "letter_num":"Ep. 171",
         "description":"Alevinus Carolo regi respondet. Petit, ut suum adversus Felicem episcopum Urgel-\nlitanum librum confirmet. Cursus lunaris et incrementi bisseatilis rationes a rege missas\ncomprobat. Mittit rationem solaris et lunaris per Signiferum cursus. 799 post Mart.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 31-32' (T fol. 28-29), P fol. 119'-121' (P fol. 79'-80), K 1 fol. 16'-18', K2 p. 46-52, L fol. 177'-181', A 1 p, 85-87 n. 544,",
         "edition":"Ed . C5, Q14, F'84, J 111. - Migne col. 311.",
         "salutation":"BENEDICTO> ATQUE OMNI SAPIENTIAE DECORE PRAEFULGIDO DAVID REGI FLACCUS ALBINUS IN CHRISTO SALUTEM.",
@@ -2567,7 +2396,6 @@
     "172":{
         "letter_num":"Ep. 172",
         "description":"Alevinus Carolo regi gratias agit, quod suum adversus Felicem episcopum Urgel-\nlitanum libellum recitari iusserit sibique ad tollenda librarii vitia remiserit. Sed graviorum\nerrorum indicium desiderat. De scripta Felicis cum Sarraceno disputatione nuntium ad\nLaidradum episcopum Lugdunensem missum esse. Addit de disputatione a Petro Pisano\nquondam Papiae cum Lullo Iudaco habita. Mittit species dictionum et figuras arithmeticas.\nIntermissam a scriptoribus artem interpungendi per Carolum reduci cupit.\n\n799 Apr. - Mai.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, T fol. 32'-33' (T fol. 29'-30'), P fol. 121'-123 (P fol. 81-82), L fol. 182-184', prior pars in K1 fol. 18'-19, K2 p. 52-54, A1 p. 87-88 n. 55%,",
         "edition":"Ed . C 6, Q 15, F 85, J 112. - Migne col. 313.",
         "salutation":"DOMINO PIISSIMO> ET PRAESTANTISSIMO DAVID4 REGI FLACCUS CARITATIS CALAMO VULNERATUS ! SALUTEM.",
@@ -2582,7 +2410,6 @@
     "173":{
         "letter_num":"Ep. 173",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2597,7 +2424,6 @@
     "174":{
         "letter_num":"Ep. 174",
         "description":"Alevinus Carolo regi gratias agit, quod de Leone III papa a Romanis crudeliter\ntractato se certiorem fecerit. Quo facilius ecclesiae consulat, ut cum Saxonibus pacem\ncomponat hortatur. 799 Tun.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 27-28' (T fol. 24-25), P fol. 128-129' (P fol. 86-87), K1 fol. 14-16, K2 p. 41-46, L fol. 167--170, A1 p. 83-85 mr. 535.",
         "edition":"Ed . C4, Q 11, F80, J 114, - Migne col. 301.",
         "salutation":"DOMINO PACIFICO DAVID REGI FLACCUS ALBINUS SALUTEM.",
@@ -2612,7 +2438,6 @@
     "175":{
         "letter_num":"Ep. 175",
         "description":"Alevinus Adalhardum abbatem Corbeiensem reprehendit, quod ad se neque accedat\nneque litteras mittat. Se febri impeditum fuisse, quominus ad eum veniret. De Angilberto.\n\n799 ante Tul. 10.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. H fol. 97-98, T fol. 115'-116%.",
         "edition":"Ed . Q 107, F 144, J 116. - Migne col, 461.",
         "salutation":"ANTONIO! ALBINUS SALUTEM.",
@@ -2627,7 +2452,6 @@
     "176":{
         "letter_num":"Ep. 176",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2642,7 +2466,6 @@
     "177":{
         "letter_num":"Ep. 177",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -2657,7 +2480,6 @@
     "178":{
         "letter_num":"Ep. 178",
         "description":"Alevinus Carolo regi respondet. De prospero rerum eventu gratulatur. Clementiam\nsuadet. De Leone III papa praeter spem sano gaudet, De discipulis suis mittendis quaerit.\nSignificat, quare Turonis quam Romae esse malit. Regi Romam ituro lacta optat.\n\n799 Aug.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 29'-31 (T fol. 26'-27), P fol. 117'-119', L fol, 174-177', K 1 fol. 10-20', K2 p. 54-56, AI p, 88-89 n. 56%,",
         "edition":"Ed . C7, Q 13, F 93, J 119. - Migne col. 309.",
         "salutation":"DOMINO DILECTISSIMO ATQUE OMNI HONORE DIGNISSIMO DAVID REGI FLACCUS VETERANUS MILES PERPETUAM IN CHRISTO SALUTEM.",
@@ -2672,7 +2494,6 @@
     "179":{
         "letter_num":"Ep. 179",
         "description":"Alevinus Arnoni archiepiscopo Salisburgensi respondet se libenter ad Leonem III\npapam accessurum eique ab epistolis futurum fuisse, si et per valetudinem suam licuisset\net Carolus rea sese vocavisset. Orimina in papam collata eidem abiuranda esse negat.\nHortatur, ut papae causam defendat. 799 Aug.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. 1 fol. 149-151' (S 1 fol. 61'-63!), D fol. 240'--2498,",
         "edition":"Ed , F 92a, J 120. - Migne col. 324.",
         "salutation":"DOMINO BEATISSIMO ET MERITO PERPETUAE CARITATIS ALIS AMPLECTANDO AQUILAE EPISCOPO HUMILIS LEVITA ALCHVINUS SALUTEM.",
@@ -2687,7 +2508,6 @@
     "180":{
         "letter_num":"Ep. 180",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -2702,7 +2522,6 @@
     "181":{
         "letter_num":"Ep. 181",
         "description":"Alevinus Adalhardum abbatem Corbeiensem reprehendit, quod, quae condiciones inter\nCarolum regem et Leonem III papam convenissent, ad se non retulerit, Se in coenobium\nS. Martini Turonense redire nuntiat. Sperat fore, ut ad se accedat. 799 Sept.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 94'-95'.",
         "edition":"Ed . F 172, J 121. - Migne col. 309.",
         "salutation":"ALCVINI EPISTOLAR. 181. 299 PRIMA LITTERA! PRIMAE?, ET QUINTA DECIMA SEXTAE\u2018, SACRATUS IN GRADIBUS NUMERUS PERFECTO IN OPERIBUS DEI SALUTEM.",
@@ -2717,7 +2536,6 @@
     "182":{
         "letter_num":"Ep. 182",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2732,7 +2550,6 @@
     "183":{
         "letter_num":"Ep. 183",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2747,7 +2564,6 @@
     "184":{
         "letter_num":"Ep. 184",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2762,7 +2578,6 @@
     "185":{
         "letter_num":"Ep. 185",
         "description":"Alevinus Arnoni archiepiscopo Salisburgensi scribit ex ducum quorundam limiti\n\npraefectorum obitu timorem maioris mali sibi nasci. Arnonem vigilem esse vult.\n\n799 Oct. Nov.\n",
-        "mgh_date": "",
         "mss_ocr":"CodCod. H fol. 94'-95'.",
         "edition":"Ed Ed . F 172, J 121. - Migne col. 309.",
         "salutation":null,
@@ -2777,7 +2592,6 @@
     "186":{
         "letter_num":"Ep. 186",
         "description":"Alevinus Arnoni archiepiscopo Salisburgensi pro litteris muneribusque Roma sibi\nmissis gratias agit, sinistram suspicionem a se amovet, Leoni papae, Paulino patriarchae,\nPetro archiepiscopo se commendari cupit, ad pacis restituendae studium hortatur.\n\na. 799 exeunte.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. S1 fol. 141-144 (S1 fol. 48'-53').",
         "edition":"Ed . M16, F 102, J 126. - Migne col. 366.",
         "salutation":"VENERANDO PATRI AQUILAE EVANGELICAE ALBINUS SALUTEM.",
@@ -2792,7 +2606,6 @@
     "187":{
         "letter_num":"Ep. 187",
         "description":"Alevinus monachos Gothiae ad bonos mores cohortatur. Petit ut pro se precentur,\nMunera mittit. Adversus periculum instans eorum animos confirmat. e 799.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. H fol. 20-22', T fol. 102-103'.",
         "edition":"Ed . Q.99, F' 95, J 247. - Migne col. 334.",
         "salutation":"SANCTISSIMIS IN CHRISTI CARITATE FRATRIBUS DEOQUE IN DIVERSIS GOTHIAE PARTIBUS FIDELITER SERVIENTIBUS HUMILIS LEVITA> ALCHVINUS SALUTEM.",
@@ -2807,7 +2620,6 @@
     "188":{
         "letter_num":"Ep. 188",
         "description":"Alevinus Carolum regem, Caroli imperatoris filium, laudat et confirmat. De Ludovico\nAquitaniae rege. 793-800.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, H fol. 19-20, L fol. 207-208'.",
         "edition":"Ed . F 179, J 245. - Migne col. 354.",
         "salutation":"DOMINO MERITO INSIGNI REGALIQUE HONORE DIGNISSIMO CAROLO! FILIO ALBINUS TRIUMPHALEM IN CHRISTO SALUTEM.",
@@ -2822,7 +2634,6 @@
     "189":{
         "letter_num":"Ep. 189",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2837,7 +2648,6 @@
     "190":{
         "letter_num":"Ep. 190",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2852,7 +2662,6 @@
     "191":{
         "letter_num":"Ep. 191",
         "description":"Alevinus de intermisso cum Ricbodo archiepiscopo Trevirensi litterarum commercio\nqueritur; ad horam expetit quaedam Leonis et Bedae scripta. Ad Sanctum Martinum\ninvitat, + \u00a2. 796 - \u00a2, 800.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 18'-19%,",
         "edition":"Ed . F 197, J 197. - Migne col. 442.",
         "salutation":"MACHARIO PATRIARCHAE! ALBINUS SALUTEM.",
@@ -2867,7 +2676,6 @@
     "192":{
         "letter_num":"Ep. 192",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -2882,7 +2690,6 @@
     "193":{
         "letter_num":"Ep. 193",
         "description":"Alevinus Arnoni archiepiscopo Salisburgensi scribit de suo erga eum amore. Se\ndiligenter se praeparare ad disputationem cum Felice episcopo Urgellitano habendam.\nSperat fore, ut aestate eum videat. De Candido; de libris remittendis; de Hildegario;\nde Adelberto et Alimo episcopo Sabionensi; de festo omnium sanctorum ',\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. 81 fol. 145'-148' (S 1 fol. 57'-61). 800 ante Mart, 19.",
         "edition":"Ed . M 18, F 76, J 134. - Migne col. 294.",
         "salutation":"AQUILAE INTER OMNES ALPINE CELSITUDINIS AVES CARISSIMO ALBINUS SALUTEM.",
@@ -2897,7 +2704,6 @@
     "194":{
         "letter_num":"Ep. 194",
         "description":"Alevinus Arnoni archiepiscopo Salisburgensi pro muneribus missis gratias agit.\nAddit de disputatione cum Felice episcopo Urgellitano habenda; cui et Paulinum patri-\narcham Aquileiensem et Arnonem interesse cupit. De libris remittendis; de Adelberto.\n\n800 Mart. 19.\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodd. 81 fol. 145'-148' (S 1 fol. 57'-61). 800 ante Mart, 19.",
         "edition":"Ed Ed . M 18, F 76, J 134. - Migne col. 294.",
         "salutation":null,
@@ -2912,7 +2718,6 @@
     "195":{
         "letter_num":"Ep. 195",
         "description":"Alevinus Gislae abbatissae Calensi, sorori Caroli regis, et Rotrudae filiae eiusdem\nmittit partem commentarii in evangelium Iohannis. Scribit se iussu regis in emendando\ntestamento et vetere et novo occupatum esse. 800 ante Apr. 19.\n\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodCodd. 81 fol. 145'-148' (S 1 fol. 57'-61). 800 ante Mart, 19.",
         "edition":"Ed Ed Ed . M 18, F 76, J 134. - Migne col. 294.",
         "salutation":null,
@@ -2927,7 +2732,6 @@
     "196":{
         "letter_num":"Ep. 196",
         "description":"Gisla abbatissa Calensis, soror Caroli regis, et Rodtruda filia regis Alevinum hor-\ntantur, ut coeptam evangelii Iohannis explanationem sibi absolvat. 800 post Apr. 19.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. 8. Galli 275 (G) p. 8-5, Monae. (S. Emmer.) 14891 (E) fol. 4-5, P fol. 131'-133 (P fol. 88-90), Valentian, 76 (74) fol.1-1', quem contulerunt Bethmann et Sackur; Parisinus 12279 s. X. fol. 59 (0). Exstat etiam in codd. eccl. cathedr. Coloniens. CVII s. IX. fol. 2-3, Dusseldorp. B 4 saec. X. (Pertz Arch, XI, 747).",
         "edition":"Ed . Quercetanus col. 373-376, Frobenius I, 460-461, J 137. - Migne col. 738.",
         "salutation":"VENERANDO PATRI NOBISQUE CUM SUMMO HONORE> AMPLECTANDO ALBINO MAGISTRO@ SALUTEM.",
@@ -2942,7 +2746,6 @@
     "197":{
         "letter_num":"Ep. 197",
         "description":"Alevinus Carolum regem de mortua Liutgarda regina consolatur precesque pro ea\naddit. 800 Iun, 4. aut paulo post.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 38'-39' (T fol. 35), L fol. 196'-199\u00b0,",
         "edition":"Ed . Q 21, F 90, J 138. - Migne col, 320.",
         "salutation":"DOMINO PIISSIMO ET PACIFICO REGI ET PRAESTANTISSIMO TRIUMPHATORI AETERNAE BEATITUDINIS GLORIAM ET SALUTEM.",
@@ -2957,7 +2760,6 @@
     "198":{
         "letter_num":"Ep. 198",
         "description":"Alevinus Carolum regem de carorum amicorum morte consolatur\u2019. 800?\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 39'-41' (T fol. 36~87), L fol. 199-2078,",
         "edition":"Ed . Q 22, F 91, J 124. - Migne col. 321.",
         "salutation":"DOMINO DESIDERABILI ET VERE BEATISSIMO DAVID REGI FLACCUS ALBINUS SALUTEM.",
@@ -2972,7 +2774,6 @@
     "199":{
         "letter_num":"Ep. 199",
         "description":"Felix episcopus Urgellitanis significat praesente Carolo rege de adoptione et nun-\neupatione convictum ab erroribus suis se recessisse. Hortatur, ut etiam ipsi in viam\nrectam redeant. 800 medio mense Iunio.\n\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodd. T fol. 39'-41' (T fol. 36~87), L fol. 199-2078,",
         "edition":"Ed Ed . Q 22, F 91, J 124. - Migne col. 321.",
         "salutation":null,
@@ -2987,7 +2788,6 @@
     "200":{
         "letter_num":"Ep. 200",
         "description":"Alevinus Laidrado Lugdunensi et Nefridio Narbonensi episcopis ac Benedicto\nAnianensi abbati, Caroli regis iussu iam iterum ad oppugnandas haereses ituris, suos\nadversus Elipandum Toletanum episcopum scriptos libros dedicat. Se Dei voluntate in\nFrancorum regnum ad Carolum pervenisse putat. 800.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. P fol. 27'-30' (P fol. 6'-8), Paris. 2388 (Colbert.) s. XIV. (Pa) fol. 7\".",
         "edition":"Ed . Quercetanus col. 925-930 ex cod, S. Mariae Remensis, Frobenius I, 860, J 140. - Migne CI, 231.",
         "salutation":"DOMINIS IN CHRISTI CARITATE VENERABILIBUS ATQUE DILECTISSIMIS LAIDRADO EPISCOPO LUGDUNENSI ET NEFRIDIO EPISCOPO NARBONENSI ET BENEDICTO ABBATI> SIMULQUE SANC- TISSIMIS NOBISQUE VALDE HONORABILIBUS GOTHIAE PROVINTIAE PARTIBUS EPISCOPIS4 ABBATIBUS ET FRATRIBUS HUMILLIMUS SANCTAE ECCLESIAE FILIUS ALBINUS SALUTEM.",
@@ -3002,7 +2802,6 @@
     "201":{
         "letter_num":"Ep. 201",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3017,7 +2816,6 @@
     "202":{
         "letter_num":"Ep. 202",
         "description":"Alevinus Carolum regem rogat, statuat, utrum maius suum adversus Felicem epi-\nscopum Urgellitanum opus publicetur neene. 800.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. Parisinus 2386 saec. IX. fol. 4 sq.",
         "edition":"Ed . Baluzius Miscellanea IV, 413-415, Frobenius I, 787, J 142. - Migne CI, 126.",
         "salutation":"MAXIMO ATQUE INVICTISSIMO 'TRIUMPHATORI ATQUE CLEMENTISSIMO REGNORUM RECTORI CAROLO REGI FRANCORUM ET LANGOBARDORUM AC PATRICIO ROMANORUM HUMILIS LEVITA ALCVINUS SALUTEM.",
@@ -3032,7 +2830,6 @@
     "203":{
         "letter_num":"Ep. 203",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3047,7 +2844,6 @@
     "204":{
         "letter_num":"Ep. 204",
         "description":"Alevinus virginem quandam nobilem (Gundradam ?) de dogmate contra adoptianos instruit.\n",
-        "mgh_date": "",
         "mss_ocr":"CodCod. Parisinus 2386 saec. IX. fol. 4 sq.",
         "edition":"Ed Ed . Baluzius Miscellanea IV, 413-415, Frobenius I, 787, J 142. - Migne CI, 126.",
         "salutation":null,
@@ -3062,7 +2858,6 @@
     "205":{
         "letter_num":"Ep. 205",
         "description":"Alevinus abbatibus et monachis Gothiae respondet. De suo adversus Felicem epi-\nscopum Urgellitanum libello per Benedictum abbatem Anianensem ad eos misso; de maiore\nopere mittendo. De adoptione et nuncupatione, Stabilitatem et perseverantiam suadet.\n\n800 medio mense Iunio.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. Parisinus 2390 (Colbert. 4310) s. XI. fol. 84'-85's,",
         "edition":"Ed . Baluzii Miscell. I, 377-381, Aguirre Coll. cone. Hisp. IV, 118, F 94, J 145.- Migne col. 332.",
         "salutation":"ALBINUS HUMILIS CHRISTI FAMULUS ET SERVIENS SANCTI MARTINI OMNIBUS ABBATIBUS FRATRIBUS ET FILIS, QUI SUNT GOTHIAE> PARTIBUS, IN CHRISTO KARISSIMIS AETERNE BEATITUDINIS SALUTEM.",
@@ -3077,7 +2872,6 @@
     "206":{
         "letter_num":"Ep. 206",
         "description":"Alcvinus Nifridio episcopo Narbonensi Benedictum abbatem Anianensem commendat.\n\n800 medio mense Iunio.\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 63'.",
         "edition":"Ed . F 202, J 146. - Migne col. 488.",
         "salutation":"DILECTO PATRI NIFRIDIO EPISCOPO ALCHVINUS SALUTEM.",
@@ -3092,7 +2886,6 @@
     "207":{
         "letter_num":"Ep. 207",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3107,7 +2900,6 @@
     "208":{
         "letter_num":"Ep. 208",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3122,7 +2914,6 @@
     "209":{
         "letter_num":"Ep. 209",
         "description":"Alevinus Calvino presbytero et monacho S, Stephani scribit de rerum externarum\nusu; de Eanbaldi II archiepiscopi Eboracensis incommodis; de adulatione vitanda; de\nsuo in Iohannis evangelium commentario, cet. a. 800 fere medio.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. H fol. 25'-29, T' fol. 104-106', A2 fol. 158'-160', (A 1 fol. 38'), A1 p. 48-52 n, 35%,",
         "edition":"Ed . Q 101, F 58, J 149. - Migne col. 246.",
         "salutation":"DILECTISSIMO FILIO CALVINO PRESBITERO ALBINUS DEVOTUS IN CARITATE PATER SALUTEM.",
@@ -3137,7 +2928,6 @@
     "210":{
         "letter_num":"Ep. 210",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3152,7 +2942,6 @@
     "211":{
         "letter_num":"Ep. 211",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3167,7 +2956,6 @@
     "212":{
         "letter_num":"Ep. 212",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3182,7 +2970,6 @@
     "213":{
         "letter_num":"Ep. 213",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3197,7 +2984,6 @@
     "214":{
         "letter_num":"Ep. 214",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3212,7 +2998,6 @@
     "215":{
         "letter_num":"Ep. 215",
         "description":"Alevinus discipulis suis Romae morantibus de suo desiderio scribit. Rogat, ut pro\nse precentur. Litteras poscit. a. 801 ineunte.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 88-38's,",
         "edition":"Ed . F 180, J 160. - Migne col. 355.",
         "salutation":"CARISSIMIS IN CHRISTO FILIIS PATER PERPETUAM SALUTEM.",
@@ -3227,7 +3012,6 @@
     "216":{
         "letter_num":"Ep. 216",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3242,7 +3026,6 @@
     "217":{
         "letter_num":"Ep. 217",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3257,7 +3040,6 @@
     "218":{
         "letter_num":"Ep. 218",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3272,7 +3054,6 @@
     "219":{
         "letter_num":"Ep. 219",
         "description":"Alcvinus monachis Lirinensibus de bonae conversationis fama gratulatur, precibus\ncorum se commendat, ad mutuam caritatem et pacem eos exhortatur. ce, 801.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 42-43'\u00bb.",
         "edition":"Ed . F 216, J 249. - Migne col. 495.",
         "salutation":"RELEGIOSAE CONGREGATIONI SANCTISSIMI PATRIS HONORATI! ALCHVINUS DIACONUS SALUTEM.",
@@ -3287,7 +3068,6 @@
     "220":{
         "letter_num":"Ep. 220",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3302,7 +3082,6 @@
     "221":{
         "letter_num":"Ep. 221",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3317,7 +3096,6 @@
     "222":{
         "letter_num":"Ep. 222",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3332,7 +3110,6 @@
     "223":{
         "letter_num":"Ep. 223",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3347,7 +3124,6 @@
     "224":{
         "letter_num":"Ep. 224",
         "description":"Alevinus Chrodgario comiti scribit de discipulo ad se misso. Monet, ut Carolo im-\nperatori recta consilia det. De bello Beneventano. 801 post Apr. 4.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 65'-66.",
         "edition":"Ed . \u00a5F 187, J 165. - Migne col. 376.",
         "salutation":"VIRO LAUDABILL CHRODGARIO COMITI! ALBINUS DIACONUS SALUTEM.",
@@ -3362,7 +3138,6 @@
     "225":{
         "letter_num":"Ep. 225",
         "description":"Alevinus Theodulfo archiepiscopo Aurelianensi pallium acceptum gratulatur. De\naegrotatione sua. Monet, ut praedicationi diligenter insistat. 801 post Apr. 4.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 43'-45.",
         "edition":"Ed . F 193, J 166. - Migne col. 391.",
         "salutation":"PIO PATRI ET PRUDENTI MAGISTRO, NOBISQUE CUM OMNI AMORE AMPLECTENDO TEODULFO ARCHIEPISCOPO HUMILIS LEVITA ALCHVINUS SALUTEM.",
@@ -3377,7 +3152,6 @@
     "226":{
         "letter_num":"Ep. 226",
         "description":"Alevinus Eanbaldum II archiepiscopum Eboracensem de incommodis consolatur.\nMunera mittit. De libro missali; de ordine Romano; de adversa sua valetudine.\n\n801 post Apr. 4.\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 50-51.",
         "edition":"Ed . F 171, Haddan and Stubbs Councils IIT, 507-509, J 167. - Migne cot. 234.",
         "salutation":"ALBINUS SYMEONI! SACERDOTI SALUTEM.",
@@ -3392,7 +3166,6 @@
     "227":{
         "letter_num":"Ep. 227",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3407,7 +3180,6 @@
     "228":{
         "letter_num":"Ep. 228",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3422,7 +3194,6 @@
     "229":{
         "letter_num":"Ep. 229",
         "description":"Alevinus Carolo imperatori ex Italia reverso Candidum obviam mittit. Se propter\nsenectutem et valetudinem omnino animi saluti prospicere velle scribit; sed in coenobio\nS. Martini Turonensi manere cupit. 801 Sept. vel Oct.\n\n",
-        "mgh_date": "",
         "mss_ocr":"CodCod. H fol. 50-51.",
         "edition":"Ed Ed . F 171, Haddan and Stubbs Councils IIT, 507-509, J 167. - Migne cot. 234.",
         "salutation":null,
@@ -3437,7 +3208,6 @@
     "230":{
         "letter_num":"Ep. 230",
         "description":"Alevinus Aethelhardum archiepiscopum Cantuariensem, Romam profecturum, hortatur,\nut peracto itinere domum revertatur. Monet, ut clericos suos comites coram Carolo im-\nperatore modestos comparere iubeat. Mittit sellam et equum. Certior fieri vult, num per\nTurones Roma reversurus sit. 801.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. H fol. 57'-58', A1 fol, 125-126, A 1 p. 147-148 n. 105. Initium legitur apud Willelm.  Malmesbir, Gesta pontiff. Anglor. 1. IIT p. 247, fragm. 1. I p. 17, Gesta reg. Anglor. I \u00a7 82 p. 82 ed. Stubbs.",
         "edition":"Ed . F 62, 173, Haddan and Stubbs Councils TIE, 532, J 171. - Migne col. 257. 343.",
         "salutation":"SANCTISSIMO PATRI ET IN MEMBRIS CHRISTI VALDE VENERANDO AEDILHARDO ARCHIEPISCOPO ALCHVINUS> DIACONUS IN CHRISTI CARITATE SALUTEM.",
@@ -3452,7 +3222,6 @@
     "231":{
         "letter_num":"Ep. 231",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3467,7 +3236,6 @@
     "232":{
         "letter_num":"Ep. 232",
         "description":"Alevinus Eanbaldo II archicpiscopo Eboracensi: nuntiat Acthelhardum archicpiscopum\nCantuariensem, Romam proficiscentem, in cella S. Iudoci bene receptum esse. Addit de\neius cum Eardulfo Northanhumbrorum rege inimicitiis, Constantiam suadet. De sua\nabdicatione. 801 post Apr. 5.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 24-25'8,",
         "edition":"Ed . F 174, Haddan and Stubbs Councils IIT, 534-536, J 173. - Migne col. 345.",
         "salutation":"FILIO VOTORUM MEORUM SYMEONI SACERDOTI ALBINUS SALUTEM.",
@@ -3482,7 +3250,6 @@
     "233":{
         "letter_num":"Ep. 233",
         "description":"Alevinus Calvino presbytero et monacho S. Stephani et Cuculo scribit, commoneant\nEanbaldum IT archiepiscopum Eboracensem, ab Eardulfo rege\u2019 Northanhumbrorum in-\nfestatum, ne animo deficiat, ne alienas possessiones appetat, ne nimis multos milites alat.\nSe munus abbatis deposuisse. 801.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 61-61'.",
         "edition":"Ed . F 175, J 174, - Migne col. 247.",
         "salutation":"ALBINUS CALVINO ET CUCULO CARISSIMIS FILIIS SALUTEM.",
@@ -3497,7 +3264,6 @@
     "234":{
         "letter_num":"Ep. 234",
         "description":"Alevinus a Leone IIT papa petit, ut sibi, rerum saecularium occupatione iam liberato,\npeccata ignoscat. 801.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. Parisinus 2826 (L) fol. 137'-139 (ex quo Paris, 17448 fol. 113-114); musei Britann. Kings 6  B VIII saec, XII (K) fol. 27'-28 (ex quo A 1 p. 173-174 nv. 126).",
         "edition":"Ed , Monnier, Alewin et Charlemagne p. 371-373, J 175.",
         "salutation":"DOMINO IN DOMINO DOMINORUM\u00bb DILECTISSIMO LEONI\u00a2 PAPE@ HUMILIS LEVITA ALCHVINUS SALUTEM.",
@@ -3512,7 +3278,6 @@
     "235":{
         "letter_num":"Ep. 235",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3527,7 +3292,6 @@
     "236":{
         "letter_num":"Ep. 236",
         "description":"Alchvinus archiepiscopo cuidam se negotiis saecularibus renuntiavisse scribit. Petit,\nut pro se precetur, 801,\n",
-        "mgh_date": "",
         "mss_ocr":"Cod, H fol. 65-65'.",
         "edition":"Ed . F 168, J 176. - Migne col. 231.",
         "salutation":"SANCTISSIMO PATRI ARCHIEPISCOPO HUMILIS FILIUS ALCHVINUS SALUTEM.",
@@ -3542,7 +3306,6 @@
     "237":{
         "letter_num":"Ep. 237",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3557,7 +3320,6 @@
     "238":{
         "letter_num":"Ep. 238",
         "description":"Alevinus Carolo imperatori pro beneficiis gratias agit et ut ob corporis infirmitatem\napud S. Martinum sibi requiescere liceat supplicat. \u00a2, 801.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 37-38 (T fol. 34), L fol. 193-195%.",
         "edition":"Ed . Q 19, F 106, J 193. - Migne col. 372.",
         "salutation":"DOMINO PIISSIMO DAVID REGI! ALBINUS PERPETUAE BEATITUDINIS SALUTEM.",
@@ -3572,7 +3334,6 @@
     "239":{
         "letter_num":"Ep. 239",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3587,7 +3348,6 @@
     "240":{
         "letter_num":"Ep. 240",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3602,7 +3362,6 @@
     "241":{
         "letter_num":"Ep. 241",
         "description":"Alevinus Gundradam, Adalhardi abbatis Corbeiensis sororem, laudat et confirmat.\n\nPetit, ut se Carolo imperatori purget, quod propter valetudinem ad eum non accesserit.\n\ne. 801.\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodd. T fol. 37-38 (T fol. 34), L fol. 193-195%.",
         "edition":"Ed Ed . Q 19, F 106, J 193. - Migne col. 372.",
         "salutation":null,
@@ -3617,7 +3376,6 @@
     "242":{
         "letter_num":"Ep. 242",
         "description":"Alcvinus ad litteras per Arnonem archiepiscopum Salisburgensem missas rescribit;\nrursus praesentia cius frui desiderat. ce. 801,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. \u00a7 1 fol. 155-156' (S1 fol. 66'-69), D fol. 239'-240.",
         "edition":"Ed . M20, F 109, J 196. - Migne col. 387.",
         "salutation":"DOMINO MERITO IN MEMBRIS CHRISTI AMANTISSIMO AQUILAE ARCHIEPISCOPO ALBINUS MATRICULARIUS SANCTL MARTINI SEMPITERNAM SALUTEM.",
@@ -3632,7 +3390,6 @@
     "243":{
         "letter_num":"Ep. 243",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3647,7 +3404,6 @@
     "244":{
         "letter_num":"Ep. 244",
         "description":"Alcvinus Nathanaelem discipulum ad vitam honestam et religiosam exhortatur et\nvitare iubet columbas volitantes per cameras palatii. ce. 801-802.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 98-98'.",
         "edition":"Ed , F 186, J 179. - Migne col. 375.",
         "salutation":"DULCISSIMO FILIO MEO NATHANAHELI ALBINUS PATER SALUTEM.",
@@ -3662,7 +3418,6 @@
     "245":{
         "letter_num":"Ep. 245",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3677,7 +3432,6 @@
     "246":{
         "letter_num":"Ep. 246",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3692,7 +3446,6 @@
     "247":{
         "letter_num":"Ep. 247",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3707,7 +3460,6 @@
     "248":{
         "letter_num":"Ep. 248",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3722,7 +3474,6 @@
     "249":{
         "letter_num":"Ep. 249",
         "description":"Alevinus Carolo imperatori se fratresque S. Martini Turonenses eacusat de tumultu\nfacto contra Theodulfum episcopum Aurelianensem; veniamgue petit.\n\n801 ex. vel 802,\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 86-89s, :",
         "edition":"Ed . F 196, J 184, - Migne col. 395.",
         "salutation":"DOMINO EXCELLENTISSIMO ATQUE OMNI HONORE DIGNISSIMO CAROLO REGI IMPERATORI ATQUE AUGUSTO VICTORIOSISSIMO MAXIMO OPTIMO ATQUE SERENISSIMO ALBINUS MATRICULARIUS PRAESENTIS PROSPERITATIS ET FUTURE BEATITUDINIS AETERNAM IN DOMINO DEO CHRISTO SALUTEM.",
@@ -3737,7 +3488,6 @@
     "250":{
         "letter_num":"Ep. 250",
         "description":"Alevinus monachis Fuldensibus et pallium ad sancti Bonifatii corpus et cartulam\nmissalem mittit; eosque cohortatur, ut virtuti studeant neve Baugulfum abbatem molestent.\nResponsum postulat. - 801-802.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 55-57'.",
         "edition":"Ed . F 192, J 186. - Migne col. 382.",
         "salutation":"SANCTISSIMIS NOBISQUE CUM OMNI CARITATE COLENDIS FRATRIBUS SANCTI BONEFATII', PATRIS ET PROTECTORIS NOSTRI, HUMILIS LEVITA ALCHVINUS AETERNAE BEATITUDINIS IN CHRISTO SALUTEM.",
@@ -3752,7 +3502,6 @@
     "251":{
         "letter_num":"Ep. 251",
         "description":"Alevinus Oniae sacerdoti Candido presbytero Fredegiso diacono discipulis suis com-\nmentarium super Salomonis ecclesiasten dedicat. 801-802.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. Monacensis 14614 (S. Emmer.) s. TX. fol. 16-17' (A), Paris. 12268 s, XI. fol. 83'-84 (@), Monacensis 14478 saec. XII. fol. 40-41 (E), Paris, 17400 saec. XII(N). Eustat etiam in cod. Harleiano 213 saec. X. fol. 2-3.",
         "edition":"Ed . Quercetanus col. 309, Frobenius I, 410, J 187. - Migne cot. 667.",
         "salutation":"DILECTIS IN CHRISTO FILUS, ONIAE SACERDOTI', CANDIDO PRESBYTERO ET NATHANAHELI> DIACONO, ALBINUS PERPETUAE PROSPERITATIS IN DOMINO DEO4 SALUTEM.",
@@ -3767,7 +3516,6 @@
     "252":{
         "letter_num":"Ep. 252",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3782,7 +3530,6 @@
     "253":{
         "letter_num":"Ep. 253",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3797,7 +3544,6 @@
     "254":{
         "letter_num":"Ep. 254",
         "description":"Alevinus Arnoni archiepiscopo Salisburgensi respondet. De infidis litterarum baiulis.\nDe vita canonica et regulari se scripturum non esse; iudiciorum scientiam se non habere;\nde fide catholica se expositurum esse. De aegrotatione sua. De Caroli imperatoris volun-\ntate bona et de hominum avaritia. Rogat, ne pro iurisdictione pecuniam accipiat. De\nmuneribus gratias agit. Mittit munera et opusculum describendum. 802 Mai. 24.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, S 1 fol. 159'-162 (S 1 fol. 75-76').",
         "edition":"Ed . F 110, J 189. - Migne col. 389.",
         "salutation":"REVERENTISSIMO PATRI AQUILAE ARCHIEPISCOPO HUMILIS MATRICULARIUS ALBINUS SALUTEM.",
@@ -3812,7 +3558,6 @@
     "255":{
         "letter_num":"Ep. 255",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3827,7 +3572,6 @@
     "256":{
         "letter_num":"Ep. 256",
         "description":"Alevinus episcopo cuidam (Aethelhardo Cantuariensi?) restitutionem gratulatur ; dia-\nconum ad eum missum ei commendat. 802?\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. A 2 fol. 167-167', A 1 p. 167 n. 1194,",
         "edition":"Ed J 298,",
         "salutation":"J 298, DOMINO IN CHRISTI CARITATE DILECTISSIMO ILL. HUMILIS LEVITA ALCVINUS SALUTEM.",
@@ -3842,7 +3586,6 @@
     "257":{
         "letter_num":"Ep. 257",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3857,7 +3600,6 @@
     "258":{
         "letter_num":"Ep. 258",
         "description":"Alevinus Arnoni Salisburgensi archiepiscopo curam canonicorum, monachorum tertii-\nque gradus inter illos medit commendat; queritur de simoniaca haeresi, quae etiam in\nsedem apostolicam irrepserit. Epistolam de confessione ab Adalberto cxpetitam se iam\nmisisse, cum illo aut Adalberto librum de catholica fide conscriptum legere vult,\n\n802,\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, S 1 fol. 215'-216' (S 1 fol. 146'-148).",
         "edition":"Ed . F 116, J 192. - Migne col. 401.",
         "salutation":"VENERANDO PONTIFICI AQUILAE ALBINUS SALUTEM.",
@@ -3872,7 +3614,6 @@
     "259":{
         "letter_num":"Ep. 259",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -3887,7 +3628,6 @@
     "260":{
         "letter_num":"Ep. 260",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -3902,7 +3642,6 @@
     "261":{
         "letter_num":"Ep. 261",
         "description":"Alevinus Carolo regi per Nathanaelem ex morbo recreatum mittit novi testamenti\nlibros uno codice comprehensos. 798-803.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. T fol. 38-38' (T fol. 34'), L fol. 195-196',",
         "edition":"Ed . Q 20, F 103, J 205. - Migne col. 368.",
         "salutation":"DOMINO DESIDERANTISSIMO MERITOQUE AMABILI DAVID REGI ALBINUS PRAESENTIS PROSPERITATIS ET AETERNAE BEATITUDINIS IN CHRISTO SALUTEM.",
@@ -3917,7 +3656,6 @@
     "262":{
         "letter_num":"Ep. 262",
         "description":"Alevinus Nathanaeli mandat, ut codicem libros novi testamenti comprehendentem\nnatali Christi die Aquisgrani Carolo regi offerat. Gislae abbatissae Calensi sorori regis\net Rotrudae eiusdem filiae salutem ascribit. 798-803.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 63'-64.",
         "edition":"Ed . F 185, J 206. - Migne col. 374.",
         "salutation":"ALBINUS NATHANAEL] SALUTEM.",
@@ -3932,7 +3670,6 @@
     "263":{
         "letter_num":"Ep. 263",
         "description":"Alevinus Remedium episcopum Curiensem ut pro se precetur rogat. 801-803.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 64'-65.",
         "edition":"Ed . F 200, J 262. - Migne col. 446.",
         "salutation":"DESIDERANTISSIMO PATRI REMEDIO EPISCOPO CURIAE CIVITATIS\u2019 HUMILIS LEVITA ALCVINUS SALUTEM.",
@@ -3947,7 +3684,6 @@
     "264":{
         "letter_num":"Ep. 264",
         "description":"Alevinus Arnoni archiepiscopo Salisburgensi se litteras eius familiares per Adal-\nwinum episcopum ad 8. Martinum venientem accepisse nuntiat. Odulfum comitem, capella-\nnos, monachos S. Hrotberti de officiis admonere exoptat. 803? ante diem 13. Aprilis.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. 81 fol. 214-215' (S 1 fol. 143'-146').",
         "edition":"Ed . M 24, F 113, J 202. - Migne col. 402.",
         "salutation":"SANCTISSIMO PATRI AQUILAE ARCHIPONTIFICATUS HONORE SUBLIMATO HUMILIS LEVITA ALBINUS AETERNAE PACIS ET PROSPERITATIS SALUTEM.",
@@ -3962,7 +3698,6 @@
     "265":{
         "letter_num":"Ep. 265",
         "description":"Alevinus Arnonem archiepiscopum Salisburgensem propter occupationes saeculares\nafflictum consolatur. Litteras per Adalwinum episcopum missas commemorat; pro casula\ngratam spondet memoriam. 803? April. 13.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. 81 fol, 216'-219' (S 1 fol. 148-153').",
         "edition":"Ed , M25, F 114, J 203, - Migne col. 404.",
         "salutation":"DOMINO DESIDERABILITER HONORABILI ET HONORABILITER DESIDERABILI AQUILAE ARCHIEPISCOPO HUMILIS LEVITA ALBINUS SALUTEM.",
@@ -3977,7 +3712,6 @@
     "266":{
         "letter_num":"Ep. 266",
         "description":"Alevinus Arnonem archiepiscopum Salisburgensem rogat, ut pro se tanquam sene in-\nfirmo precetur; duo vascula mensalia ei mittit. ce. 803?\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. S 1 fol. 219'-220' (S 1 fol. 153'-155).",
         "edition":"Ed , M 26, F 115, J 204. - Migne col. 406.",
         "salutation":"DILECTISSIMO FILIO AQUILAE ARCHISACERDOTI ALBINUS IN DOMINO SALUTEM.",
@@ -3992,7 +3726,6 @@
     "267":{
         "letter_num":"Ep. 267",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4007,7 +3740,6 @@
     "268":{
         "letter_num":"Ep. 268",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4022,7 +3754,6 @@
     "269":{
         "letter_num":"Ep. 269",
         "description":"Alevinus Elegio episcopo et fratribus eius de mutua caritate et vita angelica seribit.\nPipinum filium de emendatione morum admonitum vult. -804.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. Bruwell. 5354 saec. IX. f.7' quond. conventus Sigeberg., quem descripserunt Bethmann et Jaff\u00e9.",
         "edition":"Ed . Nolte, L\u2019avenir catholique du 17. juin 1869 p. 233, Biblioth. de V\u00e9cole des chartes XXXI, 267",
         "salutation":"SANCTISSIMO PATRI ELEGIO EPISCOPO CUM OMNIBUS SANCTAE CONVERSATIONIS FRATRIBUS HUMILIS LEVITA ALCHVINUS SALUTEM.",
@@ -4037,7 +3768,6 @@
     "270":{
         "letter_num":"Ep. 270",
         "description":"Alevinus discipulum quendam ad virtutem hortatur. -804,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. viblioth. Minervae Romanae BIV 18 mbr. saec, IX. f. 173 - 173! hic illic detritus et laesus; descripserunt Bethnann, Gardthausen, Ewald,",
         "edition":"Ed J 301.",
         "salutation":"J 301. ALBINUS VITULO! SALUTEM.",
@@ -4052,7 +3782,6 @@
     "271":{
         "letter_num":"Ep. 271",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4067,7 +3796,6 @@
     "272":{
         "letter_num":"Ep. 272",
         "description":"Alevinus monachos Montis- Olivi abbatemque Olomundum in familiaritatem recipit\n\net ut pro fide catholica militent et in observantia regulari perseverent, hortatur.\n\n-804.\n",
-        "mgh_date": "",
         "mss_ocr":"Cod, H fol. 36'-38\u00b0.",
         "edition":"Ed , F 223, J.270. - Migne col. 503.",
         "salutation":"RELIGIOSIS FRATRIBUS, DEO ET SANCTO IOHANNI PRAECURSORI CHRISTI SERVIENTIBUS , HOUMILIS SERVULUS EIUSDEM CHRISTI ET PRAECURSORIS EIUS ALCHVINUS SALUTEM.",
@@ -4082,7 +3810,6 @@
     "273":{
         "letter_num":"Ep. 273",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4097,7 +3824,6 @@
     "274":{
         "letter_num":"Ep. 274",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4112,7 +3838,6 @@
     "275":{
         "letter_num":"Ep. 275",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -4127,7 +3852,6 @@
     "276":{
         "letter_num":"Ep. 276",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4142,7 +3866,6 @@
     "277":{
         "letter_num":"Ep. 277",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4157,7 +3880,6 @@
     "278":{
         "letter_num":"Ep. 278",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4172,7 +3894,6 @@
     "279":{
         "letter_num":"Ep. 279",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4187,7 +3908,6 @@
     "280":{
         "letter_num":"Ep. 280",
         "description":"Alevinus monachis Hiberniensibus de fama optimae conversationis per Dungal epi-\nscopum delata gratulatur, ad fidem catholicam studiaque litterarum colenda hortatur; quae\nvita principum, monachorum, monialium, omnium christianorum esse debeat, docet.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 81-834, \u00a2. 792-804.",
         "edition":"Ed . \u00a5F 221, J 217. - Migne col. 500.",
         "salutation":"NOBILISSIMIS SANCTAE ECCLESIAE FILS, QUI PER LATITUDINEM HIBERNIENSIS INSULAE DEO CHRISTO RELIGIOSA CONVERSATIONE ET SAPIENTIAE STUDUS SERVIRE VIDENTUR, HUMILIS LEVITA ALCHVINUS PERPETUAE PROSPERITATIS IN DOMINO SALUTEM.",
@@ -4202,7 +3922,6 @@
     "281":{
         "letter_num":"Ep. 281",
         "description":"Alevinus discipulum in Italia peregrinantem ad vitam recte agendam litterasque\ncolendas exhortatur. Studia olim communia in memoriam revocat. 793-804,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod, H fol. 107-109.",
         "edition":"Ed : F 230, J 289. - Migne col. 175.",
         "salutation":"PATER FILIO, PACIFICUS PEREGRINO, MAGISTER DISCIPULO, SOCIUS SOCIO PEREGRINATIONIS SEMPITERNAM SALUTEM.",
@@ -4217,7 +3936,6 @@
     "282":{
         "letter_num":"Ep. 282",
         "description":"Alevinus Friduino S. Petri Wiremuthensi et S. Pauli Girwensi abbati constituto\ngratulatur. Monet, ut officia exsequatur precesque pro se faciat. 793-804,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod, H fol. 98'-99'.",
         "edition":"Ed . F 220, J 273. - Migne col. 498.",
         "salutation":"SANCTISSIMO PATRI FRIDUINO OLIM NOTUS ET SEMPER AMICUS ALCHVINUS SALUTEM.",
@@ -4232,7 +3950,6 @@
     "283":{
         "letter_num":"Ep. 283",
         "description":"Alevinus Eanulfum presbyterum Anglicum rogat, ut pro se precetur; ad caritatem\nfraternam et curam animarum hortatur. 793-804,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 99'-100.",
         "edition":"Ed , F 226, J 281. - Migne col. 507.",
         "salutation":"DULCISSIMO FRATRI EANULFO PRESBITERO ALBINUS SALUTEM.",
@@ -4247,7 +3964,6 @@
     "284":{
         "letter_num":"Ep. 284",
         "description":"Alevinus monachos S. Petri Wiremuthenses rogat, ut sui meminerint. Monasterium\neorum laudibus prosequitur. Virtutem suadet. 798-804.,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 30-31'.",
         "edition":"Ed . F 219, Haddan and Stubbs Councils III, 470, J 274. - Migne col. 167.",
         "salutation":"SANCTISSIMIS IN SANCTI PETRI ECCLESIA FRATRIBUS DEO SERVIENTIBUS HUMILIS CLIEN- TELLUS ALCHVINUS PERPETUAE GLORIAE SALUTEM.",
@@ -4262,7 +3978,6 @@
     "285":{
         "letter_num":"Ep. 285",
         "description":"Alevinus Higbaldo episcopo Lindisfarnensi scribit de suo in eum amore. Admoni-\ntiones addit. 793-803.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 31'-32'.",
         "edition":"Ed . F 205, J 201. - Migne col. 244.",
         "salutation":"DILECTISSIMO PATRI SPERATO EPISCOPO FIDELIS AMICUS ALCHVINUS SALUTEM.",
@@ -4277,7 +3992,6 @@
     "286":{
         "letter_num":"Ep. 286",
         "description":"Alevinus monachos Girwenses hortatur, ut promissi memores pro se precentur.\nAdmonitiones addit. 793-804.\n\n",
-        "mgh_date": "",
         "mss_ocr":"CodCod. H fol. 31'-32'.",
         "edition":"Ed Ed . F 205, J 201. - Migne col. 244.",
         "salutation":null,
@@ -4292,7 +4006,6 @@
     "287":{
         "letter_num":"Ep. 287",
         "description":"Alevinus monachos Anglosaxontcos coenobii Mugensis in Hibernia siti ad perseveran-\ntiam et officia persequenda cohortatur. 793 -804,\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodCod. H fol. 31'-32'.",
         "edition":"Ed Ed Ed . F 205, J 201. - Migne col. 244.",
         "salutation":null,
@@ -4307,7 +4020,6 @@
     "288":{
         "letter_num":"Ep. 288",
         "description":"Alevinus archiepiscopum quendam Anglicum ad praedicandi studium cohortatur; pro\nmuneribus gratias agit. 793-804,\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, A 1 fol. 131'-132', A I p. 155-156 mr. 110%,",
         "edition":"Ed J 297.",
         "salutation":"J 297. DOMINO PATRI ILL.\u00bb ARCHIEPISCOPO HUMILIS LEVITA ALCHVINUS\u00a2 SALUTEM.",
@@ -4322,7 +4034,6 @@
     "289":{
         "letter_num":"Ep. 289",
         "description":"Alcvinus Fredegiso discipulo quaestiones de sancta Trinitate dedicat.\n793-804.\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. Christ. reg. Vatic. 191 fol. 62 (R), S. Galli 272 p. 202-203 (G), Trecens. 1528 fol. 73'-74 (T), Monac. (S. Emmerammi) 14614 f. 218'-219' (A), Monae. (Salisburg.) 15813 fol. 86-86' (S), Monac. 14510 (E), fol. 160'-161, Valentian. 187 (242) fol. 70, Veron. LXVII s, IX.",
         "edition":"Ed . Quercetanus col. 759-762, Frobenius I, 739, J 258. - Migne CI, col. 57.",
         "salutation":"DESIDERANTISSIMO FILIO> FREDEGISO ALBINUS SALUTEM.",
@@ -4337,7 +4048,6 @@
     "290":{
         "letter_num":"Ep. 290",
         "description":"Alevinus Aethelhardum archiepiscopum Cantuariensem hortatur, ut ligaturas ferri\npopulique conventicula in regionibus montanis agi vetet. 793-804,\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, A 1 fol. 126-127, A 1 p. 148-149 n. 1069,",
         "edition":"Ed J 219,",
         "salutation":"J 219, DOMINO PATRI AEDELHARDO ARCHIEPISCOPO! ALQUINUS SALUTEM.",
@@ -4352,7 +4062,6 @@
     "291":{
         "letter_num":"Ep. 291",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4367,7 +4076,6 @@
     "292":{
         "letter_num":"Ep. 292",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4382,7 +4090,6 @@
     "293":{
         "letter_num":"Ep. 293",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4397,7 +4104,6 @@
     "294":{
         "letter_num":"Ep. 294",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4412,7 +4118,6 @@
     "295":{
         "letter_num":"Ep. 295",
         "description":"Alevinus discipuli prodigi perversos mores reprehendit et ad vitae emendationem cum\nhortatur exemplo cuiusdam nunc episcopi olim condiscipuli eius. c. 796-804,\n\n \n\n5,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. H fol. 67'-69', T fol. 107'- 109, S1 fol. 202'-205 (S 1 fol. 128'-135), D fol, 233!-",
         "edition":"Ed . Q 103, F 158, J 223. - Migne col. 482.",
         "salutation":"FILIO PRODIGO' PATER LUGENS SALUTEM.",
@@ -4427,7 +4132,6 @@
     "296":{
         "letter_num":"Ep. 296",
         "description":"Alevinus monachis S. Vedasti Atrebatensibus mittit versus in ecclesia a Radone\nabbate denuo aedificata inscribendos; et missas, partim e missali libro petitas partim a\nse scriptas. Addit de admonitione homiliari postea scribenda. \u00a2. 796-804.\n\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodd. H fol. 67'-69', T fol. 107'- 109, S1 fol. 202'-205 (S 1 fol. 128'-135), D fol, 233!-",
         "edition":"Ed Ed . Q 103, F 158, J 223. - Migne col. 482.",
         "salutation":null,
@@ -4442,7 +4146,6 @@
     "297":{
         "letter_num":"Ep. 297",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4457,7 +4160,6 @@
     "298":{
         "letter_num":"Ep. 298",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4472,7 +4174,6 @@
     "299":{
         "letter_num":"Ep. 299",
         "description":"MANUAL CHECK NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL CHECK NEEDED",
         "edition":"MANUAL CHECK NEEDED",
         "salutation":"MANUAL CHECK NEEDED",
@@ -4487,7 +4188,6 @@
     "300":{
         "letter_num":"Ep. 300",
         "description":"Alevinus Aedilburgae abbatissae Flaedanbyrgensi, Offaec Merciorum quondam regis\nfiliae, pro muneribus missis gratias agit. De regum iniuriis eam consolatur. Addit de\nomisso ab ea itinere. 797-804,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. H fol. 22'-24, T fol. 103'-104, A I p. 164-165 n. 116%,",
         "edition":"Ed . Q 100, F 147, J 229. - Migne col. 468.",
         "salutation":"ALBINUS EUGENIAE FILIAE VIRGINI CARISSIMAE IN CHRISTO SALUTEM.",
@@ -4502,7 +4202,6 @@
     "301":{
         "letter_num":"Ep. 301",
         "description":"Alevinus Alchardi Elmhamensis et Tifredi Dummocensis episcoporum amori se com-\nmendat. De Lullo abbate. 798-804,\n\n",
-        "mgh_date": "",
         "mss_ocr":"CodCodd. H fol. 22'-24, T fol. 103'-104, A I p. 164-165 n. 116%,",
         "edition":"Ed Ed . Q 100, F 147, J 229. - Migne col. 468.",
         "salutation":null,
@@ -4517,7 +4216,6 @@
     "302":{
         "letter_num":"Ep. 302",
         "description":"Alevinus Ardbertum virum illustrem laudat et admonet; Lullum abbatem commendat,\n\n798-804.\n",
-        "mgh_date": "",
         "mss_ocr":"Cod. H fol. 48'-49'.",
         "edition":"Ed . F 207, J 231. -~ Migne col. 492.",
         "salutation":"ALCHVINUS SANCTI MARTINI FAMULUS ARDBERTO? VIRO INLUSTRI PERPETUAE BEATITUDINIS SALUTEM.",
@@ -4532,7 +4230,6 @@
     "303":{
         "letter_num":"Ep. 303",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4547,7 +4244,6 @@
     "304":{
         "letter_num":"Ep. 304",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4562,7 +4258,6 @@
     "305":{
         "letter_num":"Ep. 305",
         "description":"Alevinus Widoni Britannici limitis comiti ab eo rogatus librum de virtutibus et\nvitiis saepius legendum mittit. ce, 801-804.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, S. Galli 146 s. IX. p. 120-121 (A), S. Galli 677 s, X. p. 132-137 (G), Monac. 4601. (Bene- dictobur.) s. X. fol. 102-102', Trec. 1742 8, IX. fol. 5-6 (I), Matritens. A 151 s. IX-X. (M), Epored. 30 (1), Carnot. 113 s. IX. (C).",
         "edition":"Ed . Margar. de la Bigne Bibliothecae SS. patrum append. col. 1091-1092 (sine epilogo) ; Quer-",
         "salutation":null,
@@ -4577,7 +4272,6 @@
     "306":{
         "letter_num":"Ep. 306",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4592,7 +4286,6 @@
     "307":{
         "letter_num":"Ep. 307",
         "description":"Alevinus Carolo imperatori respondet ad magistri Gracci quaestionem de salutis\n\nhumanae pretio, quod a Paulo apostolo in prima ad Corinthios epistola commemoratur.\n\n801-804.\n",
-        "mgh_date": "",
         "mss_ocr":"Codd, P fol. 95-101 (P f. 56'-61).",
         "edition":"Ed , Baluzius Miscell. I, 365-374, F 126, J 240. - Migne col, 431.",
         "salutation":"IN NOMINE DEI CHRISTI SALVATORIS MUNDI. DAVID, CHRISTO DOMINI, ALBINUS PERPETUAE PACIS ET PROSPERITATIS IN DOMINO SALUTEM.",
@@ -4607,7 +4300,6 @@
     "308":{
         "letter_num":"Ep. 308",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
@@ -4622,7 +4314,6 @@
     "309":{
         "letter_num":"Ep. 309",
         "description":"Alevinus Gundradae virgini nobili ab ea rogatus de animae ratione exponit, admoni-\ntiones addit. 801-804,\n\n",
-        "mgh_date": "",
         "mss_ocr":"Codd. Monac. (S. Emmer.) 14614 3, IX. fol. 226-242 (A), Monac. (S. Emmer.) 14510 s. IX. fol. 168- 186 (E), Monae. (Salisburg.) 15813 fol. 90'-102 (8), S. Galli 272 s. IX. p. 214-242 (G), Trecensis 1528 s. IX. fol. 81--97' (T), Romanus Minervae B IV 18 s. IX. (R), Valentianensis 187 (242) saec. IX. fol. 76 (V). Exstat etiam in codd. Musei Britann, Harleiano 4980 saec. IX. fol. 131' sqq., Trecensi 1165 saec. 1X., Pari- sino 5577 fol. 101-112, Parisino 2341 saec. IX. fol. 169, Parisino 2390 s. XI. fol. 79 sq., Paris. 2849 s. IX. fol. 42, Musei Britann. Addit. 18327 s, XII. fol. 86'-94, Kings libr. 6 B VIII s. XII. fol. 52-57%.",
         "edition":"Ed . Quercetanus col. 769-782, Frobenius II, 146-153, J 243. - Migne CI, col. 639 sqq.",
         "salutation":"CARISSIMAE IN CHRISTI CARITATE SORORI EULALIAE VIRGINI' ALBINUS IN DOMINO SALUTEM.",
@@ -4637,7 +4328,6 @@
     "310":{
         "letter_num":"Ep. 310",
         "description":"MANUAL VALIDATION NEEDED",
-        "mgh_date": "",
         "mss_ocr":"MANUAL VALIDATION NEEDED",
         "edition":"MANUAL VALIDATION NEEDED",
         "salutation":"MANUAL VALIDATION NEEDED",
