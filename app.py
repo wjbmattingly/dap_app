@@ -23,6 +23,7 @@ st.sidebar.header("Choose App Task")
 
 options = st.sidebar.selectbox("Select Mode",
                     ("Letter Mode", "NER Mode", "Side-by-Side Mode", "Alcuin's Epistolary Network", "Textual Network", "Database Mode", "About Project", "How to Contribute", "Sources for Data", "Version History"))
+st.sidebar.write("<br>", unsafe_allow_html=True)
 
 if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side Mode":
     with open ("data/scrip_refs_pages_clean.json", "r") as f:
