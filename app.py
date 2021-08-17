@@ -38,7 +38,7 @@ if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side
     letter_nums.sort()
     add_selectbox = st.selectbox("Select Letter", letter_nums)
 
-    df = pd.read_json("data/dap_dataset.json")
+    df = pd.read_json("data/dap_dataset.json", orient="index")
 
     ep_file = add_selectbox.split(".")[1].strip()
     grab_file = f"data/cleaned_letters/cleaned_letters_{ep_file}.txt"
@@ -70,6 +70,10 @@ if options == "Letter Mode" or options == "NER Mode" or options == "Side-by-Side
 
     expand_people = st.expander("People Referenced (PASE Data)")
     expand_people.markdown(f"People Referenced: {all_html}", unsafe_allow_html=True)
+
+    expand_data = st.expander("Dates")
+    expand_data.write(f"MGH Date: "+ letter_data.iloc[0]["mgh_date"])
+
     if options == "Letter Mode" or options == "NER Mode":
         desc = letter_data.iloc[0]["description"]
         st.write(f"Description: {desc}")
@@ -219,7 +223,7 @@ elif options == "Textual Network":
 elif options == "Database Mode":
     st.write("Welcome to the database. Here you can search and find all letters that reference a specific person or you can find all letters that are preserved in a specific manuscript. You can select multiple options. If Strict Search On is selected, all conditions must be True for a result to populate. If it is not selected, then any of the conditions can be true.")
     st.header("Database Mode")
-    df = pd.read_json("data/dap_dataset.json")
+    df = pd.read_json("data/dap_dataset.json", orient="index")
     df = df.fillna(" ")
     manuscripts = list(df["valid_mss"])
 
